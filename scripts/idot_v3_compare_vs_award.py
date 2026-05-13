@@ -29,6 +29,7 @@ import numpy as np
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from idot_v3_improved_system import IDOTv3System, normalize_firm_name
 from idot_v4_alternates_system import IDOTv4System
+from idot_v5_cooldown_system import IDOTv5System
 
 
 # --------------------------------------------------------------------------
@@ -64,7 +65,10 @@ def run_comparison(start_bulletin, end_bulletin,
                    data_dir='../data/', output_dir='../results/',
                    model_version='v3'):
 
-    if model_version == 'v4':
+    if model_version == 'v5':
+        system = IDOTv5System()
+        version_label = 'IDOT V5 (V4 + quarterly cooldown)'
+    elif model_version == 'v4':
         system = IDOTv4System()
         version_label = 'IDOT V4 (V3 + weighted alternates)'
     else:

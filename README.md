@@ -6,18 +6,19 @@ plus Ollama-LLM-derived training insights.
 
 ## Headline Results
 
-| Metric | V3 | **V4** (alternates as soft wins) |
-|---|---|---|
-| Real Top-3 accuracy (PTB190–200, vs award.xlsx) | 31.4% | **36.0%** |
-| Winner-in-Top-3 accuracy (PTB190–200) | 16.8% | 16.5% |
-| Phase 2.1 fuzzy-metric Top-3 (PTB190–200) | 86.1% | — |
-| Phase 2.1 fuzzy-metric Top-3 (PTB180–190) | 83.7% | — |
-| Random-baseline | ~1.5% | ~1.5% |
+| Metric | V3 | V4 | **V5** (current) |
+|---|---|---|---|
+| Real Top-3 (PTB190–200, vs award.xlsx) | 31.4% | 36.0% | **43.0%** |
+| Winner-in-Top-3 (PTB190–200) | 16.8% | 16.5% | **20.2%** |
+| Random baseline | ~1.5% | ~1.5% | ~1.5% |
 
-V4 = V3 + First Alternate (0.5 weight) and Second Alternate (0.3 weight)
-folded into training (district-wins, prequal-wins, RAG firm pointers).
+**V3** = TF-IDF RAG + district/prequal win counts (winners only)
+**V4** = V3 + First/Second Alternates as 0.5/0.3-weighted soft wins
+**V5** = V4 + IDOT quarterly cooldown rule: a firm that wins in bulletin N
+is hard-filtered out of bulletin N+1 (across all districts/prequal types).
+
 Real ground truth = SELECTED FIRM + First Alternate + Second Alternate
-columns in `data/award.xlsx`. Random baseline ≈ 3/200 eligible firms.
+columns in `data/award.xlsx`.
 
 > **About the two metrics.** The original Phase 2.1 benchmark scored a prediction
 > as correct if the model's top-3 matched **any** firm whose job number
@@ -44,7 +45,8 @@ RAG+Ollama/
 ├── scripts/
 │   ├── idot_v3_improved_system.py         ← V3 engine (SELECTED FIRM only)
 │   ├── idot_v4_alternates_system.py       ← V4 engine (+ weighted alternates)
-│   ├── idot_v3_compare_vs_award.py        ← side-by-side vs award.xlsx (supports v3 or v4)
+│   ├── idot_v5_cooldown_system.py         ← V5 engine (+ quarterly cooldown filter)
+│   ├── idot_v3_compare_vs_award.py        ← side-by-side vs award.xlsx (v3 | v4 | v5)
 │   └── …(historical/exploratory scripts)
 ├── results/                               ← generated Excel (gitignored)
 └── documentation/
@@ -55,14 +57,11 @@ RAG+Ollama/
 ```bash
 cd scripts
 
-# 1) Run V3 vs real IDOT results
+# Run the current best (V5) vs real IDOT results
+python3 idot_v3_compare_vs_award.py 190 200 v5
+
+# Also supports v3, v4 for A/B comparison
 python3 idot_v3_compare_vs_award.py 190 200 v3
-
-# 2) Run V4 (V3 + weighted alternates) vs real IDOT results
-python3 idot_v3_compare_vs_award.py 190 200 v4
-
-# 3) Just print V3 accuracy on Phase 2.1's old fuzzy metric
-python3 idot_v3_improved_system.py
 ```
 
 The comparison script writes a multi-sheet Excel into `results/`:
@@ -108,7 +107,7 @@ The comparison script writes a multi-sheet Excel into `results/`:
 | Sub-consultants | not used | use 70.9%-coverage `SUBCONSULTANTS` column to learn team-frequency |
 | Fee Estimate | not used | size-bracket categorical feature |
 | First / Second Alternate | **DONE in V4** | weighted 0.5 / 0.3 in district-wins, prequal-wins, RAG |
-| District-rotation rule | soft-scored only | hard-filter recent district winners |
+| Quarterly cooldown rule | **DONE in V5** | hard-filter firms that won in bulletin N-1 |
 | DBE detection | not used | parse bulletin for DBE-required, prefer DBE primes |
 | Geographic distance | coarse | city→county distance instead of just district letter |
 | Temporal decay | linear | exponential decay `0.95^Δbulletin` |
