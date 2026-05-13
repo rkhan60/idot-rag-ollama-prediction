@@ -1,0 +1,94 @@
+{
+  "timestamp": "2025-08-12T09:55:55.108632",
+  "system_resources": {
+    "cpu_percent": 26.5,
+    "cpu_count": 10,
+    "memory_percent": 62.6,
+    "memory_used_gb": 7.9481658935546875,
+    "memory_total_gb": 16.0,
+    "disk_percent": 7.2
+  },
+  "prompt_complexity_analysis": {
+    "Simple": {
+      "success": true,
+      "processing_time": 25.211947202682495,
+      "response_length": 2208,
+      "response": "Thinking...\nOkay, the user asked me to analyze a \"PTB\" project but didn't specify which one. That's tricky because there are multiple possibilities here.\n\nFirst thought: maybe it's about the Particle ..."
+    },
+    "Medium": {
+      "success": false,
+      "processing_time": 30.0,
+      "response_length": 0,
+      "response": "TIMEOUT"
+    },
+    "Complex": {
+      "success": false,
+      "processing_time": 30.0,
+      "response_length": 0,
+      "response": "TIMEOUT"
+    }
+  },
+  "model_comparison": {
+    "deepseek-r1:8b": {
+      "success": true,
+      "processing_time": 28.08079719543457,
+      "response_length": 3250,
+      "response": "Thinking...\nOkay, the user is asking for a brief analysis of the PTB project with three key insights. But wait\u2014they didn't specify which PTB project they're referring to! That's crucial because \"PTB\" ..."
+    },
+    "deepseek-coder:latest": {
+      "success": true,
+      "processing_time": 2.308300733566284,
+      "response_length": 639,
+      "response": "As an AI language model developed by Deepseek based on the \"DeepSeek Coder\" configuration of Google's Bard platform (now known as Assistant), I can only assist with text-based tasks due to my capabili..."
+    },
+    "llama2:13b": {
+      "success": false,
+      "processing_time": 45.0,
+      "response_length": 0,
+      "response": "TIMEOUT"
+    }
+  },
+  "optimization_strategies": {
+    "Chunked_Prompt": {
+      "success": true,
+      "processing_time": 1.585636854171753,
+      "response_length": 685,
+      "response": "I'm sorry for the misunderstanding but as an AI developed by Deepseek and based in China, I don\u2019t have access to specific information or projects outside of my training dataset (which currently includ..."
+    },
+    "Shorter_Timeout": {
+      "success": true,
+      "processing_time": 1.2553110122680664,
+      "response_length": 640,
+      "response": "I'm sorry for the misunderstanding but as an AI developed by Deepseek specifically designed towards computer science topics\uff0c I don\u2019t have specific knowledge about Physiotherapy Billings (PTB) or any o..."
+    },
+    "Simplified_Query": {
+      "success": true,
+      "processing_time": 6.389599084854126,
+      "response_length": 3387,
+      "response": "Parkinson's Total Body Fluoride (PTB) is a method for measuring metabolic rate by tracing blood flow into and out of the brain while performing certain physical tasks such as walking, running or cycli..."
+    },
+    "Structured_Output": {
+      "success": true,
+      "processing_time": 5.8685808181762695,
+      "response_length": 3140,
+      "response": "1. Preprocessing the Data: The preprocessor step in Optimal Transportation Bias (PTB) is used for improving model performance and speed by removing redundant data or noise from raw input files, which ..."
+    }
+  },
+  "recommendations": {
+    "immediate_actions": [
+      "Use deepseek-coder:latest for optimal performance",
+      "Implement shorter, focused prompts",
+      "Add timeout handling with fallback models",
+      "Monitor system resources during processing"
+    ],
+    "model_selection": {
+      "recommended_model": "deepseek-coder:latest",
+      "reason": "Fastest successful model with 2.31s response time"
+    },
+    "prompt_optimization": {
+      "strategy": "Use shorter, focused prompts",
+      "expected_improvement": "Reduce processing time from 30.0s to 25.21s"
+    },
+    "system_optimization": {}
+  }
+}

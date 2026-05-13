@@ -1,0 +1,3336 @@
+{
+  "District 1": [
+    {
+      "firm_code": "F001",
+      "firm_name": "\"T\" Engineering Service, Ltd.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F002",
+      "firm_name": "10-4 Engineering, PLLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F003",
+      "firm_name": "1st AEROW Valuation Group",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F004",
+      "firm_name": "2IM GROUP",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F005",
+      "firm_name": "4HD INC",
+      "district": "District 1",
+      "city": "Lombard",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F006",
+      "firm_name": "A3 Environmental, LLC",
+      "district": "District 1",
+      "city": "Lisle",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F007",
+      "firm_name": "AAA ENGINEERING",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F009",
+      "firm_name": "Acclaim Collier Engineering",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F013",
+      "firm_name": "ADO ENGINEERING",
+      "district": "District 1",
+      "city": "South Elgin",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F014",
+      "firm_name": "ADVANCE CONSULTING GROUP INTL",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F015",
+      "firm_name": "AECOM TECHNICAL SERVICES, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F016",
+      "firm_name": "Allied Engineering P.C.",
+      "district": "District 1",
+      "city": "Aurora",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F017",
+      "firm_name": "AltusWorks, Inc.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F018",
+      "firm_name": "American Engineering Consultants, Inc.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F021",
+      "firm_name": "AMERICAN SURVEYING & ENGINEERING, Ltd.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F022",
+      "firm_name": "American Veteran Engineering LLC",
+      "district": "District 1",
+      "city": "Lombard",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F023",
+      "firm_name": "AMES ENGINEERING, INC.",
+      "district": "District 1",
+      "city": "Downers Grove",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F026",
+      "firm_name": "APEX CONSULTING ENGINEERS, L.L.C.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F028",
+      "firm_name": "APPLIED GEOSCIENCE, INCORPORATED",
+      "district": "District 1",
+      "city": "Schaumburg",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F031",
+      "firm_name": "APS CONSULTING, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F032",
+      "firm_name": "Aqua Vitae Engineering, LLC",
+      "district": "District 1",
+      "city": "Arlington Heights",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F035",
+      "firm_name": "ARK ENGINEERING ASSOCIATES, LTD.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F038",
+      "firm_name": "ASK Engineering, PLLC",
+      "district": "District 1",
+      "city": "Glen Ellyn",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F039",
+      "firm_name": "ASM CONSULTANTS, INC.",
+      "district": "District 1",
+      "city": "Batavia",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F040",
+      "firm_name": "AtkinsRéalis USA Inc.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F041",
+      "firm_name": "ATLAS ENGINEERING GROUP",
+      "district": "District 1",
+      "city": "Deerfield",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F042",
+      "firm_name": "Atlas Technical Consultants LLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F046",
+      "firm_name": "BAUER LATOZA STUDIO, LTD.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F047",
+      "firm_name": "BAXTER & WOODMAN, INC.",
+      "district": "District 1",
+      "city": "Crystal Lake",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F049",
+      "firm_name": "BEAMAN INCORPORATED",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F051",
+      "firm_name": "BENESCH, ALFRED & CO.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F054",
+      "firm_name": "BLA, Inc.",
+      "district": "District 1",
+      "city": "Itasca",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F055",
+      "firm_name": "BLANK, WESSELINK, COOK & ASSOC, INC",
+      "district": "District 1",
+      "city": "Mt Zion",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F056",
+      "firm_name": "BLOOM COMPANIES, LLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F057",
+      "firm_name": "Bollman Engineering, PLLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F058",
+      "firm_name": "Bowman Consulting Group",
+      "district": "District 1",
+      "city": "Lisle",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F059",
+      "firm_name": "Bravo Company Engineering, Inc.",
+      "district": "District 1",
+      "city": "Lisle",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F063",
+      "firm_name": "Bulthuis Realty Consultants, Inc.",
+      "district": "District 1",
+      "city": "Lombard",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F064",
+      "firm_name": "BUREAU VERITAS NORTH AMERICA, INC.",
+      "district": "District 1",
+      "city": "Lisle",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F066",
+      "firm_name": "Burns & McDonnell Engineering Company, Inc.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F073",
+      "firm_name": "CDM SMITH INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F074",
+      "firm_name": "CEMCON LTD.",
+      "district": "District 1",
+      "city": "Aurora",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F076",
+      "firm_name": "CERA Solutions",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F081",
+      "firm_name": "CHAWLA AND ASSOCIATES, INC.",
+      "district": "District 1",
+      "city": "Glenview",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F082",
+      "firm_name": "CHICAGO METRO REALTY VALUATION CORP.",
+      "district": "District 1",
+      "city": "Northbrook",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F084",
+      "firm_name": "CHIN, R. M. & ASSOC., INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F085",
+      "firm_name": "CIORBA GROUP, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F086",
+      "firm_name": "Civil & Environmental Consultants, Inc.",
+      "district": "District 1",
+      "city": "Naperville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F088",
+      "firm_name": "CIVILTECH ENGINEERING, INC.",
+      "district": "District 1",
+      "city": "Itasca",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F089",
+      "firm_name": "CKL Engineers, LLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F093",
+      "firm_name": "COLLINS ENGINEERS, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F095",
+      "firm_name": "COMPASS, LTD.",
+      "district": "District 1",
+      "city": "Aurora",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F096",
+      "firm_name": "Comprehensive Construction Consulting, Inc.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F097",
+      "firm_name": "COTTER CONSULTING, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F103",
+      "firm_name": "D'ESCOTO, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F104",
+      "firm_name": "DAMA CONSULTANTS, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F106",
+      "firm_name": "DAVID ENGINEERING, LLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F108",
+      "firm_name": "DB Engineering & Consulting USA Inc.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F110",
+      "firm_name": "DELTA ENGINEERING GROUP, LLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F112",
+      "firm_name": "DESIGN CONSULTING ENGINEERS, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F115",
+      "firm_name": "DJ Howard & Associates, Inc.",
+      "district": "District 1",
+      "city": "Highland",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F116",
+      "firm_name": "DLZ ILLINOIS, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F118",
+      "firm_name": "DOLAND ENGINEERING, LLC",
+      "district": "District 1",
+      "city": "Palatine",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F119",
+      "firm_name": "DONOHUE & ASSOCIATES, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F120",
+      "firm_name": "DYNASTY GROUP, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F121",
+      "firm_name": "Eco Solutions Inc",
+      "district": "District 1",
+      "city": "Downers Grove",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F122",
+      "firm_name": "ECS Midwest, LLC",
+      "district": "District 1",
+      "city": "Buffalo Grove",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F128",
+      "firm_name": "ENGINEERING RESOURCE ASSOC., INC.",
+      "district": "District 1",
+      "city": "Warrenville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F129",
+      "firm_name": "ENGINEERING SERVICES GROUP, INC.",
+      "district": "District 1",
+      "city": "Aurora",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F130",
+      "firm_name": "ENVIRONMENTAL DESIGN INTERNATIONAL",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F131",
+      "firm_name": "EPSTEIN, A. & SONS INTERN., INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F135",
+      "firm_name": "exp US Services, Inc.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F136",
+      "firm_name": "Facet Engineering, LLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F139",
+      "firm_name": "FLUIDCLARITY",
+      "district": "District 1",
+      "city": "Oak Park",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F140",
+      "firm_name": "Foundation Mechanics, LLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F141",
+      "firm_name": "Fresh Coast Capital, LLC d/b/a Greenprint Partners",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F143",
+      "firm_name": "GANDHI & ASSOC., INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F145",
+      "firm_name": "GARZA KARHOFF ENGINEERING, LLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F146",
+      "firm_name": "Gasperec Elberts Consulting, LLC",
+      "district": "District 1",
+      "city": "Downers Grove",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F148",
+      "firm_name": "GEI Consultants, Inc.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F149",
+      "firm_name": "GEO SERVICES, INC.",
+      "district": "District 1",
+      "city": "Naperville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F155",
+      "firm_name": "GEWALT HAMILTON ASSOC., INC.",
+      "district": "District 1",
+      "city": "Vernon Hills",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F156",
+      "firm_name": "GFT Infrastructure, Inc",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F157",
+      "firm_name": "GLOBETROTTERS ENGINEERING CORP.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F160",
+      "firm_name": "GRAEF-USA INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F163",
+      "firm_name": "GROUND ENGINEERING CONSULTANTS INC.",
+      "district": "District 1",
+      "city": "Northbrook",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F164",
+      "firm_name": "GSG CONSULTANTS, INC.",
+      "district": "District 1",
+      "city": "Schaumburg",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F165",
+      "firm_name": "Guidehouse Inc.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F166",
+      "firm_name": "Gulaid Consulting Engineers, P.C.",
+      "district": "District 1",
+      "city": "Elgin",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F167",
+      "firm_name": "H K M Engineers, LLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F168",
+      "firm_name": "H.N.T.B. CORP.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F169",
+      "firm_name": "HAMPTON, LENZINI AND RENWICK, INC.",
+      "district": "District 1",
+      "city": "Elgin",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F173",
+      "firm_name": "HBK ENGINEERING, LLC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F183",
+      "firm_name": "HITCHCOCK DESIGN GROUP",
+      "district": "District 1",
+      "city": "Naperville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F186",
+      "firm_name": "HR Green, Inc.",
+      "district": "District 1",
+      "city": "Aurora",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F188",
+      "firm_name": "HUFF & HUFF, INC.",
+      "district": "District 1",
+      "city": "Oak Brook",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F192",
+      "firm_name": "IMAGES, INC.",
+      "district": "District 1",
+      "city": "Naperville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F196",
+      "firm_name": "INFRASTRUCTURE ENGINEERING, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F197",
+      "firm_name": "Innleadair, LLC",
+      "district": "District 1",
+      "city": "Rolling Meadows",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F200",
+      "firm_name": "Iteris, Inc.",
+      "district": "District 1",
+      "city": "Geneva",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F202",
+      "firm_name": "JACOBS ENGINEERING GROUP, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F203",
+      "firm_name": "JACOBS/RYAN ASSOCIATES",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F206",
+      "firm_name": "JGMA",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F207",
+      "firm_name": "JLL Valuation & Advisory Services LLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F208",
+      "firm_name": "Johnson Lasky Kindelin Architects, Inc.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F211",
+      "firm_name": "Juli Ordower Landscape Architecture LLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F213",
+      "firm_name": "KAD Engineering PLLC",
+      "district": "District 1",
+      "city": "Downers Grove",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F214",
+      "firm_name": "Kaletech",
+      "district": "District 1",
+      "city": "Aurora",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F217",
+      "firm_name": "KDM Engineering, PLLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F219",
+      "firm_name": "KIMLEY-HORN AND ASSOC., INC.",
+      "district": "District 1",
+      "city": "Warrenville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F221",
+      "firm_name": "KPFF, Inc. dba KPFF Consulting Engineers",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F224",
+      "firm_name": "LAKESHORE ENGINEERING, LLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F226",
+      "firm_name": "LANDRUM & BROWN, INCORPORATED",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F228",
+      "firm_name": "Larson Engineering, Inc.",
+      "district": "District 1",
+      "city": "Naperville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F229",
+      "firm_name": "LEGAT ARCHITECTS, INC.",
+      "district": "District 1",
+      "city": "Gurnee",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F231",
+      "firm_name": "LIN, T. Y. INTERN.GREAT LAKES, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F233",
+      "firm_name": "LOCHNER, H. W., INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F234",
+      "firm_name": "LORENZ and ASSOCIATES, LTD.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F235",
+      "firm_name": "M SQUARED ENGINEERING, LLC",
+      "district": "District 1",
+      "city": "Itasca",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F240",
+      "firm_name": "MARCHESE AND SONS, INC.",
+      "district": "District 1",
+      "city": "Roselle",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F248",
+      "firm_name": "MATERIAL SERVICE TESTING, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F255",
+      "firm_name": "Metro Strategies Group, LLC",
+      "district": "District 1",
+      "city": "Downers Grove",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F256",
+      "firm_name": "Michael Baker International, Inc.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F257",
+      "firm_name": "MIDLAND STANDARD ENG. & TESTING",
+      "district": "District 1",
+      "city": "South Elgin",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F261",
+      "firm_name": "MILHOUSE ENG. & CONSTRUCTION, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F266",
+      "firm_name": "MORRIS ENGINEERING, INC.",
+      "district": "District 1",
+      "city": "Lisle",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F267",
+      "firm_name": "Mott MacDonald, LLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F270",
+      "firm_name": "MULLER & MULLER, LTD.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F271",
+      "firm_name": "Muse Community + Design",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F277",
+      "firm_name": "Omni Ecosystems",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F279",
+      "firm_name": "Onyx Architectural Services",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F281",
+      "firm_name": "ORION ENGINEERS LLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F282",
+      "firm_name": "OSEH INC.",
+      "district": "District 1",
+      "city": "Wheaton",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F284",
+      "firm_name": "PARSONS TRANSPORTATION GROUP, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F285",
+      "firm_name": "PATRICK ENGINEERING, INC.",
+      "district": "District 1",
+      "city": "Lisle",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F286",
+      "firm_name": "PDF Engineering, LLC",
+      "district": "District 1",
+      "city": "Glenview",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F287",
+      "firm_name": "PERALTE-CLARK LLC",
+      "district": "District 1",
+      "city": "Arlington Heights",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F289",
+      "firm_name": "Pin Point Precision",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F292",
+      "firm_name": "Polach Appraisal Group, Inc.",
+      "district": "District 1",
+      "city": "Elmhurst",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F296",
+      "firm_name": "PRIMERA ENGINEERS, LTD.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F297",
+      "firm_name": "Princeton Technical Services, Inc.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F299",
+      "firm_name": "Purpose Brand LLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F301",
+      "firm_name": "Quandel Consultants, Inc.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F305",
+      "firm_name": "Range Engineering Inc",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F309",
+      "firm_name": "RJN GROUP, INC.",
+      "district": "District 1",
+      "city": "Downers Grove",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F311",
+      "firm_name": "RS&H, Inc.",
+      "district": "District 1",
+      "city": "St. Charles",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F312",
+      "firm_name": "RTM Engineering Consultants, LLC",
+      "district": "District 1",
+      "city": "Schaumburg",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F313",
+      "firm_name": "RUBINO ENGINEERING, INC.",
+      "district": "District 1",
+      "city": "Elgin",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F314",
+      "firm_name": "RUBINOS & MESIA ENGINEERS, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F316",
+      "firm_name": "Salem Land",
+      "district": "District 1",
+      "city": "Naperville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F317",
+      "firm_name": "Sam Schwartz Engineering, D.P.C",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F320",
+      "firm_name": "Saray Design Group, Inc.",
+      "district": "District 1",
+      "city": "Naperville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F322",
+      "firm_name": "SDI ENGR",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F323",
+      "firm_name": "SE3, LLC",
+      "district": "District 1",
+      "city": "Lisle",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F324",
+      "firm_name": "SHANNON & WILSON, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F329",
+      "firm_name": "Shonkwiler & Shonkwiler Appraisers",
+      "district": "District 1",
+      "city": "Glen Ellyn",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F331",
+      "firm_name": "Simpson Gumpertz & Heger lnc.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F332",
+      "firm_name": "SINGH & ASSOC., INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F333",
+      "firm_name": "SITE DESIGN GROUP, LTD",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F334",
+      "firm_name": "SKI Engineering, LLC",
+      "district": "District 1",
+      "city": "Schaumburg",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F336",
+      "firm_name": "SmithGroup, Inc.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F337",
+      "firm_name": "SOIL AND MATERIAL CONSULTANTS, INC.",
+      "district": "District 1",
+      "city": "Arlington Heights",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F338",
+      "firm_name": "SPAAN TECH, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F340",
+      "firm_name": "SQN ASSOCIATES, LLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F342",
+      "firm_name": "STANLEY CONSULTANTS, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F343",
+      "firm_name": "Stantec Architecture Inc.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F344",
+      "firm_name": "STANTEC CONSULTING SERVICES",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F346",
+      "firm_name": "STERLIN, DB CONSULTANTS, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F348",
+      "firm_name": "Strata Earth Services, LLC",
+      "district": "District 1",
+      "city": "Palatine",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F350",
+      "firm_name": "STV Architects, Inc.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F351",
+      "firm_name": "STV INCORPORATED",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F353",
+      "firm_name": "SW CONSULTING & ENGINEERING SERVICES, LLC dba SWE SOLUTIONS",
+      "district": "District 1",
+      "city": "Naperville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F355",
+      "firm_name": "Synnov Group, Inc.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F356",
+      "firm_name": "T&I Engineers, LLC",
+      "district": "District 1",
+      "city": "Hoffman Estates",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F358",
+      "firm_name": "Talman Consultants LLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F359",
+      "firm_name": "TECMA ASSOCIATES",
+      "district": "District 1",
+      "city": "Schaumburg",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F360",
+      "firm_name": "TERRA ENGINEERING, LTD.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F362",
+      "firm_name": "TESKA ASSOC., INC.",
+      "district": "District 1",
+      "city": "Evanston",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F363",
+      "firm_name": "TESTING SERVICE CORPORATION",
+      "district": "District 1",
+      "city": "Carol Stream",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F365",
+      "firm_name": "The HOH Group, Inc.",
+      "district": "District 1",
+      "city": "Schaumburg",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F366",
+      "firm_name": "THE LAKOTA GROUP, INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F367",
+      "firm_name": "The Roderick Group, LLC dba Ardmore Roderick",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F368",
+      "firm_name": "The W-T Group, LLC",
+      "district": "District 1",
+      "city": "Hoffman Estates",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F370",
+      "firm_name": "THOMAS ENGINEERING GROUP, LLC",
+      "district": "District 1",
+      "city": "Oak Park",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F376",
+      "firm_name": "TOWER ENGINEERING GROUP, LLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F377",
+      "firm_name": "TransLand Engineering Group, LLC",
+      "district": "District 1",
+      "city": "Lisle",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F378",
+      "firm_name": "TranSmart, LLC",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F379",
+      "firm_name": "TRANSYSTEMS CORPORATION",
+      "district": "District 1",
+      "city": "Schaumburg",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F382",
+      "firm_name": "Triple D Valuation Services, INC.",
+      "district": "District 1",
+      "city": "Downers Grove",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F384",
+      "firm_name": "True North Consultants, Inc.",
+      "district": "District 1",
+      "city": "Naperville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F391",
+      "firm_name": "Valdes Engineering Company",
+      "district": "District 1",
+      "city": "Lombard",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F393",
+      "firm_name": "VANDERSTAPPEN SURVEYING, INC.",
+      "district": "District 1",
+      "city": "Woodstock",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F397",
+      "firm_name": "WANG ENGINEERING, INC.",
+      "district": "District 1",
+      "city": "Lombard",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F398",
+      "firm_name": "WATTS, J. A., INC.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F399",
+      "firm_name": "WBK Engineering, LLC",
+      "district": "District 1",
+      "city": "St. Charles",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F401",
+      "firm_name": "WEINBACH, DANIEL & PARTNERS, LTD.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F412",
+      "firm_name": "WISS, JANNEY, ELSTNER ASSOC., INC",
+      "district": "District 1",
+      "city": "Northbrook",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F415",
+      "firm_name": "WSP USA Inc.",
+      "district": "District 1",
+      "city": "Chicago",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F010",
+      "firm_name": "ACCURATE GROUP, INC.",
+      "district": "District 1",
+      "city": "Lincolnshire",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F025",
+      "firm_name": "Angelo Construction Services, Inc.",
+      "district": "District 1",
+      "city": "Braodview",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F065",
+      "firm_name": "BURKE, CHRISTOPHER B. ENG., LTD.",
+      "district": "District 1",
+      "city": "Rosemont",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F071",
+      "firm_name": "CCS International, Inc.",
+      "district": "District 1",
+      "city": "Oakbrook Terrace",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F078",
+      "firm_name": "CGMT, Inc.",
+      "district": "District 1",
+      "city": "Elk Grove Village",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F083",
+      "firm_name": "CHICAGO TESTING LABORATORY, INC.",
+      "district": "District 1",
+      "city": "Thornton",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F127",
+      "firm_name": "ENGINEERING ENTERPRISES, INC.",
+      "district": "District 1",
+      "city": "Sugar Grove",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F170",
+      "firm_name": "HANCOCK, EDWIN ENGINEERING CO.",
+      "district": "District 1",
+      "city": "Westchester",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F174",
+      "firm_name": "HBM ENGINEERING GROUP, LLC",
+      "district": "District 1",
+      "city": "Hillside",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F175",
+      "firm_name": "HDR ENGINEERING, INC.",
+      "district": "District 1",
+      "city": "Rosemont",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F176",
+      "firm_name": "HEINZ, GERALD L. & ASSOC., INC",
+      "district": "District 1",
+      "city": "East Dundee",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F181",
+      "firm_name": "HEY AND ASSOC., INC.",
+      "district": "District 1",
+      "city": "Volo",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F191",
+      "firm_name": "Illinois Construction & Environmental Consulting, Inc.",
+      "district": "District 1",
+      "city": "Wheeling",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F194",
+      "firm_name": "Indigo Ecologica Design, LLC",
+      "district": "District 1",
+      "city": "Tower Lakes",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F218",
+      "firm_name": "KENIG LINDGREN OHARA ABOONA (KLOA)",
+      "district": "District 1",
+      "city": "Rosemont",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F238",
+      "firm_name": "MACKIE CONSULTANTS, LLC",
+      "district": "District 1",
+      "city": "Rosemont",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F239",
+      "firm_name": "MANHARD CONSULTING, LTD.",
+      "district": "District 1",
+      "city": "Lincolnshire",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F249",
+      "firm_name": "MATERIAL SOLUTIONS LABORATORY CORP.",
+      "district": "District 1",
+      "city": "Elk Grove Village",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F265",
+      "firm_name": "Morreale Communications",
+      "district": "District 1",
+      "city": "Rosemont",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F303",
+      "firm_name": "R & G ENGINEERING, LLC",
+      "district": "District 1",
+      "city": "Oakbrook Terrace",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F318",
+      "firm_name": "SANCHEZ & ASSOCIATES, P.C.",
+      "district": "District 1",
+      "city": "Elk Grove Village",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F339",
+      "firm_name": "SPACECO, INC.",
+      "district": "District 1",
+      "city": "Rosemont",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F345",
+      "firm_name": "State Materials Engineering, LLC (DBA S.T.A.T.E. Testing, LLC",
+      "district": "District 1",
+      "city": "East Dundee",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F369",
+      "firm_name": "The Woodard Group, Inc.",
+      "district": "District 1",
+      "city": "Sugar Grove",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F372",
+      "firm_name": "THOMSON SURVEYING, LTD.",
+      "district": "District 1",
+      "city": "Rosemont",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F404",
+      "firm_name": "WESTON SOLUTIONS, INC",
+      "district": "District 1",
+      "city": "Lincolnshire",
+      "state": "IL",
+      "status": "FIXED"
+    }
+  ],
+  "District 3": [
+    {
+      "firm_code": "F008",
+      "firm_name": "ABNA ENGINEERING, INC.",
+      "district": "District 3",
+      "city": "Burr Ridge",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F060",
+      "firm_name": "Brorsen Appraisal Service, P.C.",
+      "district": "District 3",
+      "city": "Bourbonnais",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F090",
+      "firm_name": "CLAASSEN, WHITE & ASSOCIATES, P.C.",
+      "district": "District 3",
+      "city": "Joliet",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F101",
+      "firm_name": "Czaplicki Lopez, PLLC",
+      "district": "District 3",
+      "city": "Burr Ridge",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F102",
+      "firm_name": "D. L. DuBOIS & ASSOCIATES, LTD.",
+      "district": "District 3",
+      "city": "Hickory Hills",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F117",
+      "firm_name": "DLZ Industrial Surveying, Inc.",
+      "district": "District 3",
+      "city": "Joliet",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F132",
+      "firm_name": "Equity Network, Inc",
+      "district": "District 3",
+      "city": "New Lenox",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F150",
+      "firm_name": "GEOCON PROFESSIONAL SERVICES, LLC",
+      "district": "District 3",
+      "city": "Frankfort",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F177",
+      "firm_name": "HELIX ENGINEERING LLC",
+      "district": "District 3",
+      "city": "Plainfield",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F199",
+      "firm_name": "INTERRA, Inc.",
+      "district": "District 3",
+      "city": "Bolingbrook",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F205",
+      "firm_name": "Jay Heap & Associates, Ltd.",
+      "district": "District 3",
+      "city": "Morris",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F215",
+      "firm_name": "KALGEN CONSULTANTS, INC.",
+      "district": "District 3",
+      "city": "Woodridge",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F236",
+      "firm_name": "M. GINGERICH GEREAUX & ASSOCIATES",
+      "district": "District 3",
+      "city": "Bradley",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F272",
+      "firm_name": "NASHnal Soil Testing, LLC",
+      "district": "District 3",
+      "city": "Plainfield",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F274",
+      "firm_name": "NOVOTNY, FRANK & ASSOCIATES, INC.",
+      "district": "District 3",
+      "city": "Willowbrook",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F288",
+      "firm_name": "Piggush Engineering, Inc.",
+      "district": "District 3",
+      "city": "Kankakee",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F306",
+      "firm_name": "RENWICK & ASSOC., INC.",
+      "district": "District 3",
+      "city": "Ottawa",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F310",
+      "firm_name": "ROBINSON ENGINEERING, LTD.",
+      "district": "District 3",
+      "city": "Frankfort",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F354",
+      "firm_name": "Swanson and Brown, Ltd.",
+      "district": "District 3",
+      "city": "Palos Heights",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F385",
+      "firm_name": "TWIG TECHNOLOGIES LLC DBA RT&A",
+      "district": "District 3",
+      "city": "Shorewood",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F388",
+      "firm_name": "UPLAND DESIGN LTD.",
+      "district": "District 3",
+      "city": "Plainfield",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F390",
+      "firm_name": "V3 Companies, Ltd.",
+      "district": "District 3",
+      "city": "Woodridge",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F037",
+      "firm_name": "ARTISAN CONSULTING ENGINEERS, LLC",
+      "district": "District 3",
+      "city": "Chapin",
+      "state": "IL",
+      "status": "FIXED"
+    }
+  ],
+  "District 6": [
+    {
+      "firm_code": "F027",
+      "firm_name": "API SURVEY LLC",
+      "district": "District 6",
+      "city": "Nashville",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F048",
+      "firm_name": "Baysinger Architects, LLC",
+      "district": "District 6",
+      "city": "Marion",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F061",
+      "firm_name": "BROWN & ROBERTS, INC.",
+      "district": "District 6",
+      "city": "Harrisburg",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F134",
+      "firm_name": "Executive Real Estate Consulting Services, Inc. (ERCS)",
+      "district": "District 6",
+      "city": "Belleville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F159",
+      "firm_name": "GONZALEZ COMPANIES, LLC",
+      "district": "District 6",
+      "city": "Belleville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F178",
+      "firm_name": "HENEGHAN AND ASSOC., P.C.",
+      "district": "District 6",
+      "city": "Jerseyville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F184",
+      "firm_name": "HOLCOMB FOUNDATION ENGINEERING CO.",
+      "district": "District 6",
+      "city": "Carbondale",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F185",
+      "firm_name": "HORNER & SHIFRIN, INC.",
+      "district": "District 6",
+      "city": "O'Fallon",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F201",
+      "firm_name": "J.T. Blankinship Inc",
+      "district": "District 6",
+      "city": "Murphysboro",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F212",
+      "firm_name": "JUNEAU ASSOC., INC., P.C.",
+      "district": "District 6",
+      "city": "Granite City",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F216",
+      "firm_name": "KASKASKIA ENGINEERING GROUP, LLC",
+      "district": "District 6",
+      "city": "Belleville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F232",
+      "firm_name": "Lochmueller Group, Inc.",
+      "district": "District 6",
+      "city": "Edwardsville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F244",
+      "firm_name": "Marvin R. Jenkins & Assoc. Inc.",
+      "district": "District 6",
+      "city": "Centralia",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F254",
+      "firm_name": "MECO ENGINEERING COMPANY, INC.",
+      "district": "District 6",
+      "city": "Pittsfield",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F263",
+      "firm_name": "MODJESKI & MASTERS, INC.",
+      "district": "District 6",
+      "city": "Edwardsville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F276",
+      "firm_name": "OATES ASSOC., INC.",
+      "district": "District 6",
+      "city": "Collinsville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F321",
+      "firm_name": "SCI ENGINEERING, INC.",
+      "district": "District 6",
+      "city": "O'Fallon",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F325",
+      "firm_name": "SHAWNEE SURVEY & CONSULTING, INC.",
+      "district": "District 6",
+      "city": "Vienna",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F326",
+      "firm_name": "SHEPPARD, MORGAN & SCHWAAB, INC.",
+      "district": "District 6",
+      "city": "Alton",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F327",
+      "firm_name": "SHERRILL ASSOC., INC.",
+      "district": "District 6",
+      "city": "Edwardsville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F371",
+      "firm_name": "Thompson Civil, LLC",
+      "district": "District 6",
+      "city": "Belleville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F373",
+      "firm_name": "THOUVENOT, WADE AND MOERCHEN, INC.",
+      "district": "District 6",
+      "city": "Swansea",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F396",
+      "firm_name": "Volkert, Inc.",
+      "district": "District 6",
+      "city": "Collinsville",
+      "state": "IL",
+      "status": "VALID"
+    }
+  ],
+  "District 2": [
+    {
+      "firm_code": "F033",
+      "firm_name": "ARC DESIGN RESOURCES, INC.",
+      "district": "District 2",
+      "city": "Loves Park",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F077",
+      "firm_name": "CES, INC.",
+      "district": "District 2",
+      "city": "Belvidere",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F138",
+      "firm_name": "FEHR-GRAHAM & ASSOC. LLC",
+      "district": "District 2",
+      "city": "Rockford",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F193",
+      "firm_name": "IMEG Consultants Corp.",
+      "district": "District 2",
+      "city": "Rockford",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F227",
+      "firm_name": "LARSON AND DARBY, INC.",
+      "district": "District 2",
+      "city": "Rockford",
+      "state": "IL",
+      "status": "VALID"
+    }
+  ],
+  "District 4": [
+    {
+      "firm_code": "F179",
+      "firm_name": "HENRY, MEISENHEIMER & GENDE, INC.",
+      "district": "District 4",
+      "city": "Breese",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F189",
+      "firm_name": "HURST-ROSCHE, INC.",
+      "district": "District 4",
+      "city": "Hillsboro",
+      "state": "IL",
+      "status": "FIXED"
+    },
+    {
+      "firm_code": "F024",
+      "firm_name": "ANDREWS ENGINEERING, INC.",
+      "district": "District 4",
+      "city": "Springfield",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F029",
+      "firm_name": "APPLIED PAVEMENT TECHNOLOGY, INC.",
+      "district": "District 4",
+      "city": "Champaign",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F030",
+      "firm_name": "APPLIED RESEARCH ASSOCIATES, INC",
+      "district": "District 4",
+      "city": "Champaign",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F036",
+      "firm_name": "Arora and Associates, P.C.",
+      "district": "District 4",
+      "city": "Springfield",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F052",
+      "firm_name": "BENTON ENGINEERING",
+      "district": "District 4",
+      "city": "Jacksonville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F053",
+      "firm_name": "BERNS, CLANCY & ASSOC., P.C.",
+      "district": "District 4",
+      "city": "Urbana",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F062",
+      "firm_name": "BRUNER, COOPER & ZUCK, INC.",
+      "district": "District 4",
+      "city": "Galesburg",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F079",
+      "firm_name": "CHAMLIN & ASSOC., INC.",
+      "district": "District 4",
+      "city": "Peru",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F080",
+      "firm_name": "Chastain & Associates LLC",
+      "district": "District 4",
+      "city": "Decatur",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F091",
+      "firm_name": "CLARK DIETZ, INC.",
+      "district": "District 4",
+      "city": "Champaign",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F098",
+      "firm_name": "CRAWFORD, MURPHY, & TILLY, INC.",
+      "district": "District 4",
+      "city": "Springfield",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F099",
+      "firm_name": "CUMMINS ENGINEERING CORPORATION",
+      "district": "District 4",
+      "city": "Springfield",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F107",
+      "firm_name": "David Peshkin PLLC",
+      "district": "District 4",
+      "city": "Champaign",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F109",
+      "firm_name": "DECA Properties",
+      "district": "District 4",
+      "city": "Peoria",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F114",
+      "firm_name": "Dewberry Engineers Inc.",
+      "district": "District 4",
+      "city": "Peoria",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F124",
+      "firm_name": "Elder Valuation Services",
+      "district": "District 4",
+      "city": "Springfield",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F133",
+      "firm_name": "ESCA CONSULTANTS, INC.",
+      "district": "District 4",
+      "city": "Urbana",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F137",
+      "firm_name": "FARNSWORTH GROUP, INC.",
+      "district": "District 4",
+      "city": "Bloomington",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F142",
+      "firm_name": "FUHRMANN ENGINEERING, INC.",
+      "district": "District 4",
+      "city": "Springfield",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F161",
+      "firm_name": "GREENE & BRADFORD, INC., OF SPFLD.",
+      "district": "District 4",
+      "city": "Springfield",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F171",
+      "firm_name": "HANSON PROFESSIONAL SERVICES INC.",
+      "district": "District 4",
+      "city": "Springfield",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F180",
+      "firm_name": "HERMANN & ASSOCIATES, LLC",
+      "district": "District 4",
+      "city": "Peoria Heights",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F190",
+      "firm_name": "HUTCHISON ENGINEERING, INC.",
+      "district": "District 4",
+      "city": "Jacksonville",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F220",
+      "firm_name": "KLINGNER & ASSOC., P.C.",
+      "district": "District 4",
+      "city": "Quincy",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F223",
+      "firm_name": "Kuhn & Trello Consulting Engineers, LLC",
+      "district": "District 4",
+      "city": "Springfield",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F243",
+      "firm_name": "MARTIN, RUSSELL W. ENGINEERING P.C.",
+      "district": "District 4",
+      "city": "Springfield",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F247",
+      "firm_name": "MASSIE, MASSIE & ASSOC., INC.",
+      "district": "District 4",
+      "city": "Springfield",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F250",
+      "firm_name": "MAURER-STUTZ, INC.",
+      "district": "District 4",
+      "city": "Peoria",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F258",
+      "firm_name": "MIDWEST ENGINEERING & TESTING, INC.",
+      "district": "District 4",
+      "city": "Champaign",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F259",
+      "firm_name": "MIDWEST ENGINEERING ASSOC. INC.",
+      "district": "District 4",
+      "city": "East Peoria",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F262",
+      "firm_name": "MILLENNIA PROF. SERVICES, LTD.",
+      "district": "District 4",
+      "city": "Morton",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F264",
+      "firm_name": "MOHR & KERR ENG. & LAND SURVEYING",
+      "district": "District 4",
+      "city": "Peoria",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F290",
+      "firm_name": "Planning & Valuation Consultants, Inc.",
+      "district": "District 4",
+      "city": "Bloomington",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F291",
+      "firm_name": "POEPPING, STONE, BACH & ASSOC., INC",
+      "district": "District 4",
+      "city": "Quincy",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F302",
+      "firm_name": "QUIGG ENGINEERING, INC.",
+      "district": "District 4",
+      "city": "Springfield",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F335",
+      "firm_name": "SKS Engineers LLC",
+      "district": "District 4",
+      "city": "Decatur",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F394",
+      "firm_name": "VEENSTRA & KIMM, INC.",
+      "district": "District 4",
+      "city": "Springfield",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F400",
+      "firm_name": "Webster & Associates, Inc.",
+      "district": "District 4",
+      "city": "Urbana",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F408",
+      "firm_name": "WHKS & CO.",
+      "district": "District 4",
+      "city": "Springfield",
+      "state": "IL",
+      "status": "VALID"
+    },
+    {
+      "firm_code": "F414",
+      "firm_name": "WSP USA Environment & Infrastructure Inc.",
+      "district": "District 4",
+      "city": "Peoria",
+      "state": "IL",
+      "status": "VALID"
+    }
+  ],
+  "Unknown": [
+    {
+      "firm_code": "F198",
+      "firm_name": "InNova Consulting, Inc.",
+      "district": "Unknown",
+      "city": "Lincolnwood",
+      "state": "IL",
+      "status": "UNKNOWN"
+    },
+    {
+      "firm_code": "F209",
+      "firm_name": "JORGENSEN & ASSOC., INC.",
+      "district": "Unknown",
+      "city": "Lake Villa",
+      "state": "IL",
+      "status": "UNKNOWN"
+    },
+    {
+      "firm_code": "F230",
+      "firm_name": "LIN ENGINEERING, LTD.",
+      "district": "Unknown",
+      "city": "Westmont",
+      "state": "IL",
+      "status": "UNKNOWN"
+    },
+    {
+      "firm_code": "F245",
+      "firm_name": "MAS Engineering PLLC",
+      "district": "Unknown",
+      "city": "Paris",
+      "state": "IL",
+      "status": "UNKNOWN"
+    },
+    {
+      "firm_code": "F260",
+      "firm_name": "MILANO & GRUNLOH ENGRS., LLC",
+      "district": "Unknown",
+      "city": "Effingham",
+      "state": "IL",
+      "status": "UNKNOWN"
+    },
+    {
+      "firm_code": "F283",
+      "firm_name": "Parametrix, Inc.",
+      "district": "Unknown",
+      "city": "Park Rige",
+      "state": "IL",
+      "status": "UNKNOWN"
+    },
+    {
+      "firm_code": "F293",
+      "firm_name": "POSTL - YORE AND ASSOCIATES, INC",
+      "district": "Unknown",
+      "city": "Island Lake",
+      "state": "IL",
+      "status": "UNKNOWN"
+    },
+    {
+      "firm_code": "F294",
+      "firm_name": "Potts, Smoot & Crawford Civil Engineering & Land Surveying",
+      "district": "Unknown",
+      "city": "Carterville",
+      "state": "IL",
+      "status": "UNKNOWN"
+    },
+    {
+      "firm_code": "F295",
+      "firm_name": "Prairie Engineers, P.C.",
+      "district": "Unknown",
+      "city": "Columbia",
+      "state": "IL",
+      "status": "UNKNOWN"
+    },
+    {
+      "firm_code": "F298",
+      "firm_name": "Program Management & Control Services, LLC (PMCS)",
+      "district": "Unknown",
+      "city": "La Grange",
+      "state": "IL",
+      "status": "UNKNOWN"
+    },
+    {
+      "firm_code": "F319",
+      "firm_name": "Santacruz Land Acquisitions",
+      "district": "Unknown",
+      "city": "Northfield",
+      "state": "IL",
+      "status": "UNKNOWN"
+    },
+    {
+      "firm_code": "F361",
+      "firm_name": "TERRACON CONSULTANTS, INC.",
+      "district": "Unknown",
+      "city": "Glendale Heights",
+      "state": "IL",
+      "status": "UNKNOWN"
+    },
+    {
+      "firm_code": "F381",
+      "firm_name": "Triant Professional Services, PLLC",
+      "district": "Unknown",
+      "city": "Lansing",
+      "state": "IL",
+      "status": "UNKNOWN"
+    },
+    {
+      "firm_code": "F383",
+      "firm_name": "TROTTER AND ASSOCIATES, INC.",
+      "district": "Unknown",
+      "city": "Saint Charles",
+      "state": "IL",
+      "status": "UNKNOWN"
+    },
+    {
+      "firm_code": "F387",
+      "firm_name": "UPCHURCH GROUP, The,  INC.",
+      "district": "Unknown",
+      "city": "Mattoon",
+      "state": "IL",
+      "status": "UNKNOWN"
+    },
+    {
+      "firm_code": "F392",
+      "firm_name": "Valu Pros",
+      "district": "Unknown",
+      "city": "Byron",
+      "state": "IL",
+      "status": "UNKNOWN"
+    },
+    {
+      "firm_code": "F410",
+      "firm_name": "WIGHT AND COMPANY",
+      "district": "Unknown",
+      "city": "Darien",
+      "state": "IL",
+      "status": "UNKNOWN"
+    },
+    {
+      "firm_code": "F411",
+      "firm_name": "WILLETT, HOFMANN & ASSOC., INC.",
+      "district": "Unknown",
+      "city": "Dixon",
+      "state": "IL",
+      "status": "UNKNOWN"
+    }
+  ],
+  "Out of State": [
+    {
+      "firm_code": "F011",
+      "firm_name": "Acumen Building Enterprise, Inc.",
+      "district": "Out of State",
+      "city": "Oakland",
+      "state": "CA",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F012",
+      "firm_name": "Added Dimension, LLC.",
+      "district": "Out of State",
+      "city": "St. Charles",
+      "state": "MO",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F019",
+      "firm_name": "American Engineering Testing, Inc.",
+      "district": "Out of State",
+      "city": "Saint Paul",
+      "state": "MN",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F020",
+      "firm_name": "AMERICAN STRUCTUREPOINT, INC.",
+      "district": "Out of State",
+      "city": "Indianapolis",
+      "state": "IN",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F034",
+      "firm_name": "ARCADIS U.S., Inc.",
+      "district": "Out of State",
+      "city": "Los Angeles",
+      "state": "CA",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F043",
+      "firm_name": "AYRES ASSOCIATES, INC.",
+      "district": "Out of State",
+      "city": "Eau Claire",
+      "state": "WI",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F044",
+      "firm_name": "BACON FARMER WORKMAN ENGR. & TESTNG",
+      "district": "Out of State",
+      "city": "Paducah",
+      "state": "KY",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F045",
+      "firm_name": "Bartlett & West, Inc.",
+      "district": "Out of State",
+      "city": "Jefferson City",
+      "state": "MO",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F050",
+      "firm_name": "BEHNKE MATERIALS ENGINEERING, LLC",
+      "district": "Out of State",
+      "city": "Beloit",
+      "state": "WI",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F067",
+      "firm_name": "C.C. Johnson & Malhotra, P.C.",
+      "district": "Out of State",
+      "city": "Rockville",
+      "state": "MD",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F068",
+      "firm_name": "Cambridge Systematics, Inc.",
+      "district": "Out of State",
+      "city": "Medford",
+      "state": "MA",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F069",
+      "firm_name": "CBB",
+      "district": "Out of State",
+      "city": "St. Louis",
+      "state": "MO",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F070",
+      "firm_name": "CBRE, Inc",
+      "district": "Out of State",
+      "city": "Milwaukee",
+      "state": "WI",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F072",
+      "firm_name": "CDG Engineers, Inc",
+      "district": "Out of State",
+      "city": "St. Louis",
+      "state": "MO",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F075",
+      "firm_name": "CEP Engineering, LLC",
+      "district": "Out of State",
+      "city": "Madison",
+      "state": "WI",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F087",
+      "firm_name": "CIVIL DESIGN, INC.",
+      "district": "Out of State",
+      "city": "Saint Louis",
+      "state": "MO",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F092",
+      "firm_name": "Colliers Engineering & Design, Inc.",
+      "district": "Out of State",
+      "city": "Holmdel",
+      "state": "NJ",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F094",
+      "firm_name": "Commonwealth Associates, Inc.",
+      "district": "Out of State",
+      "city": "Jackson",
+      "state": "MI",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F100",
+      "firm_name": "CUSTOM ENGINEERING, INC.",
+      "district": "Out of State",
+      "city": "Independence",
+      "state": "MO",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F105",
+      "firm_name": "Dan Brown and Associates, LLC",
+      "district": "Out of State",
+      "city": "Knoxville",
+      "state": "TN",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F111",
+      "firm_name": "DELVE UNDERGROUND",
+      "district": "Out of State",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F113",
+      "firm_name": "DESIGN NINE, INC.",
+      "district": "Out of State",
+      "city": "St. Louis",
+      "state": "MO",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F123",
+      "firm_name": "EFK MOEN, LLC",
+      "district": "Out of State",
+      "city": "St. Louis",
+      "state": "MO",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F125",
+      "firm_name": "Encompass Services, LLC",
+      "district": "Out of State",
+      "city": "Duluth",
+      "state": "MN",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F126",
+      "firm_name": "ENGINEERING DESIGN SOURCE, INC.",
+      "district": "Out of State",
+      "city": "Chesterfield",
+      "state": "MO",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F144",
+      "firm_name": "Garver, LLC",
+      "district": "Out of State",
+      "city": "Indianapolis",
+      "state": "IN",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F147",
+      "firm_name": "gba Systems Integrators, LLC",
+      "district": "Out of State",
+      "city": "Lenexa",
+      "state": "KS",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F151",
+      "firm_name": "GEORGE BUTLER ASSOCIATES, INC.",
+      "district": "Out of State",
+      "city": "Lenexa",
+      "state": "KS",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F152",
+      "firm_name": "GEOSYNTEC CONSULTANTS",
+      "district": "Out of State",
+      "city": "Boca Raton",
+      "state": "FL",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F153",
+      "firm_name": "GEOTILL. Inc.",
+      "district": "Out of State",
+      "city": "Fishers",
+      "state": "IN",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F154",
+      "firm_name": "GESTRA ENGINEERING, INC",
+      "district": "Out of State",
+      "city": "Milwaukee",
+      "state": "WI",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F158",
+      "firm_name": "Goetz Group PLLC",
+      "district": "Out of State",
+      "city": "St. Louis",
+      "state": "MO",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F162",
+      "firm_name": "GREENMAN-PEDERSEN, INC",
+      "district": "Out of State",
+      "city": "Babylon",
+      "state": "NY",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F172",
+      "firm_name": "Hardesty & Hanover LLC",
+      "district": "Out of State",
+      "city": "New York",
+      "state": "NY",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F182",
+      "firm_name": "Hg Consult, Inc.",
+      "district": "Out of State",
+      "city": "Kansas City",
+      "state": "MO",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F187",
+      "firm_name": "HRV Conformance Verification Associates, Inc.",
+      "district": "Out of State",
+      "city": "Moon Township",
+      "state": "PA",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F195",
+      "firm_name": "Infrasense, Inc.",
+      "district": "Out of State",
+      "city": "Woburn",
+      "state": "MA",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F204",
+      "firm_name": "JANSSEN & SPAANS ENGINEERING, INC.",
+      "district": "Out of State",
+      "city": "Indianapoils",
+      "state": "IN",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F210",
+      "firm_name": "JT Engineering, Inc.",
+      "district": "Out of State",
+      "city": "Hobart",
+      "state": "WI",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F222",
+      "firm_name": "KTA-TATOR, INC.",
+      "district": "Out of State",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F225",
+      "firm_name": "Lakeside Engineers, LLC.",
+      "district": "Out of State",
+      "city": "Wauwatosa",
+      "state": "WI",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F237",
+      "firm_name": "M3 ENGINEERING GROUP, P.C.",
+      "district": "Out of State",
+      "city": "Saint Louis",
+      "state": "MO",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F241",
+      "firm_name": "Marine Solutions, Inc.",
+      "district": "Out of State",
+      "city": "Nicholasville",
+      "state": "KY",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F242",
+      "firm_name": "Marr Arnold Planning, LLC",
+      "district": "Out of State",
+      "city": "Ames",
+      "state": "IA",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F246",
+      "firm_name": "MASON, DAVID & ASSOC., INC.",
+      "district": "Out of State",
+      "city": "Saint Louis",
+      "state": "MO",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F251",
+      "firm_name": "McClure Engineering Co.",
+      "district": "Out of State",
+      "city": "Clive",
+      "state": "IA",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F252",
+      "firm_name": "McMahon Associates, Inc.",
+      "district": "Out of State",
+      "city": "Neenah",
+      "state": "WI",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F253",
+      "firm_name": "Mead and Hunt, Inc.",
+      "district": "Out of State",
+      "city": "Middleton",
+      "state": "WI",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F268",
+      "firm_name": "MSA PROFESSIONAL SERVICES, INC",
+      "district": "Out of State",
+      "city": "Madison",
+      "state": "WI",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F269",
+      "firm_name": "MTJ Engineering LLC",
+      "district": "Out of State",
+      "city": "Madison",
+      "state": "WI",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F273",
+      "firm_name": "Nelson\\Nygaard Consulting Associates, Inc.",
+      "district": "Out of State",
+      "city": "San Francisco",
+      "state": "CA",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F275",
+      "firm_name": "NV5 Geospatial, Inc.",
+      "district": "Out of State",
+      "city": "Sheboygan Falls",
+      "state": "WI",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F278",
+      "firm_name": "Oneida Engineering Solutions, LLC",
+      "district": "Out of State",
+      "city": "Milwaukee",
+      "state": "WI",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F280",
+      "firm_name": "Origin Design Co.",
+      "district": "Out of State",
+      "city": "Dubuque",
+      "state": "IA",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F300",
+      "firm_name": "QRSE, LLC",
+      "district": "Out of State",
+      "city": "Honolulu",
+      "state": "HI",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F304",
+      "firm_name": "RailPros of Illinois",
+      "district": "Out of State",
+      "city": "Irving",
+      "state": "TX",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F307",
+      "firm_name": "Resilient Analytics, Inc",
+      "district": "Out of State",
+      "city": "Broomfield",
+      "state": "CO",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F308",
+      "firm_name": "Resource Systems Group, Inc.",
+      "district": "Out of State",
+      "city": "White River Junction",
+      "state": "VT",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F315",
+      "firm_name": "SABUR SURVEYING, INC.",
+      "district": "Out of State",
+      "city": "St. Louis",
+      "state": "MO",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F328",
+      "firm_name": "SHIVE-HATTERY, INC",
+      "district": "Out of State",
+      "city": "Bettendorf",
+      "state": "IA",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F330",
+      "firm_name": "Short-Elliott-Hendrickson, Incorporated",
+      "district": "Out of State",
+      "city": "Madison",
+      "state": "WI",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F341",
+      "firm_name": "SRF CONSULTING GROUP, INC",
+      "district": "Out of State",
+      "city": "Minneapolis",
+      "state": "MN",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F347",
+      "firm_name": "STRAND ASSOC., INC.",
+      "district": "Out of State",
+      "city": "Joliet",
+      "state": "WI",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F349",
+      "firm_name": "Strategic Value Solutions, Inc.",
+      "district": "Out of State",
+      "city": "Lee'S Summit",
+      "state": "MO",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F352",
+      "firm_name": "Surveying and Mapping, LLC",
+      "district": "Out of State",
+      "city": "St. Louis",
+      "state": "MO",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F357",
+      "firm_name": "T2 UES, Inc.",
+      "district": "Out of State",
+      "city": "Ashland",
+      "state": "VA",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F364",
+      "firm_name": "The Aviation Planning Group, LLC",
+      "district": "Out of State",
+      "city": "Fredericksburg",
+      "state": "VA",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F374",
+      "firm_name": "TKDA(TOLTZ, KING, DUVALL, ANDERSON)",
+      "district": "Out of State",
+      "city": "Saint Paul",
+      "state": "MN",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F375",
+      "firm_name": "Toole Design Group, LLC",
+      "district": "Out of State",
+      "city": "Silver Spring",
+      "state": "MD",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F380",
+      "firm_name": "TREKK Design Group, LLC",
+      "district": "Out of State",
+      "city": "Kansas City",
+      "state": "MO",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F386",
+      "firm_name": "UES Professional Solutions 25, LLC",
+      "district": "Out of State",
+      "city": "Memphis",
+      "state": "TN",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F389",
+      "firm_name": "URBAN PLANNING & DEVELOPMENT",
+      "district": "Out of State",
+      "city": "St. Louis",
+      "state": "MO",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F395",
+      "firm_name": "VIRGINKAR & ASSOCIATES, INC.",
+      "district": "Out of State",
+      "city": "Fullerton",
+      "state": "CA",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F402",
+      "firm_name": "Weis Design Group",
+      "district": "Out of State",
+      "city": "Ellisville",
+      "state": "MO",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F403",
+      "firm_name": "WESTBROOK ASSOCIATED ENGINEERS INC.",
+      "district": "Out of State",
+      "city": "Spring Green",
+      "state": "WI",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F405",
+      "firm_name": "Westwood Professional Services, Inc.",
+      "district": "Out of State",
+      "city": "Las Vegas",
+      "state": "NV",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F406",
+      "firm_name": "WGI, Inc.",
+      "district": "Out of State",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F407",
+      "firm_name": "Whitehouse Group Inc.",
+      "district": "Out of State",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F409",
+      "firm_name": "Wi-Skies, LLC",
+      "district": "Out of State",
+      "city": "Spanish Fort",
+      "state": "AL",
+      "status": "OOS"
+    },
+    {
+      "firm_code": "F413",
+      "firm_name": "WOOLPERT, INC.",
+      "district": "Out of State",
+      "city": "Dayton",
+      "state": "OH",
+      "status": "OOS"
+    }
+  ]
+}

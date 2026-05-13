@@ -1,0 +1,87 @@
+{
+  "job_numbers": {
+    "original_formats": 52,
+    "standardized_count": 2,
+    "format_variations": {
+      "D-9": 493,
+      "C-9": 327,
+      "P-9": 714,
+      "P-3": 66,
+      "D-6": 46,
+      "D-3": 27,
+      "P30": 1,
+      "R-9": 14,
+      "P99": 1,
+      "C-3": 16,
+      "D96": 1,
+      "DNR": 2,
+      "?": 1,
+      "C -": 1,
+      "R-5": 7,
+      "HPR": 49,
+      "OWR": 4,
+      "C-4": 2,
+      "SPR": 4,
+      "AML": 7,
+      "Aer": 3,
+      "D-0": 1,
+      "M-9": 11,
+      "MT-": 41,
+      "BI-": 48,
+      "RM-": 8,
+      "S-9": 6,
+      "P-2": 6,
+      "Avi": 1,
+      "Air": 1,
+      "D-2": 1,
+      "S-6": 23,
+      "V-9": 203,
+      "P- ": 1,
+      "P-6": 1,
+      "-": 1,
+      "N-3": 1,
+      "1-2": 1,
+      "194": 1,
+      "N-4": 1,
+      "SSA": 1,
+      "N-9": 2,
+      "ILL": 2,
+      "P-4": 1,
+      "C-2": 2,
+      "N-7": 3,
+      "ISP": 3,
+      "D-7": 1,
+      "P-7": 1,
+      "N-6": 1,
+      "A-9": 1,
+      "S-2": 1
+    }
+  },
+  "subconsultants": {
+    "missing_count": 630,
+    "fixed_count": 214,
+    "fix_rate": 33.96825396825397
+  },
+  "firm_names": {
+    "normalized_count": 6,
+    "name_variations": 8
+  },
+  "missing_fields": {
+    "added_count": 5862,
+    "fields_added": [
+      "Fee Estimate",
+      "Submitted",
+      "Eligible",
+      "First Alternate",
+      "Second Alternate"
+    ]
+  },
+  "validation": {
+    "total_award_records": 2166,
+    "total_firm_records": 415,
+    "missing_job_numbers": 4,
+    "missing_firm_names": 12,
+    "missing_subconsultants": 416,
+    "inconsistent_formats": 59
+  }
+}

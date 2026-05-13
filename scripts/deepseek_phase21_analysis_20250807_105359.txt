@@ -1,0 +1,49 @@
+DEEPSEEK ANALYSIS OF PHASE 2.1 SYSTEM STRUCTURE
+============================================================
+
+ANALYSIS OVERVIEW
+--------------------
+Model Used: deepseek-r1:8b
+Analysis Date: 2025-08-07 10:53:59
+Total Analysis Areas: 5
+
+SYSTEM STRUCTURE ANALYSIS
+-------------------------
+Status: FAILED
+Time: 60.0s
+Error: Timeout after 60 seconds
+
+============================================================
+
+DATA QUALITY ISSUES
+-------------------
+Status: FAILED
+Time: 60.0s
+Error: Timeout after 60 seconds
+
+============================================================
+
+ALGORITHM ISSUES
+----------------
+Status: FAILED
+Time: 60.0s
+Error: Timeout after 60 seconds
+
+============================================================
+
+PROJECT EXTRACTION ISSUES
+-------------------------
+Status: FAILED
+Time: 60.0s
+Error: Timeout after 60 seconds
+
+============================================================
+
+RAG SYSTEM ISSUES
+-----------------
+Status: FAILED
+Time: 60.0s
+Error: Timeout after 60 seconds
+
+============================================================
+

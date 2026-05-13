@@ -1,0 +1,17 @@
+{
+  "ptb_number": "160",
+  "total_awards": 30,
+  "successful_matches": 27,
+  "success_rate": 90.0,
+  "awards_with_prequals": 8,
+  "unique_prequals_found": [
+    "Special Services (Aerial Mapping)",
+    "Special Services (Subsurface Utility Engineering)",
+    "Special Studies (Traffic)",
+    "Location Design Studies (New Construction:Major Reconstruction)",
+    "Special Services (Quality Assurance: QA PCC & Aggregate)",
+    "Structures (Highway: Advanced Typical)",
+    "Environmental Reports (Environmental Assessment)",
+    "Special Services (Surveying)"
+  ]
+}

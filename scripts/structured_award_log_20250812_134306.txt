@@ -1,0 +1,100 @@
+[2025-08-12 13:43:06] 🚀 STARTING PTB160 STRUCTURED AWARD TEST
+[2025-08-12 13:43:06] ================================================================================
+[2025-08-12 13:43:06] 🔍 Processing PTB160...
+[2025-08-12 13:43:06] 📋 Found 26 project starts
+[2025-08-12 13:43:06] 📋 Found 27 project ends
+[2025-08-12 13:43:06] 📝 Job D-91-516-11: 1 prequals: ['Special Services (Subsurface Utility Engineering)']
+[2025-08-12 13:43:06] 📝 Job C-91-390-11: 1 prequals: ['Special Services (Construction Inspection)']
+[2025-08-12 13:43:06] 📝 Job D-91-506-11: 3 prequals: ['Structures (Highway: Typical)', 'Special Services (Surveying)', 'Highways (Roads & Streets)']
+[2025-08-12 13:43:06] 📝 Job P-91-526-11: 3 prequals: ['Structures (Highway: Complex)', 'Environmental Reports (Environmental Assessment)', 'Location Design Studies (Reconstruction/Major Rehabilitation)']
+[2025-08-12 13:43:06] 📝 Job P-91-500-11: 1 prequals: ['Special Studies (Traffic)']
+[2025-08-12 13:43:06] 📝 Job D-91-525-11: 1 prequals: ['Special Services (Surveying)']
+[2025-08-12 13:43:06] 📝 Job C-92-125-11: 1 prequals: ['Special Services (Construction Inspection)']
+[2025-08-12 13:43:06] 📝 Job C-92-126-11: 1 prequals: ['Special Services (Construction Inspection)']
+[2025-08-12 13:43:06] 📝 Job C-93-084-11: 1 prequals: ['Special Services (Quality Assurance PCC & Aggregate)']
+[2025-08-12 13:43:06] 📝 Job C-93-085-11: 1 prequals: ['Special Services (Construction Inspection)']
+[2025-08-12 13:43:06] 📝 Job C-94-015-10: 1 prequals: ['Special Services (Construction Inspection)']
+[2025-08-12 13:43:06] 📝 Job C-94-157-11: 1 prequals: ['Special Services (Construction Inspection)']
+[2025-08-12 13:43:06] 📝 Job P-95-050-11: 3 prequals: ['Geotechnical Services (Structure Geotechnical Reports (SGR))', 'Geotechnical Services (General Geotechnical Services)', 'Geotechnical Services (Subsurface Explorations)']
+[2025-08-12 13:43:06] 📝 Job P-95-052-11: 0 prequals: []
+[2025-08-12 13:43:06] 📝 Job D-97-021-11: 3 prequals: ['Location Design Studies (Rehabilitation)', 'Structures (Highway: Typical)', 'Highways (Roads & Streets)']
+[2025-08-12 13:43:06] 📝 Job P-98-011-11: 3 prequals: ['Structures (Highway: Typical)', 'Environmental Reports (Environmental Impact Statement)', 'Highways (Roads & Streets)']
+[2025-08-12 13:43:06] 📝 Job C-98-062-11: 1 prequals: ['Special Services (Construction Inspection)']
+[2025-08-12 13:43:06] 📝 Job C-98-063-11: 1 prequals: ['Special Services (Construction Inspection)']
+[2025-08-12 13:43:06] 📝 Job P-30-009-04: 2 prequals: ['Special Services (Surveying)', 'Highways (Roads & Streets)']
+[2025-08-12 13:43:06] 📝 Job D-60-034-12: 1 prequals: ['Structures (Highway: Typical)']
+[2025-08-12 13:43:06] 📝 Job D-30-001-12: 0 prequals: []
+[2025-08-12 13:43:06] 📝 Job D-30-002-12: 1 prequals: ['Structures (Highway: Typical)']
+[2025-08-12 13:43:06] 📝 Job P-30-003-12: 2 prequals: ['Special Services (Architecture)', 'Highways (Roads & Streets)']
+[2025-08-12 13:43:06] 📝 Job P-30-004-12: 2 prequals: ['Environmental Reports (Environmental Assessment)', 'Highways (Roads & Streets)']
+[2025-08-12 13:43:06] 📝 Job P-30-005-12: 1 prequals: ['Special Services (Construction Inspection)']
+[2025-08-12 13:43:06] 📝 Job P-30-006-12: 3 prequals: ['Transportation Studies (Railway Engineering)', 'Environmental Reports (Environmental Assessment)', 'Structures (Railroad)']
+[2025-08-12 13:43:06] 🔗 Matching job numbers to award data...
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job D-91-516-11 → 1 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job C-91-390-11 → 1 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job D-91-506-11 → 3 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job P-91-526-11 → 3 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job P-91-500-11 → 1 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job D-91-525-11 → 1 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job C-92-125-11 → 1 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job C-92-126-11 → 1 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job C-93-084-11 → 1 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job C-93-085-11 → 1 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job C-94-015-10 → 1 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job C-94-157-11 → 1 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job P-95-050-11 → 3 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job P-95-052-11 → 0 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job D-97-021-11 → 3 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job P-98-011-11 → 3 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job C-98-062-11 → 1 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job C-98-063-11 → 1 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job P-30-009-04 → 2 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job D-60-034-12 → 1 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job D-30-001-12 → 0 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job D-30-002-12 → 1 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job P-30-003-12 → 2 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job P-30-004-12 → 2 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job P-30-005-12 → 1 prequals
+[2025-08-12 13:43:06] ✅ Match: PTB160 Job P-30-006-12 → 3 prequals
+[2025-08-12 13:43:06] 📊 Creating structured Excel file with 26 matches...
+[2025-08-12 13:43:06] ✅ Added row for Job D-91-516-11: CARDNO TBE
+[2025-08-12 13:43:06] ✅ Added row for Job C-91-390-11: Civiltech Engineering, Inc.
+[2025-08-12 13:43:06] ✅ Added row for Job D-91-506-11: STRAND ASSOCIATES, INC.
+[2025-08-12 13:43:06] ✅ Added row for Job P-91-526-11: MICHAEL BAKER JR. INC.
+[2025-08-12 13:43:06] ✅ Added row for Job P-91-500-11: REGINA WEBSTER AND ASSOCIATES
+[2025-08-12 13:43:06] ✅ Added row for Job D-91-525-11: CLAASSEN, WHITE & ASSOCIATES, P.C.
+[2025-08-12 13:43:06] ✅ Added row for Job C-92-125-11: MCCLURE ENGINEERING ASSOCIATES, INC.
+[2025-08-12 13:43:06] ✅ Added row for Job C-92-126-11: MISSMAN, INC.
+[2025-08-12 13:43:06] ✅ Added row for Job C-93-084-11: S.T.A.T.E. TESTING
+[2025-08-12 13:43:06] ✅ Added row for Job C-93-085-11: CHRISTOPHER B. BURKE, ENGINEERING, LTD.
+[2025-08-12 13:43:06] ✅ Added row for Job C-94-015-10: MCDONOUGH ASSOC, INC.
+[2025-08-12 13:43:06] ✅ Added row for Job C-94-157-11: KASKASKIA ENGINEERING GROUP, LLC
+[2025-08-12 13:43:06] ✅ Added row for Job P-95-050-11: MCCLEARY ENGINEERING
+[2025-08-12 13:43:06] ✅ Added row for Job P-95-052-11: AERO-METRIC, INC.
+[2025-08-12 13:43:06] ✅ Added row for Job D-97-021-11: ESCA CONSULTANTS, INC.
+[2025-08-12 13:43:06] ✅ Added row for Job P-98-011-11: MACTEC, HORNER & SHIFRIN, AND BERNARDIN LOCHMUELLER (JOINT VENTURE)
+[2025-08-12 13:43:06] ✅ Added row for Job C-98-062-11: SCI ENGINEERING, INC.
+[2025-08-12 13:43:06] ✅ Added row for Job C-98-063-11: RHUTASEL & ASSOCIATES, INC.
+[2025-08-12 13:43:06] ✅ Added row for Job P-30-009-04: Crawford, Murphy, & Tilly, Inc.
+[2025-08-12 13:43:06] ✅ Added row for Job D-60-034-12: ABNA ENGINEERING, INC.
+[2025-08-12 13:43:06] ✅ Added row for Job D-30-001-12: WHKS & CO.
+[2025-08-12 13:43:06] ✅ Added row for Job D-30-002-12: OATES ASSOC., INC.
+[2025-08-12 13:43:06] ✅ Added row for Job P-30-003-12: LEGAT & MACKIE (JOINT VENTURE)
+[2025-08-12 13:43:06] ✅ Added row for Job P-30-004-12: KNIGHT E/A, INC.
+[2025-08-12 13:43:06] ✅ Added row for Job P-30-005-12: T.Y. LIN INTERNATIONAL GREAT LAKES, INC.
+[2025-08-12 13:43:06] ✅ Added row for Job P-30-006-12: PATRICK ENGINEERING, INC.
+[2025-08-12 13:43:06] 💾 Structured Excel file saved: ../data/structured_award_data.xlsx
+[2025-08-12 13:43:06] 📊 Generating processing report...
+[2025-08-12 13:43:06] 📄 Processing report saved: structured_award_report_20250812_134306.json
+[2025-08-12 13:43:06] 
+🎉 STRUCTURED AWARD PROCESSING COMPLETE!
+[2025-08-12 13:43:06] 📊 SUMMARY:
+[2025-08-12 13:43:06]   • PTB Files Processed: 1/40
+[2025-08-12 13:43:06]   • Total Projects Found: 26
+[2025-08-12 13:43:06]   • Projects with Prequals: 24
+[2025-08-12 13:43:06]   • Job Number Matches: 26
+[2025-08-12 13:43:06]   • Prequalifications Extracted: 39
+[2025-08-12 13:43:06]   • Rows in Structured Excel: 26
+[2025-08-12 13:43:06]   • Excel Columns: ['f', 'ITEM#', 'SELECTED FIRM', 'SUBCONSULTANTS', 'First Alternate', 'Second Alternate', 'Job #', 'District', 'selection date', 'prequals']
+[2025-08-12 13:43:06] 🎯 PTB160 STRUCTURED AWARD TEST COMPLETE!
+[2025-08-12 13:43:06] ================================================================================

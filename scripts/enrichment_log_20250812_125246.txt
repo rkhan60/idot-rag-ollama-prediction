@@ -1,0 +1,2556 @@
+[2025-08-12 12:52:46] 🚀 STARTING PTB ENRICHMENT PROCESS
+[2025-08-12 12:52:46] ================================================================================
+[2025-08-12 12:52:46] 🔍 Processing PTB160...
+[2025-08-12 12:52:46] 📋 PTB160: Found 29 job numbers: ['D-30-001-12', 'P-30-006-12', 'P-30-003-12', 'P-30-005-12', 'C-94-157-11', 'P-91-500-11', 'P-95-050-11', 'C-94-015-10', 'C-91-390-11', 'D-91-525-11', 'D-30-002-12', 'D-60-034-12', 'D-97-021-11', 'P-30-009-04', 'C-93-084-11', 'P-95-052-11', 'P-98-011-11', 'P-98-060-11', 'D-91-506-11', 'D-91-516-11', 'C-98-062-11', 'P-94-014-11', 'C-92-126-11', 'P-30-004-12', 'C-92-125-11', 'P-91-526-11', 'D-98-060-11', 'C-98-063-11', 'C-93-085-11']
+[2025-08-12 12:52:46] 📝 PTB160: Found 5 prequalifications: ['Special Services (Surveying)', 'Highways (Roads & Streets)', 'Special Services (Construction Inspection)', 'Special Services (Subsurface Utility Engineering)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:46] 🔍 Processing PTB161...
+[2025-08-12 12:52:46] 📋 PTB161: Found 34 job numbers: ['D-93-087-11', 'C-95-053-11', 'C-94-087-11', 'D-96-092-11', 'P-91-001-12', 'D-91-624-11', 'P-91-636-11', 'D-91-639-11', 'D-93-085-11', 'D-96-093-11', 'P-91-002-12', 'P-91-637-11', 'P-93-036-11', 'D-94-001-12', 'D-91-017-12', 'D-92-098-11', 'D-91-008-12', 'D-91-634-11', 'R-99-011-11', 'D-91-633-11', 'P-93-033-11', 'P-92-099-11', 'P-91-003-12', 'P-95-030-11', 'P-91-013-12', 'P-91-635-11', 'D-30-004-12', 'C-91-386-11', 'P-94-001-12', 'D-91-640-11', 'C-98-081-11', 'D-91-638-11', 'D-91-007-12', 'D-91-612-11']
+[2025-08-12 12:52:46] 📝 PTB161: Found 1 prequalifications: ['Highways (Roads & Streets)']
+[2025-08-12 12:52:46] 🔍 Processing PTB162...
+[2025-08-12 12:52:46] 📋 PTB162: Found 37 job numbers: ['C-92-142-12', 'D-91-111-12', 'P-94-012-11', 'P-91-108-12', 'C-91-116-12', 'D-93-012-12', 'D-91-110-12', 'D-91-130-12', 'D-60-031-12', 'C-91-115-12', 'C-94-023-12', 'P-30-008-12', 'P-91-141-12', 'P-91-106-12', 'P-30-009-12', 'D-60-032-12', 'P-91-131-12', 'D-60-033-12', 'P-91-107-12', 'D-93-086-11', 'D-30-005-12', 'D-91-109-12', 'P-91-128-12', 'C-92-041-12', 'D-91-125-12', 'C-99-014-12', 'D-96-017-12', 'C-92-040-12', 'C-94-024-12', 'P-91-127-12', 'D-91-112-12', 'D-94-039-11', 'D-91-122-12', 'C-30-005-12', 'D-91-133-12', 'D-91-152-12', 'D-93-026-12']
+[2025-08-12 12:52:46] 📝 PTB162: Found 9 prequalifications: ['Hydraulic Reports (Pump Stations)', 'Special Services (Surveying)', 'Highways (Roads & Streets)', 'Highways (Freeways)', 'Special Services (Construction Inspection)', 'Hydraulic Reports (Waterways: Typical)', 'Environmental Reports (Environmental Assessment)', 'Structures (Highway: Typical)', 'Hydraulic Reports (Waterways: Complex)']
+[2025-08-12 12:52:46] 🔍 Processing PTB163...
+[2025-08-12 12:52:46] 📋 PTB163: Found 30 job numbers: ['D-91-269-12', 'D-91-266-12', 'D-91-289-12', 'D-91-285-12', 'P-91-259-12', 'P-91-291-12', 'D-91-280-12', 'D-91-279-12', 'C-91-288-12', 'D-91-278-12', 'P-91-290-12', 'D-91-268-12', 'C-92-110-12', 'D-91-285-01', 'C-91-286-12', 'D-30-008-12', 'D-30-006-12', 'D-30-007-12', 'D-91-255-12', 'C-94-009-10', 'D-98-074-07', 'C-92-109-12', 'D-91-283-12', 'C-94-058-12', 'P-30-010-12', 'D-91-284-12', 'D-91-281-12', 'D-94-038-12', 'D-91-292-12', 'C-91-287-12']
+[2025-08-12 12:52:46] 📝 PTB163: Found 3 prequalifications: ['Structures (Highway: Typical)', 'Special Studies (Traffic)', 'Special Services (Construction Inspection)']
+[2025-08-12 12:52:46] 🔍 Processing PTB165...
+[2025-08-12 12:52:46] 📋 PTB165: Found 20 job numbers: ['P-96-200-13', 'C-91-392-12', 'C-91-007-13', 'D-91-012-13', 'P-94-042-12', 'D-91-004-13', 'P-92-050-06', 'C-98-087-12', 'D-91-022-13', 'D-91-023-13', 'D-91-024-13', 'C-91-008-13', 'D-91-407-12', 'C-98-001-13', 'P-91-021-13', 'C-91-667-10', 'D-30-001-13', 'D-91-025-13', 'C-94-112-12', 'P-91-495-12']
+[2025-08-12 12:52:46] 📝 PTB165: Found 6 prequalifications: ['Special Services (Surveying)', 'Highways (Roads & Streets)', 'Highways (Freeways)', 'Special Services (Construction Inspection)', 'Hydraulic Reports (Waterways: Typical)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:46] 🔍 Processing PTB166...
+[2025-08-12 12:52:47] 📋 PTB166: Found 22 job numbers: ['P-30-007-13', 'D-98-006-13', 'D-91-109-13', 'P-30-005-13', 'P-94-004-13', 'D-60-033-13', 'C-91-108-13', 'D-60-031-13', 'D-60-032-13', 'R-97-001-13', 'P-30-004-13', 'D-98-009-13', 'P-91-110-13', 'C-91-107-13', 'D-99-011-13', 'D-91-125-13', 'D-91-237-11', 'P-30-001-13', 'P-30-006-13', 'D-91-126-13', 'D-60-034-13', 'D-91-124-13']
+[2025-08-12 12:52:47] 📝 PTB166: Found 6 prequalifications: ['Special Services (Surveying)', 'Highways (Roads & Streets)', 'Geotechnical Services (General Geotechnical Services)', 'Special Services (Construction Inspection)', 'Structures (Highway: Complex)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:47] 🔍 Processing PTB167...
+[2025-08-12 12:52:47] 📋 PTB167: Found 36 job numbers: ['D-96-018-13', 'R-99-001-13', 'P-30-009-13', 'D-91-201-13', 'C-91-204-13', 'P-92-021-13', 'P-92-022-13', 'P-91-192-13', 'C-91-176-13', 'C-93-032-13', 'P-30-002-13', 'P-98-028-13', 'C-94-015-13', 'C-91-390-12', 'D-91-202-13', 'D-98-028-13', 'C-93-047-13', 'C-91-196-13', 'P-91-179-13', 'P-91-201-13', 'P-94-003-13', 'C-91-182-13', 'C-98-013-13', 'C-91-181-13', 'C-98-014-13', 'C-94-014-13', 'C-91-180-13', 'D-99-011-13', 'C-91-175-13', 'C-93-030-13', 'C-91-178-13', 'C-91-203-13', 'P-91-195-13', 'D-91-177-13', 'D-91-185-13', 'D-30-003-13']
+[2025-08-12 12:52:47] 📝 PTB167: Found 6 prequalifications: ['Special Services (Surveying)', 'Highways (Roads & Streets)', 'Special Services (Construction Inspection)', 'Hydraulic Reports (Waterways: Typical)', 'Special Services (Subsurface Utility Engineering)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:47] 🔍 Processing PTB168...
+[2025-08-12 12:52:47] 📋 PTB168: Found 32 job numbers: ['P-94-020-12', 'P-92-004-13', 'C-30-020-13', 'D-91-315-13', 'C-91-316-13', 'C-91-313-13', 'P-30-003-13', 'R-96-001-13', 'P-30-008-13', 'P-92-034-13', 'P-99-003-13', 'D-98-048-13', 'D-91-317-13', 'P-91-320-13', 'D-99-034-13', 'D-91-309-13', 'P-91-319-13', 'P-30-011-13', 'R-55-001-93', 'P-98-048-13', 'D-97-016-13', 'D-91-314-13', 'D-91-311-13', 'C-91-312-13', 'D-94-039-12', 'D-92-073-11', 'C-91-173-13', 'D-98-055-13', 'R-66-001-14', 'P-91-376-13', 'D-91-318-13', 'D-96-051-13']
+[2025-08-12 12:52:47] 📝 PTB168: Found 14 prequalifications: ['Special Services (Mechanical)', 'Special Studies (Traffic)', 'Special Services (Surveying)', 'Special Plans (Traffic Signals)', 'Highways (Roads & Streets)', 'Special Services (Asbestos Abatement Surveys)', 'Special Services (Construction Inspection)', 'Special Studies (Feasibility)', 'Structures (Highway: Complex)', 'Hydraulic Reports (Waterways: Typical)', 'Location Design Studies (Rehabilitation)', 'Special Services (Subsurface Utility Engineering)', 'Environmental Reports (Environmental Assessment)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:47] 🔍 Processing PTB169...
+[2025-08-12 12:52:47] 📋 PTB169: Found 49 job numbers: ['C-91-013-14', 'C-30-004-14', 'P-91-440-13', 'D-98-075-13', 'D-30-003-14', 'D-30-002-14', 'D-30-001-14', 'P-92-033-13', 'P-91-004-14', 'C-91-002-14', 'P-99-002-06', 'C-91-014-14', 'D-94-018-13', 'P-91-424-13', 'D-91-442-13', 'P-98-072-13', 'C-93-090-13', 'P-98-071-13', 'C-91-435-13', 'D-96-002-14', 'D-91-008-14', 'D-98-108-05', 'D-91-022-14', 'P-91-423-13', 'D-91-011-14', 'P-94-018-13', 'D-96-001-14', 'D-91-441-13', 'P-98-084-13', 'C-45-002-14', 'P-30-002-14', 'C-94-004-14', 'D-91-023-14', 'P-98-004-08', 'C-91-012-14', 'P-93-010-14', 'P-98-011-13', 'D-30-004-14', 'P-30-003-14', 'R-66-001-14', 'P-91-437-13', 'C-98-001-14', 'C-91-434-13', 'C-91-007-14', 'P-91-422-13', 'C-94-071-13', 'D-91-010-14', 'P-91-005-14', 'D-91-009-14']
+[2025-08-12 12:52:47] 📝 PTB169: Found 8 prequalifications: ['Hydraulic Reports (Pump Stations)', 'Special Services (Surveying)', 'Highways (Roads & Streets)', 'Structures (Railroad)', 'Special Services (Construction Inspection)', 'Hydraulic Reports (Waterways: Typical)', 'Hydraulic Reports (Waterways: Complex)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:47] 🔍 Processing PTB170...
+[2025-08-12 12:52:47] 📋 PTB170: Found 21 job numbers: ['D-91-116-14', 'C-92-015-14', 'P-92-035-13', 'D-96-027-14', 'D-30-000-13', 'P-91-120-14', 'P-91-119-14', 'C-92-016-14', 'D-91-111-14', 'P-91-121-14', 'P-30-006-14', 'D-91-117-14', 'P-30-005-14', 'C-45-002-14', 'D-60-031-14', 'P-30-003-14', 'D-60-034-14', 'D-60-032-14', 'P-91-118-14', 'D-60-033-14', 'D-91-104-14']
+[2025-08-12 12:52:47] 📝 PTB170: Found 9 prequalifications: ['Special Studies (Traffic)', 'Special Services (Surveying)', 'Special Plans (Traffic Signals)', 'Highways (Roads & Streets)', 'Highways (Freeways)', 'Special Services (Construction Inspection)', 'Hydraulic Reports (Waterways: Typical)', 'Location Design Studies (Rehabilitation)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:47] 🔍 Processing PTB171...
+[2025-08-12 12:52:47] 📋 PTB171: Found 27 job numbers: ['R-99-009-14', 'C-30-052-14', 'C-99-031-14', 'P-91-195-14', 'C-99-030-14', 'D-30-001-14', 'P-94-008-14', 'D-94-011-14', 'P-30-001-14', 'D-91-191-14', 'C-96-041-14', 'P-98-029-14', 'R-99-010-14', 'C-91-184-14', 'P-99-001-14', 'C-93-042-14', 'D-94-046-12', 'C-91-193-14', 'P-30-009-14', 'D-94-010-14', 'P-94-026-12', 'P-94-009-14', 'D-98-029-14', 'C-93-043-14', 'D-91-309-12', 'D-98-030-14', 'P-91-117-14']
+[2025-08-12 12:52:47] 📝 PTB171: Found 9 prequalifications: ['Special Studies (Traffic)', 'Special Services (Surveying)', 'Highways (Roads & Streets)', 'Highways (Freeways)', 'Special Services (Construction Inspection)', 'Structures (Highway: Complex)', 'Hydraulic Reports (Waterways: Typical)', 'Special Services (Subsurface Utility Engineering)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:47] 🔍 Processing PTB172...
+[2025-08-12 12:52:47] 📋 PTB172: Found 34 job numbers: ['D-60-032-15', 'P-91-357-14', 'P-91-356-14', 'P-30-011-14', 'C-91-353-14', 'C-91-362-14', 'P-98-038-13', 'C-93-109-14', 'D-91-369-14', 'D-60-034-15', 'P-30-008-14', 'C-91-358-14', 'P-92-021-14', 'C-98-022-11', 'D-60-033-15', 'D-91-333-14', 'D-98-038-13', 'C-92-034-14', 'P-91-318-14', 'P-98-045-14', 'P-30-012-14', 'D-91-323-14', 'D-91-335-14', 'C-91-192-14', 'C-94-084-14', 'P-92-018-14', 'R-66-001-14', 'C-92-035-14', 'D-98-045-14', 'P-30-010-14', 'D-60-031-15', 'D-91-355-14', 'D-91-354-14', 'P-92-020-14']
+[2025-08-12 12:52:48] 📝 PTB172: Found 8 prequalifications: ['Special Studies (Traffic)', 'Special Services (Surveying)', 'Special Plans (Traffic Signals)', 'Highways (Roads & Streets)', 'Special Services (Construction Inspection)', 'Hydraulic Reports (Waterways: Typical)', 'Special Services (Electrical Engineering)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:48] 🔍 Processing PTB173...
+[2025-08-12 12:52:48] 📋 PTB173: Found 36 job numbers: ['C-91-006-15', 'C-91-005-15', 'P-91-443-14', 'C-91-439-14', 'P-30-001-15', 'C-93-158-14', 'C-99-002-15', 'C-91-010-15', 'C-94-132-14', 'C-91-004-15', 'C-91-008-15', 'C-98-069-14', 'P-30-003-15', 'D-91-459-14', 'C-91-003-15', 'D-96-001-15', 'C-96-200-15', 'P-30-002-15', 'D-91-462-14', 'C-91-009-15', 'D-97-056-14', 'C-98-077-14', 'P-91-442-14', 'D-91-455-14', 'C-91-007-15', 'C-99-003-15', 'D-91-465-14', 'C-98-079-14', 'D-91-456-14', 'D-91-466-14', 'R-96-002-14', 'C-94-133-14', 'C-99-001-15', 'P-91-440-14', 'D-91-467-14', 'D-91-002-15']
+[2025-08-12 12:52:48] 📝 PTB173: Found 4 prequalifications: ['Highways (Roads & Streets)', 'Special Services (Subsurface Utility Engineering)', 'Structures (Highway: Typical)', 'Special Services (Construction Inspection)']
+[2025-08-12 12:52:48] 🔍 Processing PTB174...
+[2025-08-12 12:52:48] 📋 PTB174: Found 21 job numbers: ['D-91-101-15', 'D-30-002-15', 'D-98-023-15', 'P-91-120-15', 'C-94-034-15', 'P-91-119-15', 'P-30-004-15', 'D-91-340-14', 'D-96-009-15', 'D-30-004-15', 'C-30-005-15', 'C-30-004-15', 'C-91-117-15', 'D-30-003-15', 'P-91-130-15', 'P-98-023-15', 'D-91-118-15', 'P-98-001-15', 'P-91-121-15', 'D-91-001-15', 'P-91-122-15']
+[2025-08-12 12:52:48] 📝 PTB174: Found 11 prequalifications: ['Hydraulic Reports (Pump Stations)', 'Special Services (Surveying)', 'Highways (Roads & Streets)', 'Transportation Studies (Railway Engineering)', 'Highways (Freeways)', 'Special Services (Construction Inspection)', 'Structures (Highway: Complex)', 'Location Design Studies (Rehabilitation)', 'Environmental Reports (Environmental Assessment)', 'Structures (Highway: Typical)', 'Hydraulic Reports (Waterways: Complex)']
+[2025-08-12 12:52:48] 🔍 Processing PTB175...
+[2025-08-12 12:52:48] 📋 PTB175: Found 28 job numbers: ['C-93-061-15', 'P-91-225-15', 'P-92-019-14', 'P-96-200-16', 'C-91-228-15', 'D-95-026-15', 'D-96-035-15', 'D-91-236-15', 'C-94-034-11', 'D-91-227-15', 'C-91-235-15', 'D-91-202-15', 'D-97-032-10', 'C-91-231-15', 'P-93-017-15', 'C-91-123-15', 'D-91-113-15', 'C-30-009-15', 'D-91-239-15', 'C-91-229-15', 'C-91-230-15', 'C-91-124-15', 'C-93-059-15', 'P-92-022-14', 'P-91-226-15', 'D-91-216-15', 'C-93-060-15', 'P-91-224-15']
+[2025-08-12 12:52:48] 📝 PTB175: Found 9 prequalifications: ['Special Services (Mechanical)', 'Special Services (Surveying)', 'Highways (Roads & Streets)', 'Highways (Freeways)', 'Special Services (Construction Inspection)', 'Special Services (Architecture)', 'Hydraulic Reports (Waterways: Typical)', 'Special Services (Electrical Engineering)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:48] 🔍 Processing PTB176...
+[2025-08-12 12:52:48] 📋 PTB176: Found 34 job numbers: ['D-91-350-15', 'P-94-004-15', 'P-98-064-15', 'D-60-034-16', 'C-95-028-15', 'D-91-236-15', 'D-60-032-16', 'C-92-052-15', 'D-60-031-16', 'C-30-021-15', 'D-94-036-15', 'C-91-123-15', 'D-98-067-15', 'C-96-054-15', 'P-91-346-15', 'P-91-348-15', 'C-94-072-15', 'P-30-005-15', 'C-94-073-15', 'C-30-013-15', 'D-95-029-15', 'D-98-065-15', 'D-92-022-15', 'C-91-359-15', 'C-92-053-15', 'C-30-012-15', 'P-91-347-15', 'P-92-022-15', 'D-98-046-15', 'P-91-349-15', 'D-98-063-15', 'D-60-033-16', 'D-91-339-15', 'D-98-066-15']
+[2025-08-12 12:52:48] 📝 PTB176: Found 11 prequalifications: ['Special Services (Mechanical)', 'Special Services (Surveying)', 'Highways (Roads & Streets)', 'Transportation Studies (Railway Engineering)', 'Structures (Railroad)', 'Special Services (Construction Inspection)', 'Hydraulic Reports (Waterways: Typical)', 'Airports (Design)', 'Special Services (Electrical Engineering)', 'Special Services (Subsurface Utility Engineering)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:48] 🔍 Processing PTB177...
+[2025-08-12 12:52:48] 📋 PTB177: Found 15 job numbers: ['P-91-001-16', 'C-91-005-16', 'C-30-001-16', 'P-94-010-09', 'C-93-117-15', 'C-91-425-15', 'C-94-001-16', 'P-99-001-16', 'R-66-001-16', 'D-91-013-16', 'P-30-002-16', 'D-91-020-16', 'P-91-421-15', 'D-94-060-09', 'C-91-012-16']
+[2025-08-12 12:52:48] 📝 PTB177: Found 5 prequalifications: ['Special Services (Surveying)', 'Highways (Roads & Streets)', 'Special Services (Construction Inspection)', 'Highways (Freeways)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:48] 🔍 Processing PTB178...
+[2025-08-12 12:52:48] 📋 PTB178: Found 20 job numbers: ['C-96-019-16', 'C-91-010-16', 'R-96-005-15', 'D-99-010-16', 'D-91-123-16', 'C-91-011-16', 'D-96-013-16', 'D-91-128-16', 'D-91-086-16', 'C-98-031-16', 'D-97-006-16', 'P-94-003-16', 'D-91-119-16', 'R-99-003-16', 'C-91-113-16', 'P-30-003-16', 'C-94-011-16', 'D-91-087-16', 'D-91-103-16', 'C-91-127-16']
+[2025-08-12 12:52:48] 📝 PTB178: Found 11 prequalifications: ['Special Services (Mechanical)', 'Special Services (Surveying)', 'Special Services (Electrical Engineering)', 'Highways (Roads & Streets)', 'Special Services (Construction Inspection)', 'Special Services (Architecture)', 'Structures (Highway: Complex)', 'Hydraulic Reports (Waterways: Typical)', 'Airports (Design)', 'Location Design Studies (Rehabilitation)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:48] 🔍 Processing PTB179...
+[2025-08-12 12:52:49] 📋 PTB179: Found 20 job numbers: ['P-30-001-16', 'P-93-016-16', 'P-91-219-16', 'D-91-226-16', 'C-30-018-16', 'D-30-002-16', 'P-92-017-10', 'D-91-199-16', 'P-91-225-16', 'P-91-218-16', 'P-91-224-16', 'C-91-230-16', 'C-91-231-16', 'D-92-017-10', 'C-91-217-16', 'R-55-001-93', 'P-92-031-15', 'C-91-229-16', 'C-93-038-16', 'P-30-004-16']
+[2025-08-12 12:52:49] 📝 PTB179: Found 5 prequalifications: ['Hydraulic Reports (Pump Stations)', 'Special Services (Surveying)', 'Special Services (Construction Inspection)', 'Hydraulic Reports (Waterways: Complex)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:49] 🔍 Processing PTB180...
+[2025-08-12 12:52:49] 📋 PTB180: Found 27 job numbers: ['C-92-037-16', 'C-91-324-16', 'C-91-322-16', 'D-97-022-16', 'D-95-045-16', 'C-96-052-16', 'P-98-006-07', 'D-92-047-16', 'D-98-038-16', 'D-91-318-16', 'C-95-038-16', 'C-94-052-16', 'C-94-053-16', 'P-92-070-16', 'D-95-044-16', 'D-91-317-16', 'R-97-004-16', 'R-55-001-17', 'R-97-003-16', 'R-99-004-16', 'D-91-321-16', 'C-91-323-16', 'C-94-055-16', 'C-94-079-12', 'C-94-054-16', 'D-98-039-16', 'C-92-036-16']
+[2025-08-12 12:52:49] 📝 PTB180: Found 13 prequalifications: ['Special Services (Surveying)', 'Highways (Roads & Streets)', 'Geotechnical Services (Subsurface Explorations)', 'Geotechnical Services (General Geotechnical Services)', 'Structures (Railroad)', 'Special Services (Landscape Architecture)', 'Special Services (Construction Inspection)', 'Structures (Highway: Complex)', 'Hydraulic Reports (Waterways: Typical)', 'Location Design Studies (Rehabilitation)', 'Special Services (Subsurface Utility Engineering)', 'Structures (Highway: Typical)', 'Geotechnical Services (Structure Geotechnical Reports (SGR))']
+[2025-08-12 12:52:49] 🔍 Processing PTB181...
+[2025-08-12 12:52:49] 📋 PTB181: Found 22 job numbers: ['P-30-003-17', 'D-60-033-17', 'D-98-004-17', 'D-91-476-16', 'P-92-005-15', 'D-60-031-17', 'D-60-032-17', 'P-30-001-17', 'C-93-092-16', 'P-91-475-16', 'P-92-071-16', 'P-92-035-16', 'C-91-473-16', 'P-91-404-16', 'D-95-046-16', 'P-30-002-17', 'D-91-471-16', 'D-91-477-16', 'P-98-005-17', 'P-94-001-17', 'D-91-472-16', 'D-98-005-17']
+[2025-08-12 12:52:49] 📝 PTB181: Found 6 prequalifications: ['Special Services (Surveying)', 'Highways (Roads & Streets)', 'Transportation Studies (Railway Engineering)', 'Structures (Highway: Complex)', 'Environmental Reports (Environmental Assessment)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:49] 🔍 Processing PTB182...
+[2025-08-12 12:52:49] 📋 PTB182: Found 23 job numbers: ['D-98-029-17', 'D-99-005-17', 'C-92-008-16', 'D-92-103-05', 'P-30-004-17', 'P-91-132-17', 'C-91-120-17', 'P-98-029-17', 'P-30-025-17', 'P-98-002-17', 'C-91-128-17', 'P-91-119-17', 'D-91-115-17', 'D-60-034-17', 'D-91-116-17', 'D-92-044-16', 'P-92-073-16', 'D-91-117-17', 'C-92-038-16', 'C-92-014-17', 'D-92-073-16', 'P-30-005-17', 'C-30-018-17']
+[2025-08-12 12:52:49] 📝 PTB182: Found 6 prequalifications: ['Highways (Roads & Streets)', 'Geotechnical Services (Subsurface Explorations)', 'Geotechnical Services (General Geotechnical Services)', 'Special Services (Construction Inspection)', 'Geotechnical Services (Structure Geotechnical Reports (SGR))', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:49] 🔍 Processing PTB183...
+[2025-08-12 12:52:49] 📋 PTB183: Found 20 job numbers: ['D-98-040-16', 'P-30-027-17', 'C-91-174-17', 'C-98-018-17', 'C-91-173-17', 'C-91-176-17', 'C-91-167-17', 'P-98-040-16', 'P-91-169-17', 'D-96-026-17', 'P-98-044-17', 'D-96-025-17', 'C-91-171-17', 'P-91-168-17', 'D-98-044-17', 'C-91-172-17', 'C-91-175-17', 'D-98-045-17', 'C-30-021-17', 'D-98-046-17']
+[2025-08-12 12:52:49] 📝 PTB183: Found 7 prequalifications: ['Special Services (Mechanical)', 'Special Services (Surveying)', 'Special Services (Electrical Engineering)', 'Highways (Roads & Streets)', 'Special Services (Construction Inspection)', 'Location Design Studies (Rehabilitation)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:49] 🔍 Processing PTB184...
+[2025-08-12 12:52:49] 📋 PTB184: Found 41 job numbers: ['D-30-001-17', 'P-98-091-17', 'D-60-032-18', 'D-94-072-15', 'D-98-078-17', 'P-93-031-17', 'C-98-048-17', 'D-99-036-17', 'D-99-047-17', 'P-93-030-17', 'P-98-070-17', 'C-91-236-17', 'P-98-080-17', 'D-60-034-18', 'D-98-085-17', 'D-91-233-17', 'P-94-014-17', 'C-91-237-17', 'P-91-238-17', 'D-91-226-17', 'C-94-064-17', 'D-60-033-18', 'D-60-031-18', 'D-91-239-17', 'P-93-032-17', 'D-91-231-17', 'P-91-196-17', 'P-98-009-17', 'C-94-065-17', 'P-91-240-17', 'P-98-078-17', 'C-91-228-17', 'C-93-084-17', 'P-98-007-17', 'C-91-235-17', 'C-95-036-17', 'P-98-079-17', 'C-91-230-17', 'C-91-234-17', 'R-99-010-17', 'C-91-232-17']
+[2025-08-12 12:52:49] 📝 PTB184: Found 8 prequalifications: ['Hydraulic Reports (Pump Stations)', 'Special Services (Surveying)', 'Structures (Moveable)', 'Highways (Roads & Streets)', 'Structures (Railroad)', 'Special Services (Construction Inspection)', 'Hydraulic Reports (Waterways: Complex)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:49] 🔍 Processing PTB185...
+[2025-08-12 12:52:49] 📋 PTB185: Found 30 job numbers: ['D-98-001-18', 'P-91-002-18', 'I-37-002-18', 'D-91-001-18', 'R-66-140-18', 'D-98-071-17', 'D-91-002-18', 'P-91-003-18', 'P-91-004-18', 'D-91-215-17', 'T-94-001-18', 'C-91-001-18', 'R-66-130-18', 'P-95-033-17', 'P-91-001-18', 'C-91-008-18', 'D-91-004-18', 'P-91-005-18', 'M-91-002-18', 'I-37-001-18', 'P-98-071-17', 'D-91-261-17', 'P-95-026-10', 'D-91-262-17', 'M-91-001-18', 'P-30-026-17', 'D-95-033-17', 'D-95-026-10', 'D-91-003-18', 'D-30-001-18']
+[2025-08-12 12:52:50] 📝 PTB185: Found 7 prequalifications: ['Hydraulic Reports (Pump Stations)', 'Special Studies (Signal Coordination & Timing (SCAT))', 'Special Services (Surveying)', 'Highways (Roads & Streets)', 'Special Services (Construction Inspection)', 'Hydraulic Reports (Waterways: Complex)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:50] 🔍 Processing PTB186...
+[2025-08-12 12:52:50] 📋 PTB186: Found 14 job numbers: ['P-98-010-18', 'P-93-011-18', 'D-95-034-17', 'P-94-008-16', 'P-95-020-17', 'P-98-009-18', 'D-91-229-18', 'P-91-014-18', 'D-95-020-17', 'D-91-230-18', 'P-93-012-18', 'P-91-013-18', 'D-92-045-17', 'P-30-002-18']
+[2025-08-12 12:52:50] 📝 PTB186: Found 9 prequalifications: ['Special Services (Surveying)', 'Highways (Roads & Streets)', 'Geotechnical Services (Subsurface Explorations)', 'Geotechnical Services (General Geotechnical Services)', 'Highways (Freeways)', 'Location Design Studies (Rehabilitation)', 'Geotechnical Services (Structure Geotechnical Reports (SGR))', 'Environmental Reports (Environmental Assessment)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:50] 🔍 Processing PTB187...
+[2025-08-12 12:52:50] 📋 PTB187: Found 19 job numbers: ['D-91-253-18', 'P-95-035-17', 'P-92-018-13', 'M-96-001-18', 'C-91-318-16', 'I-37-006-18', 'I-37-005-18', 'D-91-254-18', 'D-94-045-16', 'D-96-006-18', 'C-91-229-15', 'D-96-029-18', 'D-92-018-13', 'C-91-999-99', 'D-95-035-17', 'T-91-001-18', 'P-94-007-18', 'M-99-001-18', 'I-37-004-18']
+[2025-08-12 12:52:50] 📝 PTB187: Found 8 prequalifications: ['Special Services (Mechanical)', 'Special Services (Surveying)', 'Structures (Moveable)', 'Highways (Roads & Streets)', 'Special Services (Construction Inspection)', 'Structures (Highway: Complex)', 'Location Design Studies (Rehabilitation)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:50] 🔍 Processing PTB188...
+[2025-08-12 12:52:50] 📋 PTB188: Found 33 job numbers: ['P-93-021-18', 'P-91-038-18', 'D-91-294-18', 'P-95-008-18', 'R-55-001-18', 'D-91-291-18', 'D-93-079-18', 'D-60-004-19', 'D-60-003-19', 'D-91-295-18', 'D-91-277-18', 'C-94-200-06', 'M-91-004-18', 'D-95-013-98', 'P-95-013-98', 'P-93-019-18', 'D-91-296-18', 'C-91-309-12', 'D-91-278-18', 'D-98-096-18', 'D-96-032-18', 'P-91-039-18', 'C-91-309-13', 'P-93-018-18', 'P-91-041-18', 'P-98-015-18', 'D-60-002-19', 'D-60-001-19', 'D-91-292-18', 'C-91-377-14', 'D-91-293-18', 'D-98-097-18', 'P-93-020-18']
+[2025-08-12 12:52:50] 📝 PTB188: Found 6 prequalifications: ['Location Design Studies (Reconstruction/Major Rehabilitation)', 'Special Services (Surveying)', 'Special Services (Construction Inspection)', 'Highways (Freeways)', 'Hydraulic Reports (Waterways: Complex)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:50] 🔍 Processing PTB189...
+[2025-08-12 12:52:50] 📋 PTB189: Found 25 job numbers: ['D-91-344-18', 'D-91-369-18', 'D-94-034-18', 'P-91-003-19', 'C-91-194-14', 'C-91-270-18', 'P-92-004-18', 'S-92-002-18', 'C-91-152-12', 'T-91-002-18', 'D-98-118-18', 'P-92-007-18', 'P-91-037-18', 'C-91-273-14', 'C-91-190-14', 'P-91-051-18', 'P-91-001-19', 'P-91-050-18', 'P-94-016-18', 'D-98-098-18', 'P-95-026-18', 'P-91-049-18', 'P-20-001-19', 'D-92-058-18', 'P-95-025-18']
+[2025-08-12 12:52:50] 📝 PTB189: Found 9 prequalifications: ['Hydraulic Reports (Pump Stations)', 'Special Services (Surveying)', 'Highways (Roads & Streets)', 'Special Services (Construction Inspection)', 'Structures (Highway: Complex)', 'Hydraulic Reports (Waterways: Typical)', 'Special Services (Subsurface Utility Engineering)', 'Hydraulic Reports (Waterways: Complex)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:50] 🔍 Processing PTB190...
+[2025-08-12 12:52:50] 📋 PTB190: Found 44 job numbers: ['D-91-068-19', 'D-91-062-19', 'P-91-034-19', 'P-91-033-19', 'D-98-029-19', 'I-37-001-19', 'M-91-003-19', 'D-91-060-19', 'D-99-067-18', 'R-25-002-19', 'P-91-032-19', 'D-91-057-19', 'D-91-067-19', 'M-91-002-19', 'C-94-052-13', 'P-94-017-17', 'D-91-055-19', 'P-91-035-19', 'D-91-066-19', 'D-96-021-18', 'P-91-030-19', 'D-91-056-19', 'I-37-002-19', 'D-91-059-19', 'D-91-061-19', 'P-98-012-19', 'C-93-999-99', 'P-98-008-19', 'D-98-028-19', 'R-25-003-19', 'R-66-072-19', 'P-91-025-19', 'P-94-003-19', 'P-91-031-19', 'R-25-004-19', 'P-92-006-18', 'P-92-005-18', 'D-94-039-17', 'I-92-001-19', 'M-91-001-19', 'D-96-017-19', 'D-30-003-12', 'C-93-999-19', 'R-66-075-19']
+[2025-08-12 12:52:50] 📝 PTB190: Found 15 prequalifications: ['Special Services (Surveying)', 'Highways (Roads & Streets)', 'Geotechnical Services (Subsurface Explorations)', 'Geotechnical Services (General Geotechnical Services)', 'Highways (Freeways)', 'Special Services (Quality Assurance HMA & Aggregate)', 'Special Services (Construction Inspection)', 'Structures (Highway: Complex)', 'Hydraulic Reports (Waterways: Typical)', 'Special Services (Electrical Engineering)', 'Geotechnical Services (Structure Geotechnical Reports (SGR))', 'Environmental Reports (Environmental Assessment)', 'Structures (Highway: Typical)', 'Special Services (Quality Assurance PCC & Aggregate)', 'Hydraulic Reports (Waterways: Complex)']
+[2025-08-12 12:52:50] 🔍 Processing PTB191...
+[2025-08-12 12:52:50] 📋 PTB191: Found 15 job numbers: ['D-93-045-19', 'C-91-407-11', 'D-96-018-12', 'D-91-121-19', 'P-95-011-18', 'P-98-012-19', 'D-98-119-18', 'D-91-124-19', 'D-98-028-19', 'D-91-118-19', 'C-91-321-15', 'D-20-001-19', 'P-94-006-19', 'C-91-233-16', 'P-30-002-19']
+[2025-08-12 12:52:51] 📝 PTB191: Found 7 prequalifications: ['Special Services (Surveying)', 'Highways (Roads & Streets)', 'Highways (Freeways)', 'Special Services (Construction Inspection)', 'Special Studies (Feasibility)', 'Special Services (Subsurface Utility Engineering)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:51] 🔍 Processing PTB192...
+[2025-08-12 12:52:51] 📋 PTB192: Found 27 job numbers: ['D-91-167-19', 'D-91-171-19', 'C-91-003-17', 'T-91-001-19', 'V-97-001-19', 'D-98-042-19', 'V-91-001-19', 'V-91-004-19', 'V-91-003-19', 'V-93-002-19', 'D-60-004-20', 'S-60-002-20', 'I-37-001-20', 'V-94-001-19', 'I-37-003-20', 'I-37-002-20', 'S-60-001-20', 'R-97-004-16', 'C-91-090-18', 'V-98-001-19', 'P-98-018-19', 'V-98-002-19', 'C-95-038-15', 'V-93-001-19', 'V-91-002-19', 'D-60-003-20', 'V-94-002-19']
+[2025-08-12 12:52:51] 📝 PTB192: Found 8 prequalifications: ['Special Services (Surveying)', 'Highways (Roads & Streets)', 'Geotechnical Services (General Geotechnical Services)', 'Special Services (Construction Inspection)', 'Structures (Highway: Complex)', 'Hydraulic Reports (Waterways: Typical)', 'Location Design Studies (Rehabilitation)', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:51] 🔍 Processing PTB193...
+[2025-08-12 12:52:51] 📋 PTB193: Found 44 job numbers: ['D-91-195-19', 'D-98-001-20', 'P-91-070-19', 'P-94-002-20', 'I-37-004-20', 'P-20-001-20', 'R-66-029-20', 'D-99-059-19', 'P-91-072-19', 'D-94-040-19', 'I-37-005-20', 'P-94-001-20', 'P-91-068-19', 'C-93-094-19', 'D-60-005-20', 'D-92-064-19', 'P-91-071-19', 'D-91-226-20', 'D-91-193-19', 'D-91-194-19', 'P-98-005-20', 'D-91-191-19', 'R-55-001-93', 'P-91-066-19', 'D-91-227-20', 'P-95-017-13', 'M-99-001-19', 'P-95-014-19', 'P-91-001-20', 'P-20-002-20', 'D-96-053-19', 'C-93-049-19', 'P-20-003-20', 'P-91-067-19', 'C-91-137-16', 'V-91-006-19', 'D-91-192-19', 'D-91-196-19', 'P-20-004-20', 'V-91-005-19', 'I-37-006-20', 'S-60-003-20', 'C-91-410-19', 'P-99-001-20']
+[2025-08-12 12:52:51] 📝 PTB193: Found 7 prequalifications: ['Special Services (Surveying)', 'Highways (Roads & Streets)', 'Special Services (Construction Inspection)', 'Hydraulic Reports (Waterways: Typical)', 'Environmental Reports (Environmental Assessment)', 'Structures (Highway: Typical)', 'Hydraulic Reports (Waterways: Complex)']
+[2025-08-12 12:52:51] 🔍 Processing PTB194...
+[2025-08-12 12:52:51] 📋 PTB194: Found 71 job numbers: ['V-91-004-20', 'D-98-075-20', 'V-94-002-20', 'D-92-001-20', 'D-91-313-20', 'V-93-001-20', 'V-98-001-20', 'C-91-185-14', 'D-98-090-17', 'P-92-016-09', 'D-92-009-07', 'D-92-081-96', 'D-91-311-20', 'C-95-020-17', 'P-95-030-19', 'D-91-206-19', 'P-95-032-20', 'M-91-003-20', 'D-97-048-20', 'D-96-016-20', 'D-91-312-20', 'V-94-003-20', 'D-98-068-20', 'C-91-311-15', 'V-91-005-20', 'T-99-031-20', 'D-92-009-20', 'C-91-280-12', 'P-93-016-20', 'D-98-074-20', 'P-94-006-20', 'P-98-017-20', 'P-92-009-07', 'P-92-081-96', 'P-93-020-20', 'P-94-015-19', 'D-91-205-19', 'D-96-014-20', 'D-98-072-20', 'T-91-001-20', 'P-95-049-16', 'P-92-003-19', 'P-93-018-20', 'P-93-019-20', 'P-30-004-20', 'D-98-071-20', 'D-98-073-20', 'C-91-096-08', 'C-91-002-20', 'P-92-004-20', 'R-66-021-20', 'P-98-018-20', 'V-91-003-20', 'P-98-014-20', 'P-93-017-20', 'P-95-031-19', 'P-91-019-20', 'P-91-020-20', 'C-91-310-15', 'S-96-001-20', 'T-92-001-20', 'C-91-280-14', 'D-92-001-17', 'D-96-013-20', 'D-91-207-19', 'V-99-001-20', 'P-93-021-20', 'D-98-070-20', 'P-93-022-20', 'P-92-001-17', 'D-96-015-20']
+[2025-08-12 12:52:51] 📝 PTB194: Found 16 prequalifications: ['Hydraulic Reports (Pump Stations)', 'Location Design Studies (Reconstruction/Major Rehabilitation)', 'Special Services (Surveying)', 'Transportation Studies (Railway Engineering)', 'Geotechnical Services (General Geotechnical Services)', 'Structures (Railroad)', 'Highways (Freeways)', 'Special Services (Landscape Architecture)', 'Special Services (Construction Inspection)', 'Structures (Highway: Complex)', 'Hydraulic Reports (Waterways: Typical)', 'Location Design Studies (Rehabilitation)', 'Geotechnical Services (Structure Geotechnical Reports (SGR))', 'Environmental Reports (Environmental Assessment)', 'Structures (Highway: Typical)', 'Hydraulic Reports (Waterways: Complex)']
+[2025-08-12 12:52:51] 🔍 Processing PTB195...
+[2025-08-12 12:52:51] 📋 PTB195: Found 77 job numbers: ['P-95-044-20', 'D-91-356-20', 'V-93-002-20', 'P-96-003-20', 'T-94-002-20', 'P-94-017-20', 'C-94-077-16', 'V-91-011-20', 'D-91-378-20', 'D-92-048-14', 'P-96-004-20', 'P-98-026-20', 'P-97-085-20', 'P-94-024-18', 'D-99-058-17', 'D-91-374-20', 'P-92-007-20', 'D-91-366-20', 'V-92-001-20', 'P-91-027-20', 'P-98-028-20', 'P-91-028-20', 'P-96-005-20', 'C-91-274-14', 'P-98-029-20', 'D-94-057-18', 'D-99-043-15', 'D-91-357-20', 'D-94-028-20', 'P-92-003-18', 'V-92-006-20', 'P-99-007-20', 'V-93-003-20', 'P-92-063-11', 'D-98-009-04', 'P-98-002-21', 'D-92-063-11', 'P-99-003-20', 'P-95-030-19', 'V-91-008-20', 'P-98-003-21', 'D-91-371-20', 'P-98-027-20', 'P-92-006-20', 'D-92-058-08', 'P-94-007-20', 'D-91-375-20', 'P-95-047-20', 'D-99-037-20', 'P-94-028-20', 'P-98-032-20', 'D-91-379-20', 'P-91-029-20', 'D-94-041-19', 'D-91-373-20', 'P-91-030-20', 'P-92-002-14', 'D-96-055-19', 'P-92-058-08', 'D-91-372-20', 'P-98-025-20', 'D-91-367-20', 'D-98-099-20', 'D-91-364-20', 'T-85-001-20', 'D-96-152-10', 'V-91-010-20', 'D-96-056-12', 'P-99-015-20', 'D-91-376-20', 'D-95-024-20', 'D-93-063-03', 'V-98-002-20', 'V-97-001-20', 'P-92-005-20', 'V-91-009-20', 'P-60-001-20']
+[2025-08-12 12:52:52] 📝 PTB195: Found 10 prequalifications: ['Location Design Studies (Reconstruction/Major Rehabilitation)', 'Special Services (Surveying)', 'Geotechnical Services (General Geotechnical Services)', 'Highways (Freeways)', 'Special Services (Construction Inspection)', 'Special Services (Hazardous Waste: Advance)', 'Structures (Highway: Complex)', 'Hydraulic Reports (Waterways: Typical)', 'Geotechnical Services (Structure Geotechnical Reports (SGR))', 'Structures (Highway: Typical)']
+[2025-08-12 12:52:52] 🔍 Processing PTB196...
+[2025-08-12 12:52:52] 📋 PTB196: Found 77 job numbers: ['D-96-528-07', 'P-93-028-20', 'R-66-026-20', 'S-60-002-21', 'P-98-038-20', 'V-91-013-20', 'S-60-001-21', 'D-91-365-20', 'P-91-037-20', 'D-98-017-17', 'D-91-460-20', 'C-95-029-17', 'D-91-445-20', 'N-37-001-20', 'P-94-029-20', 'P-96-012-20', 'D-96-045-20', 'P-98-022-20', 'D-91-441-20', 'V-94-006-20', 'V-91-015-20', 'P-99-014-20', 'D-99-061-20', 'P-92-011-20', 'T-98-001-20', 'D-91-448-20', 'D-92-083-05', 'V-92-007-20', 'P-98-001-25', 'P-98-004-21', 'D-91-453-20', 'D-60-002-21', 'D-98-069-12', 'P-94-045-20', 'V-94-004-20', 'P-99-016-20', 'D-98-112-20', 'D-91-358-20', 'P-99-017-20', 'P-91-040-20', 'V-93-004-20', 'D-91-450-20', 'D-98-108-20', 'D-91-444-20', 'V-95-001-20', 'D-91-451-20', 'D-91-443-20', 'D-91-369-20', 'D-91-449-20', 'C-91-196-18', 'D-98-002-25', 'P-96-006-20', 'P-98-007-24', 'V-94-008-20', 'D-93-067-20', 'D-98-064-12', 'P-93-026-20', 'V-91-012-20', 'V-94-009-20', 'D-98-109-20', 'V-91-014-20', 'P-30-005-20', 'V-96-001-20', 'D-91-370-20', 'D-98-110-20', 'D-98-067-14', 'D-91-446-20', 'P-98-001-05', 'P-96-011-20', 'D-60-001-21', 'D-98-111-20', 'C-98-119-20', 'P-98-039-20', 'D-97-089-20', 'P-91-036-20', 'P-92-007-19', 'D-96-081-20']
+[2025-08-12 12:52:52] 📝 PTB196: Found 18 prequalifications: ['Hydraulic Reports (Pump Stations)', 'Special Studies (Signal Coordination & Timing (SCAT))', 'Location Design Studies (Reconstruction/Major Rehabilitation)', 'Special Services (Surveying)', 'Structures (Moveable)', 'Geotechnical Services (Subsurface Explorations)', 'Geotechnical Services (General Geotechnical Services)', 'Highways (Freeways)', 'Special Services (Quality Assurance HMA & Aggregate)', 'Special Services (Construction Inspection)', 'Special Services (Hazardous Waste: Advance)', 'Structures (Highway: Complex)', 'Hydraulic Reports (Waterways: Typical)', 'Location Design Studies (Rehabilitation)', 'Geotechnical Services (Structure Geotechnical Reports (SGR))', 'Environmental Reports (Environmental Assessment)', 'Structures (Highway: Typical)', 'Hydraulic Reports (Waterways: Complex)']
+[2025-08-12 12:52:52] 🔍 Processing PTB197...
+[2025-08-12 12:52:52] 📋 PTB197: Found 50 job numbers: ['D-95-092-07', 'D-91-606-20', 'C-91-388-20', 'P-93-030-20', 'P-94-002-21', 'D-92-043-20', 'P-96-015-20', 'P-98-011-21', 'P-95-004-21', 'P-91-003-21', 'D-95-002-21', 'P-95-056-20', 'P-92-012-20', 'D-91-454-20', 'D-91-003-21', 'T-91-003-20', 'D-95-018-19', 'P-98-041-20', 'V-91-002-21', 'P-95-092-07', 'C-91-261-19', 'V-92-002-20', 'V-91-001-21', 'P-94-001-21', 'P-95-029-20', 'S-60-006-20', 'V-98-001-21', 'P-95-028-19', 'P-98-012-21', 'D-95-032-10', 'V-94-005-20', 'C-91-086-16', 'P-98-010-21', 'M-96-001-21', 'P-97-047-12', 'P-98-040-20', 'P-95-005-21', 'P-93-029-20', 'D-91-607-20', 'D-97-062-12', 'D-95-036-20', 'V-91-016-20', 'P-92-013-15', 'C-92-012-14', 'D-91-006-21', 'P-91-001-21', 'P-98-009-21', 'D-91-002-21', 'D-91-007-21', 'D-91-004-21']
+[2025-08-12 12:52:52] 📝 PTB197: Found 8 prequalifications: ['Special Services (Surveying)', 'Structures (Moveable)', 'Highways (Freeways)', 'Special Services (Quality Assurance HMA & Aggregate)', 'Special Services (Construction Inspection)', 'Hydraulic Reports (Waterways: Typical)', 'Structures (Highway: Typical)', 'Special Services (Quality Assurance PCC & Aggregate)']
+[2025-08-12 12:52:52] 🔍 Processing PTB198...
+[2025-08-12 12:52:52] 📋 PTB198: Found 39 job numbers: ['D-98-042-21', 'P-92-080-12', 'D-91-204-19', 'P-91-005-21', 'V-99-001-21', 'P-91-006-21', 'V-97-002-20', 'P-94-004-21', 'P-98-018-21', 'T-91-001-21', 'V-98-002-21', 'P-97-098-20', 'C-93-047-20', 'P-98-014-21', 'S-60-006-20', 'I-37-001-21', 'P-92-010-20', 'V-92-003-20', 'P-95-055-20', 'V-91-003-21', 'P-96-013-20', 'P-98-016-21', 'P-98-015-21', 'D-91-042-21', 'D-91-045-21', 'D-91-043-21', 'P-99-001-21', 'P-95-053-20', 'P-92-058-20', 'C-95-049-18', 'D-92-016-20', 'P-98-022-21', 'V-91-005-21', 'C-93-069-19', 'C-91-326-20', 'C-92-020-20', 'P-95-001-19', 'P-98-017-21', 'R-66-071-21']
+[2025-08-12 12:52:52] 📝 PTB198: Found 16 prequalifications: ['Location Design Studies (Reconstruction/Major Rehabilitation)', 'Special Services (Surveying)', 'Special Services (Electrical Engineering)', 'Structures (Moveable)', 'Geotechnical Services (Subsurface Explorations)', 'Highways (Freeways)', 'Special Services (Quality Assurance HMA & Aggregate)', 'Special Services (Construction Inspection)', 'Geotechnical Services (Structure Geotechnical Reports (SGR))', 'Hydraulic Reports (Waterways: Typical)', 'Location Design Studies (Rehabilitation)', 'Special Services (Subsurface Utility Engineering)', 'Environmental Reports (Environmental Assessment)', 'Structures (Highway: Typical)', 'Special Services (Quality Assurance PCC & Aggregate)', 'Hydraulic Reports (Waterways: Complex)']
+[2025-08-12 12:52:52] 🔍 Processing PTB199...
+[2025-08-12 12:52:52] 📋 PTB199: Found 45 job numbers: ['I-37-004-21', 'I-37-003-21', 'D-91-082-21', 'V-91-008-21', 'D-91-080-21', 'P-95-054-20', 'D-30-002-21', 'P-96-014-20', 'C-91-289-21', 'D-91-078-21', 'D-91-084-21', 'V-91-006-21', 'P-93-003-21', 'T-91-002-21', 'D-91-076-21', 'D-92-031-21', 'P-98-029-21', 'P-98-020-21', 'I-37-002-21', 'D-91-077-21', 'P-91-014-21', 'P-30-001-21', 'D-94-024-20', 'P-99-004-21', 'C-94-091-09', 'D-96-027-21', 'D-92-038-21', 'P-99-003-21', 'C-91-068-21', 'V-91-007-21', 'D-91-117-19', 'D-91-079-21', 'P-94-012-20', 'C-91-259-19', 'P-94-006-21', 'P-96-003-21', 'P-98-027-21', 'P-93-004-21', 'V-93-001-21', 'D-91-081-21', 'P-98-028-21', 'P-98-005-21', 'D-96-001-09', 'V-98-003-21', 'D-91-083-21']
+[2025-08-12 12:52:52] 📝 PTB199: Found 13 prequalifications: ['Special Services (Surveying)', 'Special Plans (Traffic Signals)', 'Special Plans (Lighting: Typical)', 'Geotechnical Services (General Geotechnical Services)', 'Special Services (Construction Inspection)', 'Special Services (Quality Assurance HMA & Aggregate)', 'Special Services (Hazardous Waste: Advance)', 'Hydraulic Reports (Waterways: Typical)', 'Special Services (Electrical Engineering)', 'Geotechnical Services (Structure Geotechnical Reports (SGR))', 'Environmental Reports (Environmental Assessment)', 'Structures (Highway: Typical)', 'Special Services (Quality Assurance PCC & Aggregate)']
+[2025-08-12 12:52:52] 🔍 Processing PTB200...
+[2025-08-12 12:52:53] 📋 PTB200: Found 55 job numbers: ['P-91-025-21', 'V-93-002-21', 'N-45-001-22', 'V-91-012-21', 'P-92-005-19', 'P-93-003-22', 'P-95-041-20', 'D-96-051-21', 'P-94-031-20', 'D-99-042-13', 'D-91-152-21', 'P-93-005-22', 'P-94-010-21', 'V-93-003-21', 'D-92-066-20', 'P-98-003-22', 'P-96-011-21', 'C-91-237-11', 'P-98-004-22', 'C-99-079-21', 'D-92-032-21', 'P-30-003-21', 'D-30-001-21', 'V-94-001-21', 'P-92-008-21', 'C-91-194-18', 'C-94-077-16', 'M-99-001-21', 'S-60-001-22', 'D-60-001-22', 'D-93-055-21', 'S-60-002-22', 'V-91-011-21', 'D-91-153-21', 'P-98-030-21', 'V-91-009-21', 'V-91-010-21', 'D-93-054-20', 'P-92-004-21', 'C-91-116-17', 'D-97-036-13', 'P-97-018-13', 'C-91-321-16', 'P-99-006-21', 'D-91-154-21', 'P-97-007-21', 'D-60-002-22', 'P-92-009-21', 'P-96-010-21', 'D-98-063-21', 'P-96-008-21', 'D-94-009-20', 'D-98-044-11', 'P-94-004-20', 'P-92-018-20']
+[2025-08-12 12:52:53] 📝 PTB200: Found 21 prequalifications: ['Structures (Railroad)', 'Highways (Freeways)', 'Location Design Studies (Rehabilitation)', 'Special Services (Subsurface Utility Engineering)', 'Geotechnical Services (Structure Geotechnical Reports (SGR))', 'Structures (Highway: Typical)', 'Special Plans (Traffic Signals)', 'Geotechnical Services (Subsurface Explorations)', 'Special Services (Construction Inspection)', 'Special Services (Quality Assurance HMA & Aggregate)', 'Environmental Reports (Environmental Assessment)', 'Special Studies (Signal Coordination & Timing (SCAT))', 'Geotechnical Services (General Geotechnical Services)', 'Special Studies (Safety)', 'Structures (Highway: Complex)', 'Location Design Studies (Reconstruction/Major Rehabilitation)', 'Special Services (Surveying)', 'Special Plans (Lighting: Complex)', 'Special Plans (Lighting: Typical)', 'Hydraulic Reports (Waterways: Typical)', 'Special Services (Public Involvement)']
+[2025-08-12 12:52:53] 🔗 Matching job numbers to award data...
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job D-30-001-12 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job P-30-006-12 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job P-30-003-12 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job P-30-005-12 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job C-94-157-11 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job P-91-500-11 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job P-95-050-11 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job C-94-015-10 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job C-91-390-11 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job D-91-525-11 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job D-30-002-12 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job D-60-034-12 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job D-97-021-11 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job P-30-009-04 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job C-93-084-11 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job P-95-052-11 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job P-98-011-11 → 5 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB160 Job P-98-060-11
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job D-91-506-11 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job D-91-516-11 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job C-98-062-11 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job P-94-014-11 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job C-92-126-11 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job P-30-004-12 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job C-92-125-11 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job P-91-526-11 → 5 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB160 Job D-98-060-11
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job C-98-063-11 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB160 Job C-93-085-11 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job D-93-087-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job C-95-053-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job C-94-087-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job D-96-092-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job P-91-001-12 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job D-91-624-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job P-91-636-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job D-91-639-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job D-93-085-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job D-96-093-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job P-91-002-12 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job P-91-637-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job P-93-036-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job D-94-001-12 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job D-91-017-12 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job D-92-098-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job D-91-008-12 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job D-91-634-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job R-99-011-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job D-91-633-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job P-93-033-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job P-92-099-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job P-91-003-12 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job P-95-030-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job P-91-013-12 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job P-91-635-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job D-30-004-12 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job C-91-386-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job P-94-001-12 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job D-91-640-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job C-98-081-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job D-91-638-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job D-91-007-12 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB161 Job D-91-612-11 → 1 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job C-92-142-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job D-91-111-12 → 9 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB162 Job P-94-012-11
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job P-91-108-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job C-91-116-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job D-93-012-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job D-91-110-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job D-91-130-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job D-60-031-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job C-91-115-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job C-94-023-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job P-30-008-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job P-91-141-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job P-91-106-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job P-30-009-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job D-60-032-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job P-91-131-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job D-60-033-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job P-91-107-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job D-93-086-11 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job D-30-005-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job D-91-109-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job P-91-128-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job C-92-041-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job D-91-125-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job C-99-014-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job D-96-017-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job C-92-040-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job C-94-024-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job P-91-127-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job D-91-112-12 → 9 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB162 Job D-94-039-11
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job D-91-122-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job C-30-005-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job D-91-133-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job D-91-152-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB162 Job D-93-026-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job D-91-269-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job D-91-266-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job D-91-289-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job D-91-285-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job P-91-259-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job P-91-291-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job D-91-280-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job D-91-279-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job C-91-288-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job D-91-278-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job P-91-290-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job D-91-268-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job C-92-110-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job D-91-285-01 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job C-91-286-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job D-30-008-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job D-30-006-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job D-30-007-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job D-91-255-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job C-94-009-10 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job D-98-074-07 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job C-92-109-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job D-91-283-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job C-94-058-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job P-30-010-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job D-91-284-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job D-91-281-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job D-94-038-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job D-91-292-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB163 Job C-91-287-12 → 3 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB165 Job P-96-200-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB165 Job C-91-392-12 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB165 Job C-91-007-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB165 Job D-91-012-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB165 Job P-94-042-12 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB165 Job D-91-004-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB165 Job P-92-050-06 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB165 Job C-98-087-12 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB165 Job D-91-022-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB165 Job D-91-023-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB165 Job D-91-024-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB165 Job C-91-008-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB165 Job D-91-407-12 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB165 Job C-98-001-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB165 Job P-91-021-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB165 Job C-91-667-10 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB165 Job D-30-001-13 → 6 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB165 Job D-91-025-13
+[2025-08-12 12:52:53] ✅ Match: PTB165 Job C-94-112-12 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB165 Job P-91-495-12 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job P-30-007-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job D-98-006-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job D-91-109-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job P-30-005-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job P-94-004-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job D-60-033-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job C-91-108-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job D-60-031-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job D-60-032-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job R-97-001-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job P-30-004-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job D-98-009-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job P-91-110-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job C-91-107-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job D-99-011-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job D-91-125-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job D-91-237-11 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job P-30-001-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job P-30-006-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job D-91-126-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job D-60-034-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB166 Job D-91-124-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job D-96-018-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job R-99-001-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job P-30-009-13 → 6 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB167 Job D-91-201-13
+[2025-08-12 12:52:53] ❌ No match: PTB167 Job C-91-204-13
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job P-92-021-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job P-92-022-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job P-91-192-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job C-91-176-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job C-93-032-13 → 6 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB167 Job P-30-002-13
+[2025-08-12 12:52:53] ❌ No match: PTB167 Job P-98-028-13
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job C-94-015-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job C-91-390-12 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job D-91-202-13 → 6 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB167 Job D-98-028-13
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job C-93-047-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job C-91-196-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job P-91-179-13 → 6 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB167 Job P-91-201-13
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job P-94-003-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job C-91-182-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job C-98-013-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job C-91-181-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job C-98-014-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job C-94-014-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job C-91-180-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job D-99-011-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job C-91-175-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job C-93-030-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job C-91-178-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job C-91-203-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job P-91-195-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job D-91-177-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job D-91-185-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB167 Job D-30-003-13 → 6 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB168 Job P-94-020-12
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job P-92-004-13 → 14 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job C-30-020-13 → 14 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job D-91-315-13 → 14 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job C-91-316-13 → 14 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job C-91-313-13 → 14 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job P-30-003-13 → 14 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job R-96-001-13 → 14 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job P-30-008-13 → 14 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job P-92-034-13 → 14 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB168 Job P-99-003-13
+[2025-08-12 12:52:53] ❌ No match: PTB168 Job D-98-048-13
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job D-91-317-13 → 14 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job P-91-320-13 → 14 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB168 Job D-99-034-13
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job D-91-309-13 → 14 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job P-91-319-13 → 14 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job P-30-011-13 → 14 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job R-55-001-93 → 14 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB168 Job P-98-048-13
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job D-97-016-13 → 14 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job D-91-314-13 → 14 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job D-91-311-13 → 14 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job C-91-312-13 → 14 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB168 Job D-94-039-12
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job D-92-073-11 → 14 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job C-91-173-13 → 14 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job D-98-055-13 → 14 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB168 Job R-66-001-14
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job P-91-376-13 → 14 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job D-91-318-13 → 14 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB168 Job D-96-051-13 → 14 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job C-91-013-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job C-30-004-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job P-91-440-13 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB169 Job D-98-075-13
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job D-30-003-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job D-30-002-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job D-30-001-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job P-92-033-13 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job P-91-004-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job C-91-002-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job P-99-002-06 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job C-91-014-14 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB169 Job D-94-018-13
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job P-91-424-13 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job D-91-442-13 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job P-98-072-13 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job C-93-090-13 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job P-98-071-13 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job C-91-435-13 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job D-96-002-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job D-91-008-14 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB169 Job D-98-108-05
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job D-91-022-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job P-91-423-13 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job D-91-011-14 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB169 Job P-94-018-13
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job D-96-001-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job D-91-441-13 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job P-98-084-13 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job C-45-002-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job P-30-002-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job C-94-004-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job D-91-023-14 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB169 Job P-98-004-08
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job C-91-012-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job P-93-010-14 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB169 Job P-98-011-13
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job D-30-004-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job P-30-003-14 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB169 Job R-66-001-14
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job P-91-437-13 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job C-98-001-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job C-91-434-13 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job C-91-007-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job P-91-422-13 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job C-94-071-13 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job D-91-010-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job P-91-005-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB169 Job D-91-009-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB170 Job D-91-116-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB170 Job C-92-015-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB170 Job P-92-035-13 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB170 Job D-96-027-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB170 Job D-30-000-13 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB170 Job P-91-120-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB170 Job P-91-119-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB170 Job C-92-016-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB170 Job D-91-111-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB170 Job P-91-121-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB170 Job P-30-006-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB170 Job D-91-117-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB170 Job P-30-005-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB170 Job C-45-002-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB170 Job D-60-031-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB170 Job P-30-003-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB170 Job D-60-034-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB170 Job D-60-032-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB170 Job P-91-118-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB170 Job D-60-033-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB170 Job D-91-104-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job R-99-009-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job C-30-052-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job C-99-031-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job P-91-195-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job C-99-030-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job D-30-001-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job P-94-008-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job D-94-011-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job P-30-001-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job D-91-191-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job C-96-041-14 → 9 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB171 Job P-98-029-14
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job R-99-010-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job C-91-184-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job P-99-001-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job C-93-042-14 → 9 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB171 Job D-94-046-12
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job C-91-193-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job P-30-009-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job D-94-010-14 → 9 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB171 Job P-94-026-12
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job P-94-009-14 → 9 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB171 Job D-98-029-14
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job C-93-043-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job D-91-309-12 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job D-98-030-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB171 Job P-91-117-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job D-60-032-15 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job P-91-357-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job P-91-356-14 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB172 Job P-30-011-14
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job C-91-353-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job C-91-362-14 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB172 Job P-98-038-13
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job C-93-109-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job D-91-369-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job D-60-034-15 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job P-30-008-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job C-91-358-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job P-92-021-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job C-98-022-11 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job D-60-033-15 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job D-91-333-14 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB172 Job D-98-038-13
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job C-92-034-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job P-91-318-14 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB172 Job P-98-045-14
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job P-30-012-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job D-91-323-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job D-91-335-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job C-91-192-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job C-94-084-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job P-92-018-14 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB172 Job R-66-001-14
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job C-92-035-14 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB172 Job D-98-045-14
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job P-30-010-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job D-60-031-15 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job D-91-355-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job D-91-354-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB172 Job P-92-020-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job C-91-006-15 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job C-91-005-15 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job P-91-443-14 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job C-91-439-14 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job P-30-001-15 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job C-93-158-14 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job C-99-002-15 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job C-91-010-15 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job C-94-132-14 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job C-91-004-15 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job C-91-008-15 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job C-98-069-14 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job P-30-003-15 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job D-91-459-14 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job C-91-003-15 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job D-96-001-15 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job C-96-200-15 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job P-30-002-15 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job D-91-462-14 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job C-91-009-15 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job D-97-056-14 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job C-98-077-14 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job P-91-442-14 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job D-91-455-14 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job C-91-007-15 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job C-99-003-15 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job D-91-465-14 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job C-98-079-14 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job D-91-456-14 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job D-91-466-14 → 4 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB173 Job R-96-002-14
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job C-94-133-14 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job C-99-001-15 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job P-91-440-14 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job D-91-467-14 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB173 Job D-91-002-15 → 4 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB174 Job D-91-101-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB174 Job D-30-002-15 → 11 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB174 Job D-98-023-15
+[2025-08-12 12:52:53] ✅ Match: PTB174 Job P-91-120-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB174 Job C-94-034-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB174 Job P-91-119-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB174 Job P-30-004-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB174 Job D-91-340-14 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB174 Job D-96-009-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB174 Job D-30-004-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB174 Job C-30-005-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB174 Job C-30-004-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB174 Job C-91-117-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB174 Job D-30-003-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB174 Job P-91-130-15 → 11 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB174 Job P-98-023-15
+[2025-08-12 12:52:53] ✅ Match: PTB174 Job D-91-118-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB174 Job P-98-001-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB174 Job P-91-121-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB174 Job D-91-001-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB174 Job P-91-122-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job C-93-061-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job P-91-225-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job P-92-019-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job P-96-200-16 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job C-91-228-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job D-95-026-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job D-96-035-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job D-91-236-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job C-94-034-11 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job D-91-227-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job C-91-235-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job D-91-202-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job D-97-032-10 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job C-91-231-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job P-93-017-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job C-91-123-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job D-91-113-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job C-30-009-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job D-91-239-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job C-91-229-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job C-91-230-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job C-91-124-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job C-93-059-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job P-92-022-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job P-91-226-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job D-91-216-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job C-93-060-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB175 Job P-91-224-15 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job D-91-350-15 → 11 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB176 Job P-94-004-15
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job P-98-064-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job D-60-034-16 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job C-95-028-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job D-91-236-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job D-60-032-16 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job C-92-052-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job D-60-031-16 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job C-30-021-15 → 11 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB176 Job D-94-036-15
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job C-91-123-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job D-98-067-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job C-96-054-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job P-91-346-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job P-91-348-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job C-94-072-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job P-30-005-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job C-94-073-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job C-30-013-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job D-95-029-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job D-98-065-15 → 11 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB176 Job D-92-022-15
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job C-91-359-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job C-92-053-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job C-30-012-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job P-91-347-15 → 11 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB176 Job P-92-022-15
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job D-98-046-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job P-91-349-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job D-98-063-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job D-60-033-16 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job D-91-339-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB176 Job D-98-066-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB177 Job P-91-001-16 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB177 Job C-91-005-16 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB177 Job C-30-001-16 → 5 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB177 Job P-94-010-09
+[2025-08-12 12:52:53] ✅ Match: PTB177 Job C-93-117-15 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB177 Job C-91-425-15 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB177 Job C-94-001-16 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB177 Job P-99-001-16 → 5 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB177 Job R-66-001-16
+[2025-08-12 12:52:53] ✅ Match: PTB177 Job D-91-013-16 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB177 Job P-30-002-16 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB177 Job D-91-020-16 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB177 Job P-91-421-15 → 5 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB177 Job D-94-060-09
+[2025-08-12 12:52:53] ✅ Match: PTB177 Job C-91-012-16 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB178 Job C-96-019-16 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB178 Job C-91-010-16 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB178 Job R-96-005-15 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB178 Job D-99-010-16 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB178 Job D-91-123-16 → 11 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB178 Job C-91-011-16
+[2025-08-12 12:52:53] ✅ Match: PTB178 Job D-96-013-16 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB178 Job D-91-128-16 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB178 Job D-91-086-16 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB178 Job C-98-031-16 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB178 Job D-97-006-16 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB178 Job P-94-003-16 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB178 Job D-91-119-16 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB178 Job R-99-003-16 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB178 Job C-91-113-16 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB178 Job P-30-003-16 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB178 Job C-94-011-16 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB178 Job D-91-087-16 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB178 Job D-91-103-16 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB178 Job C-91-127-16 → 11 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB179 Job P-30-001-16 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB179 Job P-93-016-16 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB179 Job P-91-219-16 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB179 Job D-91-226-16 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB179 Job C-30-018-16 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB179 Job D-30-002-16 → 5 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB179 Job P-92-017-10
+[2025-08-12 12:52:53] ✅ Match: PTB179 Job D-91-199-16 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB179 Job P-91-225-16 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB179 Job P-91-218-16 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB179 Job P-91-224-16 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB179 Job C-91-230-16 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB179 Job C-91-231-16 → 5 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB179 Job D-92-017-10
+[2025-08-12 12:52:53] ✅ Match: PTB179 Job C-91-217-16 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB179 Job R-55-001-93 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB179 Job P-92-031-15 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB179 Job C-91-229-16 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB179 Job C-93-038-16 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB179 Job P-30-004-16 → 5 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job C-92-037-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job C-91-324-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job C-91-322-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job D-97-022-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job D-95-045-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job C-96-052-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job P-98-006-07 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job D-92-047-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job D-98-038-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job D-91-318-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job C-95-038-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job C-94-052-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job C-94-053-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job P-92-070-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job D-95-044-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job D-91-317-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job R-97-004-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job R-55-001-17 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job R-97-003-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job R-99-004-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job D-91-321-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job C-91-323-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job C-94-055-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job C-94-079-12 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job C-94-054-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job D-98-039-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB180 Job C-92-036-16 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB181 Job P-30-003-17 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB181 Job D-60-033-17 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB181 Job D-98-004-17 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB181 Job D-91-476-16 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB181 Job P-92-005-15 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB181 Job D-60-031-17 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB181 Job D-60-032-17 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB181 Job P-30-001-17 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB181 Job C-93-092-16 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB181 Job P-91-475-16 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB181 Job P-92-071-16 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB181 Job P-92-035-16 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB181 Job C-91-473-16 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB181 Job P-91-404-16 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB181 Job D-95-046-16 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB181 Job P-30-002-17 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB181 Job D-91-471-16 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB181 Job D-91-477-16 → 6 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB181 Job P-98-005-17
+[2025-08-12 12:52:53] ✅ Match: PTB181 Job P-94-001-17 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB181 Job D-91-472-16 → 6 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB181 Job D-98-005-17
+[2025-08-12 12:52:53] ❌ No match: PTB182 Job D-98-029-17
+[2025-08-12 12:52:53] ✅ Match: PTB182 Job D-99-005-17 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB182 Job C-92-008-16 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB182 Job D-92-103-05 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB182 Job P-30-004-17 → 6 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB182 Job P-91-132-17
+[2025-08-12 12:52:53] ❌ No match: PTB182 Job C-91-120-17
+[2025-08-12 12:52:53] ❌ No match: PTB182 Job P-98-029-17
+[2025-08-12 12:52:53] ✅ Match: PTB182 Job P-30-025-17 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB182 Job P-98-002-17 → 6 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB182 Job C-91-128-17
+[2025-08-12 12:52:53] ❌ No match: PTB182 Job P-91-119-17
+[2025-08-12 12:52:53] ❌ No match: PTB182 Job D-91-115-17
+[2025-08-12 12:52:53] ✅ Match: PTB182 Job D-60-034-17 → 6 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB182 Job D-91-116-17
+[2025-08-12 12:52:53] ✅ Match: PTB182 Job D-92-044-16 → 6 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB182 Job P-92-073-16
+[2025-08-12 12:52:53] ❌ No match: PTB182 Job D-91-117-17
+[2025-08-12 12:52:53] ✅ Match: PTB182 Job C-92-038-16 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB182 Job C-92-014-17 → 6 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB182 Job D-92-073-16
+[2025-08-12 12:52:53] ✅ Match: PTB182 Job P-30-005-17 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB182 Job C-30-018-17 → 6 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB183 Job D-98-040-16
+[2025-08-12 12:52:53] ✅ Match: PTB183 Job P-30-027-17 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB183 Job C-91-174-17 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB183 Job C-98-018-17 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB183 Job C-91-173-17 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB183 Job C-91-176-17 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB183 Job C-91-167-17 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB183 Job P-98-040-16
+[2025-08-12 12:52:53] ✅ Match: PTB183 Job P-91-169-17 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB183 Job D-96-026-17 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB183 Job P-98-044-17
+[2025-08-12 12:52:53] ✅ Match: PTB183 Job D-96-025-17 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB183 Job C-91-171-17 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB183 Job P-91-168-17 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB183 Job D-98-044-17
+[2025-08-12 12:52:53] ✅ Match: PTB183 Job C-91-172-17 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB183 Job C-91-175-17 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB183 Job D-98-045-17 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB183 Job C-30-021-17 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB183 Job D-98-046-17 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job D-30-001-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job P-98-091-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job D-60-032-18 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB184 Job D-94-072-15
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job D-98-078-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job P-93-031-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job C-98-048-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job D-99-036-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job D-99-047-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job P-93-030-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job P-98-070-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job C-91-236-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job P-98-080-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job D-60-034-18 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job D-98-085-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job D-91-233-17 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB184 Job P-94-014-17
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job C-91-237-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job P-91-238-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job D-91-226-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job C-94-064-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job D-60-033-18 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job D-60-031-18 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job D-91-239-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job P-93-032-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job D-91-231-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job P-91-196-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job P-98-009-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job C-94-065-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job P-91-240-17 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB184 Job P-98-078-17
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job C-91-228-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job C-93-084-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job P-98-007-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job C-91-235-17 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB184 Job C-95-036-17
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job P-98-079-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job C-91-230-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job C-91-234-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job R-99-010-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB184 Job C-91-232-17 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB185 Job D-98-001-18 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB185 Job P-91-002-18 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB185 Job I-37-002-18
+[2025-08-12 12:52:53] ✅ Match: PTB185 Job D-91-001-18 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB185 Job R-66-140-18
+[2025-08-12 12:52:53] ❌ No match: PTB185 Job D-98-071-17
+[2025-08-12 12:52:53] ✅ Match: PTB185 Job D-91-002-18 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB185 Job P-91-003-18 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB185 Job P-91-004-18 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB185 Job D-91-215-17 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB185 Job T-94-001-18
+[2025-08-12 12:52:53] ✅ Match: PTB185 Job C-91-001-18 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB185 Job R-66-130-18
+[2025-08-12 12:52:53] ❌ No match: PTB185 Job P-95-033-17
+[2025-08-12 12:52:53] ✅ Match: PTB185 Job P-91-001-18 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB185 Job C-91-008-18 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB185 Job D-91-004-18
+[2025-08-12 12:52:53] ✅ Match: PTB185 Job P-91-005-18 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB185 Job M-91-002-18 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB185 Job I-37-001-18
+[2025-08-12 12:52:53] ❌ No match: PTB185 Job P-98-071-17
+[2025-08-12 12:52:53] ✅ Match: PTB185 Job D-91-261-17 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB185 Job P-95-026-10
+[2025-08-12 12:52:53] ✅ Match: PTB185 Job D-91-262-17 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB185 Job M-91-001-18 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB185 Job P-30-026-17 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB185 Job D-95-033-17
+[2025-08-12 12:52:53] ❌ No match: PTB185 Job D-95-026-10
+[2025-08-12 12:52:53] ✅ Match: PTB185 Job D-91-003-18 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB185 Job D-30-001-18 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB186 Job P-98-010-18 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB186 Job P-93-011-18 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB186 Job D-95-034-17 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB186 Job P-94-008-16 → 9 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB186 Job P-95-020-17
+[2025-08-12 12:52:53] ✅ Match: PTB186 Job P-98-009-18 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB186 Job D-91-229-18 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB186 Job P-91-014-18 → 9 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB186 Job D-95-020-17
+[2025-08-12 12:52:53] ✅ Match: PTB186 Job D-91-230-18 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB186 Job P-93-012-18 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB186 Job P-91-013-18 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB186 Job D-92-045-17 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB186 Job P-30-002-18 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB187 Job D-91-253-18 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB187 Job P-95-035-17
+[2025-08-12 12:52:53] ❌ No match: PTB187 Job P-92-018-13
+[2025-08-12 12:52:53] ❌ No match: PTB187 Job M-96-001-18
+[2025-08-12 12:52:53] ✅ Match: PTB187 Job C-91-318-16 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB187 Job I-37-006-18
+[2025-08-12 12:52:53] ❌ No match: PTB187 Job I-37-005-18
+[2025-08-12 12:52:53] ✅ Match: PTB187 Job D-91-254-18 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB187 Job D-94-045-16
+[2025-08-12 12:52:53] ✅ Match: PTB187 Job D-96-006-18 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB187 Job C-91-229-15 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB187 Job D-96-029-18 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB187 Job D-92-018-13
+[2025-08-12 12:52:53] ✅ Match: PTB187 Job C-91-999-99 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB187 Job D-95-035-17
+[2025-08-12 12:52:53] ❌ No match: PTB187 Job T-91-001-18
+[2025-08-12 12:52:53] ❌ No match: PTB187 Job P-94-007-18
+[2025-08-12 12:52:53] ❌ No match: PTB187 Job M-99-001-18
+[2025-08-12 12:52:53] ❌ No match: PTB187 Job I-37-004-18
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job P-93-021-18 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job P-91-038-18 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job D-91-294-18 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job P-95-008-18 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job R-55-001-18 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job D-91-291-18 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job D-93-079-18 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job D-60-004-19 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job D-60-003-19 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job D-91-295-18 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job D-91-277-18 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job C-94-200-06 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job M-91-004-18 → 6 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB188 Job D-95-013-98
+[2025-08-12 12:52:53] ❌ No match: PTB188 Job P-95-013-98
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job P-93-019-18 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job D-91-296-18 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job C-91-309-12 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job D-91-278-18 → 6 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB188 Job D-98-096-18
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job D-96-032-18 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job P-91-039-18 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job C-91-309-13 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job P-93-018-18 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job P-91-041-18 → 6 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB188 Job P-98-015-18
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job D-60-002-19 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job D-60-001-19 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job D-91-292-18 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job C-91-377-14 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job D-91-293-18 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job D-98-097-18 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB188 Job P-93-020-18 → 6 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job D-91-344-18 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job D-91-369-18 → 9 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB189 Job D-94-034-18
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job P-91-003-19 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job C-91-194-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job C-91-270-18 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job P-92-004-18 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job S-92-002-18 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job C-91-152-12 → 9 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB189 Job T-91-002-18
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job D-98-118-18 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job P-92-007-18 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job P-91-037-18 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job C-91-273-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job C-91-190-14 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job P-91-051-18 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job P-91-001-19 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job P-91-050-18 → 9 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB189 Job P-94-016-18
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job D-98-098-18 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job P-95-026-18 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job P-91-049-18 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job P-20-001-19 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job D-92-058-18 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB189 Job P-95-025-18 → 9 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job D-91-068-19 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job D-91-062-19 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job P-91-034-19 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job P-91-033-19 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job D-98-029-19 → 15 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB190 Job I-37-001-19
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job M-91-003-19 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job D-91-060-19 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job D-99-067-18 → 15 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB190 Job R-25-002-19
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job P-91-032-19 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job D-91-057-19 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job D-91-067-19 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job M-91-002-19 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job C-94-052-13 → 15 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB190 Job P-94-017-17
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job D-91-055-19 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job P-91-035-19 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job D-91-066-19 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job D-96-021-18 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job P-91-030-19 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job D-91-056-19 → 15 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB190 Job I-37-002-19
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job D-91-059-19 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job D-91-061-19 → 15 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB190 Job P-98-012-19
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job C-93-999-99 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job P-98-008-19 → 15 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB190 Job D-98-028-19
+[2025-08-12 12:52:53] ❌ No match: PTB190 Job R-25-003-19
+[2025-08-12 12:52:53] ❌ No match: PTB190 Job R-66-072-19
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job P-91-025-19 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job P-94-003-19 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job P-91-031-19 → 15 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB190 Job R-25-004-19
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job P-92-006-18 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job P-92-005-18 → 15 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB190 Job D-94-039-17
+[2025-08-12 12:52:53] ❌ No match: PTB190 Job I-92-001-19
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job M-91-001-19 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job D-96-017-19 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job D-30-003-12 → 15 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB190 Job C-93-999-19 → 15 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB190 Job R-66-075-19
+[2025-08-12 12:52:53] ✅ Match: PTB191 Job D-93-045-19 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB191 Job C-91-407-11 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB191 Job D-96-018-12 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB191 Job D-91-121-19 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB191 Job P-95-011-18 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB191 Job P-98-012-19
+[2025-08-12 12:52:53] ✅ Match: PTB191 Job D-98-119-18 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB191 Job D-91-124-19 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB191 Job D-98-028-19
+[2025-08-12 12:52:53] ✅ Match: PTB191 Job D-91-118-19 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB191 Job C-91-321-15 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB191 Job D-20-001-19 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB191 Job P-94-006-19 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB191 Job C-91-233-16 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB191 Job P-30-002-19 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB192 Job D-91-167-19 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB192 Job D-91-171-19 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB192 Job C-91-003-17 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB192 Job T-91-001-19
+[2025-08-12 12:52:53] ❌ No match: PTB192 Job V-97-001-19
+[2025-08-12 12:52:53] ❌ No match: PTB192 Job D-98-042-19
+[2025-08-12 12:52:53] ❌ No match: PTB192 Job V-91-001-19
+[2025-08-12 12:52:53] ❌ No match: PTB192 Job V-91-004-19
+[2025-08-12 12:52:53] ❌ No match: PTB192 Job V-91-003-19
+[2025-08-12 12:52:53] ❌ No match: PTB192 Job V-93-002-19
+[2025-08-12 12:52:53] ✅ Match: PTB192 Job D-60-004-20 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB192 Job S-60-002-20 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB192 Job I-37-001-20
+[2025-08-12 12:52:53] ❌ No match: PTB192 Job V-94-001-19
+[2025-08-12 12:52:53] ❌ No match: PTB192 Job I-37-003-20
+[2025-08-12 12:52:53] ❌ No match: PTB192 Job I-37-002-20
+[2025-08-12 12:52:53] ✅ Match: PTB192 Job S-60-001-20 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB192 Job R-97-004-16 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB192 Job C-91-090-18 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB192 Job V-98-001-19
+[2025-08-12 12:52:53] ❌ No match: PTB192 Job P-98-018-19
+[2025-08-12 12:52:53] ❌ No match: PTB192 Job V-98-002-19
+[2025-08-12 12:52:53] ✅ Match: PTB192 Job C-95-038-15 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB192 Job V-93-001-19
+[2025-08-12 12:52:53] ❌ No match: PTB192 Job V-91-002-19
+[2025-08-12 12:52:53] ✅ Match: PTB192 Job D-60-003-20 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB192 Job V-94-002-19
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job D-91-195-19
+[2025-08-12 12:52:53] ✅ Match: PTB193 Job D-98-001-20 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job P-91-070-19
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job P-94-002-20
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job I-37-004-20
+[2025-08-12 12:52:53] ✅ Match: PTB193 Job P-20-001-20 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job R-66-029-20
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job D-99-059-19
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job P-91-072-19
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job D-94-040-19
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job I-37-005-20
+[2025-08-12 12:52:53] ✅ Match: PTB193 Job P-94-001-20 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job P-91-068-19
+[2025-08-12 12:52:53] ✅ Match: PTB193 Job C-93-094-19 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB193 Job D-60-005-20 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job D-92-064-19
+[2025-08-12 12:52:53] ✅ Match: PTB193 Job P-91-071-19 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job D-91-226-20
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job D-91-193-19
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job D-91-194-19
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job P-98-005-20
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job D-91-191-19
+[2025-08-12 12:52:53] ✅ Match: PTB193 Job R-55-001-93 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job P-91-066-19
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job D-91-227-20
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job P-95-017-13
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job M-99-001-19
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job P-95-014-19
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job P-91-001-20
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job P-20-002-20
+[2025-08-12 12:52:53] ✅ Match: PTB193 Job D-96-053-19 → 7 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB193 Job C-93-049-19 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job P-20-003-20
+[2025-08-12 12:52:53] ✅ Match: PTB193 Job P-91-067-19 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job C-91-137-16
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job V-91-006-19
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job D-91-192-19
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job D-91-196-19
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job P-20-004-20
+[2025-08-12 12:52:53] ✅ Match: PTB193 Job V-91-005-19 → 7 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job I-37-006-20
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job S-60-003-20
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job C-91-410-19
+[2025-08-12 12:52:53] ❌ No match: PTB193 Job P-99-001-20
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job V-91-004-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job D-98-075-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job V-94-002-20 → 16 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB194 Job D-92-001-20
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job D-91-313-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job V-93-001-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job V-98-001-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job C-91-185-14 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job D-98-090-17 → 16 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB194 Job P-92-016-09
+[2025-08-12 12:52:53] ❌ No match: PTB194 Job D-92-009-07
+[2025-08-12 12:52:53] ❌ No match: PTB194 Job D-92-081-96
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job D-91-311-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job C-95-020-17 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job P-95-030-19 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job D-91-206-19 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job P-95-032-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job M-91-003-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job D-97-048-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job D-96-016-20 → 16 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB194 Job D-91-312-20
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job V-94-003-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job D-98-068-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job C-91-311-15 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job V-91-005-20 → 16 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB194 Job T-99-031-20
+[2025-08-12 12:52:53] ❌ No match: PTB194 Job D-92-009-20
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job C-91-280-12 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job P-93-016-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job D-98-074-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job P-94-006-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job P-98-017-20 → 16 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB194 Job P-92-009-07
+[2025-08-12 12:52:53] ❌ No match: PTB194 Job P-92-081-96
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job P-93-020-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job P-94-015-19 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job D-91-205-19 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job D-96-014-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job D-98-072-20 → 16 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB194 Job T-91-001-20
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job P-95-049-16 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job P-92-003-19 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job P-93-018-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job P-93-019-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job P-30-004-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job D-98-071-20 → 16 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB194 Job D-98-073-20
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job C-91-096-08 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job C-91-002-20 → 16 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB194 Job P-92-004-20
+[2025-08-12 12:52:53] ❌ No match: PTB194 Job R-66-021-20
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job P-98-018-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job V-91-003-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job P-98-014-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job P-93-017-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job P-95-031-19 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job P-91-019-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job P-91-020-20 → 16 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB194 Job C-91-310-15
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job S-96-001-20 → 16 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB194 Job T-92-001-20
+[2025-08-12 12:52:53] ❌ No match: PTB194 Job C-91-280-14
+[2025-08-12 12:52:53] ❌ No match: PTB194 Job D-92-001-17
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job D-96-013-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job D-91-207-19 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job V-99-001-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job P-93-021-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job D-98-070-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job P-93-022-20 → 16 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB194 Job P-92-001-17
+[2025-08-12 12:52:53] ✅ Match: PTB194 Job D-96-015-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-95-044-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job D-91-356-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job V-93-002-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-96-003-20 → 10 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job T-94-002-20
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job P-94-017-20
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job C-94-077-16 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job V-91-011-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job D-91-378-20 → 10 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job D-92-048-14
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job P-96-004-20
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-98-026-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-97-085-20 → 10 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job P-94-024-18
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job D-99-058-17
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job D-91-374-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-92-007-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job D-91-366-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job V-92-001-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-91-027-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-98-028-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-91-028-20 → 10 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job P-96-005-20
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job C-91-274-14 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-98-029-20 → 10 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job D-94-057-18
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job D-99-043-15
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job D-91-357-20 → 10 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job D-94-028-20
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-92-003-18 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job V-92-006-20 → 10 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job P-99-007-20
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job V-93-003-20 → 10 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job P-92-063-11
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job D-98-009-04 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-98-002-21 → 10 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job D-92-063-11
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job P-99-003-20
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-95-030-19 → 10 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job V-91-008-20
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-98-003-21 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job D-91-371-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-98-027-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-92-006-20 → 10 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job D-92-058-08
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job P-94-007-20
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job D-91-375-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-95-047-20 → 10 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job D-99-037-20
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-94-028-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-98-032-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job D-91-379-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-91-029-20 → 10 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job D-94-041-19
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job D-91-373-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-91-030-20 → 10 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job P-92-002-14
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job D-96-055-19
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job P-92-058-08
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job D-91-372-20
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-98-025-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job D-91-367-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job D-98-099-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job D-91-364-20 → 10 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job T-85-001-20
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job D-96-152-10 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job V-91-010-20 → 10 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job D-96-056-12
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job P-99-015-20
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job D-91-376-20 → 10 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB195 Job D-95-024-20
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job D-93-063-03 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job V-98-002-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job V-97-001-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-92-005-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job V-91-009-20 → 10 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB195 Job P-60-001-20 → 10 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB196 Job D-96-528-07
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job P-93-028-20 → 18 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB196 Job R-66-026-20
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job S-60-002-21 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job P-98-038-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job V-91-013-20 → 18 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB196 Job S-60-001-21
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-91-365-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job P-91-037-20 → 18 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB196 Job D-98-017-17
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-91-460-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job C-95-029-17 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-91-445-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job N-37-001-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job P-94-029-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job P-96-012-20 → 18 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB196 Job D-96-045-20
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job P-98-022-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-91-441-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job V-94-006-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job V-91-015-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job P-99-014-20 → 18 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB196 Job D-99-061-20
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job P-92-011-20 → 18 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB196 Job T-98-001-20
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-91-448-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-92-083-05 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job V-92-007-20 → 18 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB196 Job P-98-001-25
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job P-98-004-21 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-91-453-20 → 18 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB196 Job D-60-002-21
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-98-069-12 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job P-94-045-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job V-94-004-20 → 18 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB196 Job P-99-016-20
+[2025-08-12 12:52:53] ❌ No match: PTB196 Job D-98-112-20
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-91-358-20 → 18 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB196 Job P-99-017-20
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job P-91-040-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job V-93-004-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-91-450-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-98-108-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-91-444-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job V-95-001-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-91-451-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-91-443-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-91-369-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-91-449-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job C-91-196-18 → 18 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB196 Job D-98-002-25
+[2025-08-12 12:52:53] ❌ No match: PTB196 Job P-96-006-20
+[2025-08-12 12:52:53] ❌ No match: PTB196 Job P-98-007-24
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job V-94-008-20 → 18 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB196 Job D-93-067-20
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-98-064-12 → 18 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB196 Job P-93-026-20
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job V-91-012-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job V-94-009-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-98-109-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job V-91-014-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job P-30-005-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job V-96-001-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-91-370-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-98-110-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-98-067-14 → 18 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB196 Job D-91-446-20
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job P-98-001-05 → 18 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB196 Job P-96-011-20
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-60-001-21 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-98-111-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job C-98-119-20 → 18 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB196 Job P-98-039-20
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-97-089-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job P-91-036-20 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job P-92-007-19 → 18 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB196 Job D-96-081-20 → 18 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB197 Job D-95-092-07
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job D-91-606-20 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job C-91-388-20 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job P-93-030-20 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job P-94-002-21 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job D-92-043-20 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job P-96-015-20 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job P-98-011-21 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB197 Job P-95-004-21
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job P-91-003-21 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB197 Job D-95-002-21
+[2025-08-12 12:52:53] ❌ No match: PTB197 Job P-95-056-20
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job P-92-012-20 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job D-91-454-20 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job D-91-003-21 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB197 Job T-91-003-20
+[2025-08-12 12:52:53] ❌ No match: PTB197 Job D-95-018-19
+[2025-08-12 12:52:53] ❌ No match: PTB197 Job P-98-041-20
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job V-91-002-21 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB197 Job P-95-092-07
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job C-91-261-19 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job V-92-002-20 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job V-91-001-21 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job P-94-001-21 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job P-95-029-20 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job S-60-006-20 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job V-98-001-21 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB197 Job P-95-028-19
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job P-98-012-21 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB197 Job D-95-032-10
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job V-94-005-20 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job C-91-086-16 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job P-98-010-21 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB197 Job M-96-001-21
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job P-97-047-12 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job P-98-040-20 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB197 Job P-95-005-21
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job P-93-029-20 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job D-91-607-20 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job D-97-062-12 → 8 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB197 Job D-95-036-20
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job V-91-016-20 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job P-92-013-15 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job C-92-012-14 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job D-91-006-21 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job P-91-001-21 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job P-98-009-21 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job D-91-002-21 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job D-91-007-21 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB197 Job D-91-004-21 → 8 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job D-98-042-21 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job P-92-080-12 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job D-91-204-19 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job P-91-005-21 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job V-99-001-21 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job P-91-006-21 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job V-97-002-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job P-94-004-21 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job P-98-018-21 → 16 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB198 Job T-91-001-21
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job V-98-002-21 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job P-97-098-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job C-93-047-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job P-98-014-21 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job S-60-006-20 → 16 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB198 Job I-37-001-21
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job P-92-010-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job V-92-003-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job P-95-055-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job V-91-003-21 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job P-96-013-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job P-98-016-21 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job P-98-015-21 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job D-91-042-21 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job D-91-045-21 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job D-91-043-21 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job P-99-001-21 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job P-95-053-20 → 16 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB198 Job P-92-058-20
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job C-95-049-18 → 16 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB198 Job D-92-016-20
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job P-98-022-21 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job V-91-005-21 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job C-93-069-19 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job C-91-326-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job C-92-020-20 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job P-95-001-19 → 16 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB198 Job P-98-017-21 → 16 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB198 Job R-66-071-21
+[2025-08-12 12:52:53] ❌ No match: PTB199 Job I-37-004-21
+[2025-08-12 12:52:53] ❌ No match: PTB199 Job I-37-003-21
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job D-91-082-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job V-91-008-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job D-91-080-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job P-95-054-20 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job D-30-002-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job P-96-014-20 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job C-91-289-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job D-91-078-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job D-91-084-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job V-91-006-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job P-93-003-21 → 13 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB199 Job T-91-002-21
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job D-91-076-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job D-92-031-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job P-98-029-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job P-98-020-21 → 13 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB199 Job I-37-002-21
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job D-91-077-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job P-91-014-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job P-30-001-21 → 13 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB199 Job D-94-024-20
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job P-99-004-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job C-94-091-09 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job D-96-027-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job D-92-038-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job P-99-003-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job C-91-068-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job V-91-007-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job D-91-117-19 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job D-91-079-21 → 13 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB199 Job P-94-012-20
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job C-91-259-19 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job P-94-006-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job P-96-003-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job P-98-027-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job P-93-004-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job V-93-001-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job D-91-081-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job P-98-028-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job P-98-005-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job D-96-001-09 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job V-98-003-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB199 Job D-91-083-21 → 13 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job P-91-025-21 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job V-93-002-21 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job N-45-001-22 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job V-91-012-21 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job P-92-005-19 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job P-93-003-22 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job P-95-041-20 → 21 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB200 Job D-96-051-21
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job P-94-031-20 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job D-99-042-13 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job D-91-152-21 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job P-93-005-22 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job P-94-010-21 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job V-93-003-21 → 21 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB200 Job D-92-066-20
+[2025-08-12 12:52:53] ❌ No match: PTB200 Job P-98-003-22
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job P-96-011-21 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job C-91-237-11 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job P-98-004-22 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job C-99-079-21 → 21 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB200 Job D-92-032-21
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job P-30-003-21 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job D-30-001-21 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job V-94-001-21 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job P-92-008-21 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job C-91-194-18 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job C-94-077-16 → 21 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB200 Job M-99-001-21
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job S-60-001-22 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job D-60-001-22 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job D-93-055-21 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job S-60-002-22 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job V-91-011-21 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job D-91-153-21 → 21 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB200 Job P-98-030-21
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job V-91-009-21 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job V-91-010-21 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job D-93-054-20 → 21 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB200 Job P-92-004-21
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job C-91-116-17 → 21 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB200 Job D-97-036-13
+[2025-08-12 12:52:53] ❌ No match: PTB200 Job P-97-018-13
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job C-91-321-16 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job P-99-006-21 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job D-91-154-21 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job P-97-007-21 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job D-60-002-22 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job P-92-009-21 → 21 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB200 Job P-96-010-21
+[2025-08-12 12:52:53] ❌ No match: PTB200 Job D-98-063-21
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job P-96-008-21 → 21 prequals
+[2025-08-12 12:52:53] ✅ Match: PTB200 Job D-94-009-20 → 21 prequals
+[2025-08-12 12:52:53] ❌ No match: PTB200 Job D-98-044-11
+[2025-08-12 12:52:53] ❌ No match: PTB200 Job P-94-004-20
+[2025-08-12 12:52:53] ❌ No match: PTB200 Job P-92-018-20
+[2025-08-12 12:52:53] 📊 Updating award file with 1074 matches...
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-001-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-006-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-003-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-005-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-157-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-500-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-95-050-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-015-10
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-390-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-525-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-002-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-034-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-97-021-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-009-04
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-084-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-95-052-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-011-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-506-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-516-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-98-062-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-014-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-92-126-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-004-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-92-125-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-526-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-98-063-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-085-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-93-087-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-95-053-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-087-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-092-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-001-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-624-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-636-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-639-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-93-085-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-093-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-002-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-637-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-036-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-94-001-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-017-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-92-098-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-008-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-634-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job R-99-011-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-633-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-033-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-099-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-003-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-95-030-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-013-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-635-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-004-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-386-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-001-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-640-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-98-081-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-638-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-007-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-612-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-92-142-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-111-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-108-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-116-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-93-012-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-110-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-130-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-031-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-115-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-023-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-008-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-141-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-106-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-009-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-032-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-131-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-033-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-107-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-93-086-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-005-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-109-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-128-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-92-041-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-125-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-99-014-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-017-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-92-040-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-024-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-127-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-112-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-122-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-30-005-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-133-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-152-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-93-026-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-269-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-266-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-289-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-285-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-259-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-291-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-280-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-279-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-288-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-278-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-290-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-268-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-92-110-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-285-01
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-286-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-008-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-006-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-007-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-255-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-009-10
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-074-07
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-92-109-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-283-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-058-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-010-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-284-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-281-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-94-038-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-292-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-287-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-96-200-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-392-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-007-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-012-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-042-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-004-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-050-06
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-98-087-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-022-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-023-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-024-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-008-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-407-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-98-001-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-021-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-667-10
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-001-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-112-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-495-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-007-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-006-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-109-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-005-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-004-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-033-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-108-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-031-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-032-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job R-97-001-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-004-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-009-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-110-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-107-13
+[2025-08-12 12:52:53] ✅ Updated 2 rows for Job D-99-011-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-125-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-237-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-001-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-006-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-126-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-034-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-124-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-018-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job R-99-001-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-009-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-021-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-022-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-192-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-176-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-032-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-015-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-390-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-202-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-047-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-196-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-179-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-003-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-182-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-98-013-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-181-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-98-014-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-014-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-180-13
+[2025-08-12 12:52:53] ✅ Updated 2 rows for Job D-99-011-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-175-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-030-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-178-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-203-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-195-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-177-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-185-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-003-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-004-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-30-020-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-315-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-316-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-313-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-003-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job R-96-001-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-008-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-034-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-317-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-320-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-309-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-319-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-011-13
+[2025-08-12 12:52:53] ✅ Updated 4 rows for Job R-55-001-93
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-97-016-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-314-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-311-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-312-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-92-073-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-173-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-055-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-376-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-318-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-051-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-013-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-30-004-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-440-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-003-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-002-14
+[2025-08-12 12:52:53] ✅ Updated 2 rows for Job D-30-001-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-033-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-004-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-002-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-99-002-06
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-014-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-424-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-442-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-072-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-090-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-071-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-435-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-002-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-008-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-022-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-423-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-011-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-001-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-441-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-084-13
+[2025-08-12 12:52:53] ✅ Updated 2 rows for Job C-45-002-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-002-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-004-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-023-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-012-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-010-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-004-14
+[2025-08-12 12:52:53] ✅ Updated 2 rows for Job P-30-003-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-437-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-98-001-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-434-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-007-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-422-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-071-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-010-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-005-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-009-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-116-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-92-015-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-035-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-027-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-000-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-120-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-119-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-92-016-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-111-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-121-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-006-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-117-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-005-14
+[2025-08-12 12:52:53] ✅ Updated 2 rows for Job C-45-002-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-031-14
+[2025-08-12 12:52:53] ✅ Updated 2 rows for Job P-30-003-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-034-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-032-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-118-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-033-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-104-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job R-99-009-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-30-052-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-99-031-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-195-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-99-030-14
+[2025-08-12 12:52:53] ✅ Updated 2 rows for Job D-30-001-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-008-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-94-011-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-001-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-191-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-96-041-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job R-99-010-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-184-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-99-001-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-042-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-193-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-009-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-94-010-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-009-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-043-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-309-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-030-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-117-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-032-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-357-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-356-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-353-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-362-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-109-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-369-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-034-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-008-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-358-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-021-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-98-022-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-033-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-333-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-92-034-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-318-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-012-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-323-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-335-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-192-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-084-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-018-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-92-035-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-010-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-031-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-355-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-354-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-020-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-006-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-005-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-443-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-439-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-001-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-158-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-99-002-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-010-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-132-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-004-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-008-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-98-069-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-003-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-459-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-003-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-001-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-96-200-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-002-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-462-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-009-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-97-056-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-98-077-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-442-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-455-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-007-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-99-003-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-465-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-98-079-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-456-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-466-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-133-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-99-001-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-440-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-467-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-002-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-101-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-002-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-120-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-034-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-119-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-004-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-340-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-009-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-004-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-30-005-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-30-004-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-117-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-003-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-130-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-118-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-001-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-121-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-001-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-122-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-061-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-225-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-019-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-96-200-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-228-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-95-026-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-035-15
+[2025-08-12 12:52:53] ✅ Updated 2 rows for Job D-91-236-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-034-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-227-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-235-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-202-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-97-032-10
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-231-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-017-15
+[2025-08-12 12:52:53] ✅ Updated 2 rows for Job C-91-123-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-113-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-30-009-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-239-15
+[2025-08-12 12:52:53] ✅ Updated 2 rows for Job C-91-229-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-230-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-124-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-059-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-022-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-226-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-216-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-060-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-224-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-350-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-064-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-034-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-95-028-15
+[2025-08-12 12:52:53] ✅ Updated 2 rows for Job D-91-236-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-032-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-92-052-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-031-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-30-021-15
+[2025-08-12 12:52:53] ✅ Updated 2 rows for Job C-91-123-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-067-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-96-054-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-346-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-348-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-072-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-005-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-073-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-30-013-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-95-029-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-065-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-359-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-92-053-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-30-012-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-347-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-046-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-349-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-063-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-033-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-339-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-066-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-001-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-005-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-30-001-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-117-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-425-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-001-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-99-001-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-013-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-002-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-020-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-421-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-012-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-96-019-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-010-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job R-96-005-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-99-010-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-123-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-013-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-128-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-086-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-98-031-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-97-006-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-003-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-119-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job R-99-003-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-113-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-003-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-011-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-087-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-103-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-127-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-001-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-016-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-219-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-226-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-30-018-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-002-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-199-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-225-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-218-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-224-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-230-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-231-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-217-16
+[2025-08-12 12:52:53] ✅ Updated 4 rows for Job R-55-001-93
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-031-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-229-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-038-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-004-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-92-037-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-324-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-322-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-97-022-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-95-045-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-96-052-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-006-07
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-92-047-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-038-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-318-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-95-038-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-052-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-053-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-070-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-95-044-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-317-16
+[2025-08-12 12:52:53] ✅ Updated 2 rows for Job R-97-004-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job R-55-001-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job R-97-003-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job R-99-004-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-321-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-323-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-055-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-079-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-054-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-039-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-92-036-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-003-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-033-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-004-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-476-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-005-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-031-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-032-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-001-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-092-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-475-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-071-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-035-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-473-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-404-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-95-046-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-002-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-471-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-477-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-001-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-472-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-99-005-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-92-008-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-92-103-05
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-004-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-025-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-002-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-034-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-92-044-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-92-038-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-92-014-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-005-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-30-018-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-027-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-174-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-98-018-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-173-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-176-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-167-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-169-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-026-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-025-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-171-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-168-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-172-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-175-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-045-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-30-021-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-046-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-001-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-091-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-032-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-078-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-031-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-98-048-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-99-036-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-99-047-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-030-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-070-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-236-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-080-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-034-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-085-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-233-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-237-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-238-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-226-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-064-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-033-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-031-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-239-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-032-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-231-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-196-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-009-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-065-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-240-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-228-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-084-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-007-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-235-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-079-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-230-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-234-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job R-99-010-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-232-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-001-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-002-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-001-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-002-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-003-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-004-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-215-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-001-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-001-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-008-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-005-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job M-91-002-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-261-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-262-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job M-91-001-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-026-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-003-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-001-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-010-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-011-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-95-034-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-008-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-009-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-229-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-014-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-230-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-012-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-013-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-92-045-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-002-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-253-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-318-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-254-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-006-18
+[2025-08-12 12:52:53] ✅ Updated 2 rows for Job C-91-229-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-029-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-999-99
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-021-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-038-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-294-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-95-008-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job R-55-001-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-291-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-93-079-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-004-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-003-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-295-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-277-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-200-06
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job M-91-004-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-019-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-296-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-309-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-278-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-032-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-039-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-309-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-018-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-041-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-002-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-001-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-292-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-377-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-293-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-097-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-020-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-344-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-369-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-003-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-194-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-270-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-004-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job S-92-002-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-152-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-118-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-007-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-037-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-273-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-190-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-051-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-001-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-050-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-098-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-95-026-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-049-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-20-001-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-92-058-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-95-025-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-068-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-062-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-034-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-033-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-029-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job M-91-003-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-060-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-99-067-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-032-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-057-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-067-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job M-91-002-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-052-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-055-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-035-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-066-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-021-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-030-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-056-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-059-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-061-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-999-99
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-008-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-025-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-003-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-031-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-006-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-005-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job M-91-001-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-017-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-003-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-999-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-93-045-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-407-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-018-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-121-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-95-011-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-119-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-124-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-118-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-321-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-20-001-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-006-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-233-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-002-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-167-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-171-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-003-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-004-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job S-60-002-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job S-60-001-20
+[2025-08-12 12:52:53] ✅ Updated 2 rows for Job R-97-004-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-090-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-95-038-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-003-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-001-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-20-001-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-001-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-094-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-005-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-071-19
+[2025-08-12 12:52:53] ✅ Updated 4 rows for Job R-55-001-93
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-053-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-049-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-067-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-005-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-004-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-075-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-94-002-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-313-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-93-001-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-98-001-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-185-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-090-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-311-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-95-020-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-95-030-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-206-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-95-032-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job M-91-003-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-97-048-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-016-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-94-003-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-068-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-311-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-005-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-280-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-016-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-074-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-006-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-017-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-020-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-015-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-205-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-014-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-072-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-95-049-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-003-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-018-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-019-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-004-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-071-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-096-08
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-002-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-018-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-003-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-014-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-017-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-95-031-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-019-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-020-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job S-96-001-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-013-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-207-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-99-001-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-021-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-070-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-022-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-015-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-95-044-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-356-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-93-002-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-96-003-20
+[2025-08-12 12:52:53] ✅ Updated 2 rows for Job C-94-077-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-011-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-378-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-026-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-97-085-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-374-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-007-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-366-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-92-001-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-027-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-028-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-028-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-274-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-029-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-357-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-003-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-92-006-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-93-003-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-009-04
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-002-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-95-030-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-003-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-371-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-027-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-006-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-375-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-95-047-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-028-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-032-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-379-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-029-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-373-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-030-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-025-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-367-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-099-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-364-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-152-10
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-010-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-376-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-93-063-03
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-98-002-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-97-001-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-005-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-009-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-60-001-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-028-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job S-60-002-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-038-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-013-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-365-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-037-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-460-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-95-029-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-445-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job N-37-001-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-029-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-96-012-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-022-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-441-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-94-006-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-015-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-99-014-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-011-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-448-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-92-083-05
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-92-007-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-004-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-453-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-069-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-045-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-94-004-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-358-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-040-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-93-004-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-450-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-108-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-444-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-95-001-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-451-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-443-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-369-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-449-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-196-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-94-008-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-064-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-012-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-94-009-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-109-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-014-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-005-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-96-001-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-370-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-110-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-067-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-001-05
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-001-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-111-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-98-119-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-97-089-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-036-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-007-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-081-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-606-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-388-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-030-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-002-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-92-043-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-96-015-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-011-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-003-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-012-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-454-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-003-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-002-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-261-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-92-002-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-001-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-001-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-95-029-20
+[2025-08-12 12:52:53] ✅ Updated 2 rows for Job S-60-006-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-98-001-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-012-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-94-005-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-086-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-010-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-97-047-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-040-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-029-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-607-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-97-062-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-016-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-013-15
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-92-012-14
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-006-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-001-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-009-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-002-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-007-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-004-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-98-042-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-080-12
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-204-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-005-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-99-001-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-006-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-97-002-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-004-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-018-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-98-002-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-97-098-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-047-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-014-21
+[2025-08-12 12:52:53] ✅ Updated 2 rows for Job S-60-006-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-010-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-92-003-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-95-055-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-003-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-96-013-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-016-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-015-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-042-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-045-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-043-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-99-001-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-95-053-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-95-049-18
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-022-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-005-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-93-069-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-326-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-92-020-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-95-001-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-017-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-082-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-008-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-080-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-95-054-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-002-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-96-014-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-289-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-078-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-084-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-006-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-003-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-076-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-92-031-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-029-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-020-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-077-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-014-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-001-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-99-004-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-94-091-09
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-027-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-92-038-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-99-003-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-068-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-007-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-117-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-079-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-259-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-006-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-96-003-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-027-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-004-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-93-001-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-081-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-028-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-005-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-96-001-09
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-98-003-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-083-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-91-025-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-93-002-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job N-45-001-22
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-012-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-005-19
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-003-22
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-95-041-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-031-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-99-042-13
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-152-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-93-005-22
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-94-010-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-93-003-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-96-011-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-237-11
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-98-004-22
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-99-079-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-30-003-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-30-001-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-94-001-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-008-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-194-18
+[2025-08-12 12:52:53] ✅ Updated 2 rows for Job C-94-077-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job S-60-001-22
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-001-22
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-93-055-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job S-60-002-22
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-011-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-153-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-009-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job V-91-010-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-93-054-20
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-116-17
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job C-91-321-16
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-99-006-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-91-154-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-97-007-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-60-002-22
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-92-009-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job P-96-008-21
+[2025-08-12 12:52:53] ✅ Updated 1 rows for Job D-94-009-20
+[2025-08-12 12:52:53] 📊 Total updates made: 1103
+[2025-08-12 12:52:53] 💾 Updated award file saved: ../data/award_enriched.xlsx
+[2025-08-12 12:52:53] 📊 Generating enrichment report...
+[2025-08-12 12:52:53] 📄 Enrichment report saved: enrichment_report_20250812_125253.json
+[2025-08-12 12:52:53] 
+🎉 ENRICHMENT COMPLETE!
+[2025-08-12 12:52:53] 📊 SUMMARY:
+[2025-08-12 12:52:53]   • PTB Files Processed: 40/40
+[2025-08-12 12:52:53]   • Successful Extractions: 40
+[2025-08-12 12:52:53]   • Job Number Matches: 1074
+[2025-08-12 12:52:53]   • Prequalifications Extracted: 358
+[2025-08-12 12:52:53]   • New Enrichments: 1070
+[2025-08-12 12:52:53]   • Enrichment Rate: 49.4%
+[2025-08-12 12:52:53] 🎯 ENRICHMENT PROCESS COMPLETE!
+[2025-08-12 12:52:53] ================================================================================

@@ -1,0 +1,66 @@
+COMPREHENSIVE DATA VERIFICATION REPORT
+============================================================
+
+VERIFICATION SUMMARY
+--------------------
+Date: 2025-08-07 12:16:33
+Award Records: 2166
+Firm Records: 415
+Prequal Categories: 61
+IDOT Excel Shape: (49, 14)
+
+Prequal JSON Analysis
+-------------------------
+JSON Files: 62
+Summary Total Files: 61
+Summary Total Firms: 3525
+
+Pre-qual_d Analysis
+--------------------
+Text Files: 61
+
+Category Verification
+-------------------------
+Prequal Lookup Categories: 61
+Prequal JSON Categories: 61
+Pre-qual_d Categories: 61
+Improved Mapping Categories: 33
+Mapping Success Rate: 54.1%
+
+Firm Data Consistency
+-------------------------
+Firms Data Count: 415
+Award Data Count: 644
+IDOT Excel Count: 1
+Firms-Award Match Rate: 27.9%
+Firms-IDOT Match Rate: 0.2%
+
+Improved Mapping Quality
+------------------------------
+Total Records: 2166
+Mapped Records: 2099
+Success Rate: 96.9%
+Unique Categories: 34
+
+Data Integrity Issues
+-------------------------
+Award Data Issues:
+  - Missing Job Numbers: 4
+  - Missing Firm Names: 12
+  - Missing Descriptions: 3
+
+Firms Data Issues:
+  - Missing Firm Codes: 0
+  - Missing Firm Names: 0
+  - Missing Locations: 0
+
+Prequal Lookup Issues:
+  - Empty Categories: 0
+
+Idot Excel Issues:
+  - Missing Firm Names: 46
+
+CONCLUSION
+----------
+Data verification complete. Review findings above.
+No changes were made during this analysis.

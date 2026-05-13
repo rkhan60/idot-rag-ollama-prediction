@@ -1,0 +1,31 @@
+[2025-08-12 13:09:43] 🔍 Processing PTB160...
+[2025-08-12 13:09:43] 📋 Found 29 job numbers and 25 Exhibit A sections
+[2025-08-12 13:09:43] 📝 Job D-91-516-11 → Exhibit A 0 → 0 prequals: []
+[2025-08-12 13:09:43] 📝 Job C-91-390-11 → Exhibit A 1 → 0 prequals: []
+[2025-08-12 13:09:43] 📝 Job D-91-506-11 → Exhibit A 2 → 6 prequals: ['Structures (Highway: Typical)', 'Special Services (Surveying)', 'Location Design Studies (Reconstruction/Major Rehabilitation)', 'Highways (Roads & Streets)', 'Environmental Reports (Environmental Assessment)', 'Structures (Highway: Complex)']
+[2025-08-12 13:09:43] 📝 Job P-91-526-11 → Exhibit A 3 → 0 prequals: []
+[2025-08-12 13:09:43] 📝 Job P-91-500-11 → Exhibit A 4 → 0 prequals: []
+[2025-08-12 13:09:43] 📝 Job D-91-525-11 → Exhibit A 5 → 0 prequals: []
+[2025-08-12 13:09:43] 📝 Job C-92-125-11 → Exhibit A 6 → 0 prequals: []
+[2025-08-12 13:09:43] 📝 Job C-92-126-11 → Exhibit A 7 → 0 prequals: []
+[2025-08-12 13:09:43] 📝 Job C-93-084-11 → Exhibit A 8 → 0 prequals: []
+[2025-08-12 13:09:43] 📝 Job C-93-085-11 → Exhibit A 9 → 0 prequals: []
+[2025-08-12 13:09:43] 📝 Job C-94-015-10 → Exhibit A 10 → 0 prequals: []
+[2025-08-12 13:09:43] 📝 Job C-94-157-11 → Exhibit A 11 → 0 prequals: []
+[2025-08-12 13:09:43] 📝 Job P-94-014-11 → Exhibit A 12 → 4 prequals: ['Special Services (Project Controls)', 'Geotechnical Services (General Geotechnical Services)', 'Geotechnical Services (Structure Geotechnical Reports (SGR))', 'Geotechnical Services (Subsurface Explorations)']
+[2025-08-12 13:09:43] 📝 Job P-95-050-11 → Exhibit A 13 → 0 prequals: []
+[2025-08-12 13:09:43] 📝 Job P-95-052-11 → Exhibit A 14 → 3 prequals: ['Structures (Highway: Typical)', 'Highways (Roads & Streets)', 'Location Design Studies (Rehabilitation)']
+[2025-08-12 13:09:43] 📝 Job D-97-021-11 → Exhibit A 15 → 3 prequals: ['Structures (Highway: Typical)', 'Highways (Roads & Streets)', 'Environmental Reports (Environmental Impact Statement)']
+[2025-08-12 13:09:43] 📝 Job P-98-011-11 → Exhibit A 16 → 0 prequals: []
+[2025-08-12 13:09:43] 📝 Job C-98-062-11 → Exhibit A 17 → 2 prequals: ['Hydraulic Reports (Waterways: Typical)', 'Structures (Highway: Typical)']
+[2025-08-12 13:09:43] 📝 Job P-98-060-11 → Exhibit A 18 → 0 prequals: []
+[2025-08-12 13:09:43] 📝 Job D-98-060-11 → Exhibit A 19 → 2 prequals: ['Highways (Roads & Streets)', 'Special Services (Surveying)']
+[2025-08-12 13:09:43] 📝 Job C-98-063-11 → Exhibit A 20 → 0 prequals: []
+[2025-08-12 13:09:43] 📝 Job P-30-009-04 → Exhibit A 21 → 0 prequals: []
+[2025-08-12 13:09:43] 📝 Job D-60-034-12 → Exhibit A 22 → 3 prequals: ['Environmental Reports (Environmental Assessment)', 'Special Services (Architecture)', 'Highways (Roads & Streets)']
+[2025-08-12 13:09:43] 📝 Job D-30-001-12 → Exhibit A 23 → 0 prequals: []
+[2025-08-12 13:09:43] 📝 Job D-30-002-12 → Exhibit A 24 → 0 prequals: []
+[2025-08-12 13:09:43] ⚠️ Job P-30-003-12: No corresponding Exhibit A section found
+[2025-08-12 13:09:43] ⚠️ Job P-30-004-12: No corresponding Exhibit A section found
+[2025-08-12 13:09:43] ⚠️ Job P-30-005-12: No corresponding Exhibit A section found
+[2025-08-12 13:09:43] ⚠️ Job P-30-006-12: No corresponding Exhibit A section found

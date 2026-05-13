@@ -1,0 +1,123 @@
+ACTUAL BULLETIN STRUCTURE ANALYSIS REPORT
+=======================================================
+
+EXECUTIVE SUMMARY
+--------------------
+Date: 2025-08-07 14:28:10
+Analysis of actual IDOT bulletin structure
+Focus: Extract 5 critical project details
+
+KEY FINDINGS
+---------------
+1. Job Numbers follow pattern: [Letter]-[2 digits]-[3 digits]-[2 digits]
+2. Prequalifications use parentheses format: Category (Service)
+3. Multiple prequalifications can be listed per project
+4. District information is consistently formatted
+5. Phase information is clearly stated
+
+PATTERN ANALYSIS
+--------------------
+
+JOB_NUMBERS:
+  - 1. Job No. D-91-516-11, Various Subsurface Utility Engineering Projects, Various Routes, Various Counties, Region One, District One.
+  - 2. Job No. C-91-390-11, US-30 – Briarcliff Rd. to US 34 & West of IL 31 (West Lake St.) to East of BNSF RR, Phase III Project, Kane and Kendall Counties, Region One/District One.
+  - 3. Job No. D-91-506-11, Various Phase II Projects, Various Routes, Various Counties, Region One, District One.
+  - 4. Job No. P-91-526-11, Various Phase I Projects, Various Routes, Various Counties, Region One, District One.
+  - 5. Job No. P-91-500-11, Various Traffic Studies, Various Routes, Various Counties, Region One, District One.
+
+LOCATIONS:
+  - 1. Job No. D-91-516-11, Various Subsurface Utility Engineering Projects, Various Routes, Various Counties, Region One, District One.
+  - 2. Job No. C-91-390-11, US-30 – Briarcliff Rd. to US 34 & West of IL 31 (West Lake St.) to East of BNSF RR, Phase III Project, Kane and Kendall Counties, Region One/District One.
+  - 3. Job No. D-91-506-11, Various Phase II Projects, Various Routes, Various Counties, Region One, District One.
+  - 4. Job No. P-91-526-11, Various Phase I Projects, Various Routes, Various Counties, Region One, District One.
+  - 5. Job No. P-91-500-11, Various Traffic Studies, Various Routes, Various Counties, Region One, District One.
+
+DISTRICTS:
+  - 1. Job No. D-91-516-11, Various Subsurface Utility Engineering Projects, Various Routes, Various Counties, Region One, District One.
+  - 2. Job No. C-91-390-11, US-30 – Briarcliff Rd. to US 34 & West of IL 31 (West Lake St.) to East of BNSF RR, Phase III Project, Kane and Kendall Counties, Region One/District One.
+  - 3. Job No. D-91-506-11, Various Phase II Projects, Various Routes, Various Counties, Region One, District One.
+  - 4. Job No. P-91-526-11, Various Phase I Projects, Various Routes, Various Counties, Region One, District One.
+  - 5. Job No. P-91-500-11, Various Traffic Studies, Various Routes, Various Counties, Region One, District One.
+
+PHASES:
+  - 2. Job No. C-91-390-11, US-30 – Briarcliff Rd. to US 34 & West of IL 31 (West Lake St.) to East of BNSF RR, Phase III Project, Kane and Kendall Counties, Region One/District One.
+  - 3. Job No. D-91-506-11, Various Phase II Projects, Various Routes, Various Counties, Region One, District One.
+  - 4. Job No. P-91-526-11, Various Phase I Projects, Various Routes, Various Counties, Region One, District One.
+
+PREQUALIFICATIONS:
+  - The prime firm must be prequalified in the Special Services (Subsurface Utility Engineering) category to be considered for this project.
+  - The prime firm must be prequalified in the Special Services (Construction Inspection) category to be considered for this project.
+  - The prime firm must be prequalified in the following categories to be considered for this project:
+  - The prime firm must be prequalified in the following categories to be considered for this project:
+  - The prime firm must be prequalified in the Special Studies (Traffic) category to be considered for this project.
+
+PREQUALIFICATION FORMAT ANALYSIS
+-----------------------------------
+
+PARENTHESES_FORMAT:
+  - The prime firm must be prequalified in the Special Services (Subsurface Utility Engineering) category to be considered for this project.
+  - The prime firm must be prequalified in the Special Services (Construction Inspection) category to be considered for this project.
+  - The prime firm must be prequalified in the Special Studies (Traffic) category to be considered for this project.
+
+COLON_FORMAT:
+  - The prime firm must be prequalified in the following categories to be considered for this project:
+  - The prime firm must be prequalified in the following categories to be considered for this project:
+
+HYPHEN_FORMAT:
+
+MULTIPLE_CATEGORIES:
+
+MAPPING RULES
+---------------
+
+PARENTHESES_TO_HYPHEN:
+  The prime firm must be prequalified in the Special Services (Subsurface Utility Engineering) category to be considered for this project. -> The prime firm must be prequalified in the Special Services - Subsurface Utility Engineering
+  The prime firm must be prequalified in the Special Services (Construction Inspection) category to be considered for this project. -> The prime firm must be prequalified in the Special Services - Construction Inspection
+  The prime firm must be prequalified in the Special Studies (Traffic) category to be considered for this project. -> The prime firm must be prequalified in the Special Studies - Traffic
+
+COLON_TO_HYPHEN:
+  The prime firm must be prequalified in the following categories to be considered for this project: -> The prime firm must be prequalified in the following categories to be considered for this project - 
+
+STANDARDIZATION_RULES:
+  - Replace parentheses () with hyphens -
+  - Replace colons : with hyphens -
+  - Standardize spacing around hyphens
+  - Handle multiple categories per project
+
+TRAINING RECOMMENDATIONS
+-------------------------
+
+EXTRACTION_STRATEGIES:
+  - Extract Job Number: 'Job No. [A-Z]-\d+-\d+-\d+'
+  - Extract Location: Lines with 'County' or 'Route'
+  - Extract District: Lines with 'District'
+  - Extract Phase: Lines with 'Phase'
+  - Extract Prequalifications: Lines with 'prequalified'
+
+FORMAT_STANDARDIZATION:
+  - Convert bulletin format to lookup format
+  - Handle parentheses to hyphen conversion
+  - Handle colon to hyphen conversion
+  - Standardize spacing and punctuation
+
+MODEL_TRAINING:
+  - Train on bulletin text extraction
+  - Train on format standardization
+  - Train on category mapping
+  - Train on multi-label classification
+
+CRITICAL INSIGHTS
+--------------------
+1. Bulletin uses parentheses format: 'Category (Service)'
+2. Lookup uses hyphen format: 'Category - Service'
+3. Need standardization pipeline: () -> -
+4. Multiple categories per project are common
+5. Job numbers are consistently formatted
+
+NEXT STEPS
+------------
+1. Standardize prequal_lookup.json to match bulletin format
+2. Create bulletin text extraction model
+3. Implement format standardization pipeline
+4. Train category mapping model
+5. Validate with real bulletin data

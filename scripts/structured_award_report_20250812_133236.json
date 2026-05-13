@@ -1,0 +1,472 @@
+{
+  "timestamp": "2025-08-12T13:32:36.592046",
+  "processing_summary": {
+    "total_ptb_files_available": 40,
+    "processed_ptb_files": 1,
+    "total_projects_found": 26,
+    "projects_with_prequals": 24,
+    "job_number_matches": 26,
+    "prequalifications_extracted": 39,
+    "validation_errors": 0,
+    "missing_ptb_files": []
+  },
+  "excel_file_impact": {
+    "total_award_rows": 2166,
+    "rows_in_structured": 26,
+    "enrichment_percentage": 1.2003693444136658
+  },
+  "project_results": [
+    {
+      "job_number": "D-91-516-11",
+      "description": "Various Subsurface Utility Engineering Projects, Various Routes, Various Counties, Region One, District One",
+      "prequalifications": [
+        "Special Services (Subsurface Utility Engineering)"
+      ],
+      "project_text_sample": "Job No. D-91-516-11, Various Subsurface Utility Engineering Projects, Various Routes, Various Counties, Region One, District One.   \n \nThis project requires 20% DBE participation.   \n \nThe Complexity ...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "C-91-390-11",
+      "description": "US-30 \u2013 Briarcliff Rd",
+      "prequalifications": [
+        "Special Services (Construction Inspection)"
+      ],
+      "project_text_sample": "Job No. C-91-390-11, US-30 \u2013 Briarcliff Rd. to US 34 & West of IL 31 (West Lake St.) to East of BNSF RR, Phase III Project, Kane and Kendall Counties, Region One/District One.   \n \nThis project requir...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "D-91-506-11",
+      "description": "Various Phase II Projects, Various Routes, Various Counties, Region One, District One",
+      "prequalifications": [
+        "Structures (Highway: Typical)",
+        "Special Services (Surveying)",
+        "Highways (Roads & Streets)"
+      ],
+      "project_text_sample": "Job No. D-91-506-11, Various Phase II Projects, Various Routes, Various Counties, Region One, District One.   \n \nThis project requires 15% DBE participation. \n \nThe Complexity Factor for this project ...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "P-91-526-11",
+      "description": "Various Phase I Projects, Various Routes, Various Counties, Region One, District One",
+      "prequalifications": [
+        "Structures (Highway: Complex)",
+        "Location Design Studies (Reconstruction/Major Rehabilitation)",
+        "Environmental Reports (Environmental Assessment)"
+      ],
+      "project_text_sample": "Job No. P-91-526-11, Various Phase I Projects, Various Routes, Various Counties, Region One, District One.   \n \nThis project requires 15% DBE participation. \n \nThe Complexity Factor for this project i...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "P-91-500-11",
+      "description": "Various Traffic Studies, Various Routes, Various Counties, Region One, District One",
+      "prequalifications": [
+        "Special Studies (Traffic)"
+      ],
+      "project_text_sample": "Job No. P-91-500-11, Various Traffic Studies, Various Routes, Various Counties, Region One, District One. \n \nThe Complexity Factor for this project is 0. \n \nThe Consultant who is selected for this pro...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "D-91-525-11",
+      "description": "Various Survey Projects, Various Routes, Various Counties, Region One/ District One   \n \nThe Complexity Factor for this project is 0",
+      "prequalifications": [
+        "Special Services (Surveying)"
+      ],
+      "project_text_sample": "Job No. D-91-525-11, Various Survey Projects, Various Routes, Various Counties, Region One/ District One   \n \nThe Complexity Factor for this project is 0. \n \nThe Consultant who is selected for this pr...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "C-92-125-11",
+      "description": "Various Phase III Projects, Various Routes, Various Counties, Region Two/ District Two",
+      "prequalifications": [
+        "Special Services (Construction Inspection)"
+      ],
+      "project_text_sample": "Job No. C-92-125-11, Various Phase III Projects, Various Routes, Various Counties, Region Two/ District Two.   \n \nThis project requires 15% DBE participation. \n \nThe Complexity Factor for this project...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "C-92-126-11",
+      "description": "Various Phase III Projects, Various Routes, Various Counties, Region Two/District Two",
+      "prequalifications": [
+        "Special Services (Construction Inspection)"
+      ],
+      "project_text_sample": "Job No. C-92-126-11, Various Phase III Projects, Various Routes, Various Counties, Region Two/District Two.   \n \nThis project requires 15% DBE participation. \n \nThe Complexity Factor for this project ...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "C-93-084-11",
+      "description": "Various Quality Assurance Testing Projects, Various Counties, Region Two, District Three, Ottawa",
+      "prequalifications": [
+        "Special Services (Quality Assurance PCC & Aggregate)"
+      ],
+      "project_text_sample": "Job No. C-93-084-11, Various Quality Assurance Testing Projects, Various Counties, Region Two, District Three, Ottawa. \n  \nThe Complexity Factor for this project is 0.  \n \nThe Consultant who is select...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "C-93-085-11",
+      "description": "IL 47, from North of US 34 to IL 71 in Yorkville, Phase III Project, Kendall County, Region Two/District Three \n \nThis project requires 20% DBE participation",
+      "prequalifications": [
+        "Special Services (Construction Inspection)"
+      ],
+      "project_text_sample": "Job No. C-93-085-11, IL 47, from North of US 34 to IL 71 in Yorkville, Phase III Project, Kendall County, Region Two/District Three \n \nThis project requires 20% DBE participation. \n \nThe Complexity Fa...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "C-94-015-10",
+      "description": "Construction Inspection for IL 8, from Summit Drive to 0",
+      "prequalifications": [
+        "Special Services (Construction Inspection)"
+      ],
+      "project_text_sample": "Job No. C-94-015-10, Construction Inspection for IL 8, from Summit Drive to 0.3 Miles West of Business 24 (Contract #68370) in Tazewell County Region Three/District Four \n \nThis project requires 25% D...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "C-94-157-11",
+      "description": "Construction Inspection for US 136 over IL 336 and for Adams Street over IL 336,  McDonough County Region Three/District Four \n \nThis project requires 25% DBE participation",
+      "prequalifications": [
+        "Special Services (Construction Inspection)"
+      ],
+      "project_text_sample": "Job No. C-94-157-11, Construction Inspection for US 136 over IL 336 and for Adams Street over IL 336,  McDonough County Region Three/District Four \n \nThis project requires 25% DBE participation. \n \nTh...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "P-95-050-11",
+      "description": "Various Geotechnical Investigations, Various Routes, Various Counties, Region Three/ District Five \n \nThis project requires 10% DBE participation",
+      "prequalifications": [
+        "Geotechnical Services (Structure Geotechnical Reports (SGR))",
+        "Geotechnical Services (Subsurface Explorations)",
+        "Geotechnical Services (General Geotechnical Services)"
+      ],
+      "project_text_sample": "Job No. P-95-050-11, Various Geotechnical Investigations, Various Routes, Various Counties, Region Three/ District Five \n \nThis project requires 10% DBE participation. \n \nThe Complexity Factor for thi...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "P-95-052-11",
+      "description": "Various LiDAR, and Photogrammetry Projects, Various Routes, Various Counties, Region 3/District 5 \n \nThis project requires 10% DBE participation",
+      "prequalifications": [],
+      "project_text_sample": "Job No. P-95-052-11, Various LiDAR, and Photogrammetry Projects, Various Routes, Various Counties, Region 3/District 5 \n \nThis project requires 10% DBE participation. \n \nThe Complexity Factor for this...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "D-97-021-11",
+      "description": "Various Phase I/II for Projects, Various Routes, Various Counties, Region Four, District Seven \n \nThis project requires 14% DBE participation",
+      "prequalifications": [
+        "Structures (Highway: Typical)",
+        "Location Design Studies (Rehabilitation)",
+        "Highways (Roads & Streets)"
+      ],
+      "project_text_sample": "Job No. D-97-021-11, Various Phase I/II for Projects, Various Routes, Various Counties, Region Four, District Seven \n \nThis project requires 14% DBE participation. \n \nThe Complexity Factor for this pr...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "P-98-011-11",
+      "description": "Phase I/II Project for Proposed Route from Homer Adams Parkway to Seiler Road in Madison County, Region Five/District Eight",
+      "prequalifications": [
+        "Environmental Reports (Environmental Impact Statement)",
+        "Structures (Highway: Typical)",
+        "Highways (Roads & Streets)"
+      ],
+      "project_text_sample": "Job No. P-98-011-11, Phase I/II Project for Proposed Route from Homer Adams Parkway to Seiler Road in Madison County, Region Five/District Eight. \n \nThis project requires 20% DBE participation. \n \nThe...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "C-98-062-11",
+      "description": "Construction Inspection for Relocated IL 3 and the Proposed Interchange at Relocated IL 3 and Relocated I-70 in Fairmont City, St",
+      "prequalifications": [
+        "Special Services (Construction Inspection)"
+      ],
+      "project_text_sample": "Job No. C-98-062-11, Construction Inspection for Relocated IL 3 and the Proposed Interchange at Relocated IL 3 and Relocated I-70 in Fairmont City, St. Clair County, Region Five, District Eight. \n \nTh...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "C-98-063-11",
+      "description": "Construction Inspection for Various Projects, Various Routes, Various Counties, Region 5/District 8",
+      "prequalifications": [
+        "Special Services (Construction Inspection)"
+      ],
+      "project_text_sample": "Job No. C-98-063-11, Construction Inspection for Various Projects, Various Routes, Various Counties, Region 5/District 8.   \n \nThis project requires 15% DBE participation. \n \nThe Complexity Factor for...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "P-30-009-04",
+      "description": "Various Phase I/II Projects, Various Routes, Various Counties, Statewide, Department of Natural Resources and Department of Historic Preservation",
+      "prequalifications": [
+        "Special Services (Surveying)",
+        "Highways (Roads & Streets)"
+      ],
+      "project_text_sample": "Job No. P-30-009-04, Various Phase I/II Projects, Various Routes, Various Counties, Statewide, Department of Natural Resources and Department of Historic Preservation. \n \nThe Complexity Factor for thi...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "D-60-034-12",
+      "description": "Various District One Sign and Tower Structure Inspection Projects, Various Routes, Various Counties, Bureau of Operations",
+      "prequalifications": [
+        "Structures (Highway: Typical)"
+      ],
+      "project_text_sample": "Job No. D-60-034-12, Various District One Sign and Tower Structure Inspection Projects, Various Routes, Various Counties, Bureau of Operations. \n \nThe Complexity Factor for this project is 0.035.   \n ...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "D-30-001-12",
+      "description": "Statewide Structural Engineering Services, Bureau of Bridges and Structures",
+      "prequalifications": [],
+      "project_text_sample": "Job No. D-30-001-12, Statewide Structural Engineering Services, Bureau of Bridges and Structures. \n \nThe Complexity Factor for this project is 0. \n \nThe Consultant selected for this project and all su...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "D-30-002-12",
+      "description": "Statewide Structural Engineering Services, Bureau of Bridges and Structures",
+      "prequalifications": [
+        "Structures (Highway: Typical)"
+      ],
+      "project_text_sample": "Job No. D-30-002-12, Statewide Structural Engineering Services, Bureau of Bridges and Structures. \n \nThe Complexity Factor for this project is 0. \n \nThe Consultant selected for this project and all su...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "P-30-003-12",
+      "description": "Phase I/II Architectural and Engineering Services for Passenger Railroad Stations along the Chicago-St",
+      "prequalifications": [
+        "Special Services (Architecture)",
+        "Highways (Roads & Streets)"
+      ],
+      "project_text_sample": "Job No. P-30-003-12, Phase I/II Architectural and Engineering Services for Passenger Railroad Stations along the Chicago-St.-Louis High Speed Rail Corridor, Various Counties, Bureau of High Speed & Pa...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "P-30-004-12",
+      "description": "Phase I/II Services for the Chicago-St",
+      "prequalifications": [
+        "Highways (Roads & Streets)",
+        "Environmental Reports (Environmental Assessment)"
+      ],
+      "project_text_sample": "Job No. P-30-004-12, Phase I/II Services for the Chicago-St. Louis High Speed Rail Program, Various Counties, Division of Public and Intermodal Transportation. \n \nThis project may contain federal fund...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "P-30-005-12",
+      "description": "Project Management Oversight and Construction Inspection Services for the Design and Construction Inspection of the Joliet Multi-Modal Regional Transportation Center (MRTC) & the Associated Passenger Rail Platforms, Will County",
+      "prequalifications": [
+        "Special Services (Construction Inspection)"
+      ],
+      "project_text_sample": "Job No. P-30-005-12, Project Management Oversight and Construction Inspection Services for the Design and Construction Inspection of the Joliet Multi-Modal Regional Transportation Center (MRTC) & the ...",
+      "ptb_number": 160
+    },
+    {
+      "job_number": "P-30-006-12",
+      "description": "Phase I \u2013 CREATE Project P6, Cook County, Bureau of Freight and CREATE Rail), Division of Public and Intermodal Transportation (DIPT)",
+      "prequalifications": [
+        "Transportation Studies (Railway Engineering)",
+        "Structures (Railroad)",
+        "Environmental Reports (Environmental Assessment)"
+      ],
+      "project_text_sample": "Job No. P-30-006-12, Phase I \u2013 CREATE Project P6, Cook County, Bureau of Freight and CREATE Rail), Division of Public and Intermodal Transportation (DIPT). \n \nThis project may contain federal funds. \n...",
+      "ptb_number": 160
+    }
+  ],
+  "job_matches": [
+    {
+      "ptb_number": 160,
+      "job_number": "D-91-516-11",
+      "prequalifications": [
+        "Special Services (Subsurface Utility Engineering)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "C-91-390-11",
+      "prequalifications": [
+        "Special Services (Construction Inspection)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "D-91-506-11",
+      "prequalifications": [
+        "Structures (Highway: Typical)",
+        "Special Services (Surveying)",
+        "Highways (Roads & Streets)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "P-91-526-11",
+      "prequalifications": [
+        "Structures (Highway: Complex)",
+        "Location Design Studies (Reconstruction/Major Rehabilitation)",
+        "Environmental Reports (Environmental Assessment)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "P-91-500-11",
+      "prequalifications": [
+        "Special Studies (Traffic)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "D-91-525-11",
+      "prequalifications": [
+        "Special Services (Surveying)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "C-92-125-11",
+      "prequalifications": [
+        "Special Services (Construction Inspection)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "C-92-126-11",
+      "prequalifications": [
+        "Special Services (Construction Inspection)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "C-93-084-11",
+      "prequalifications": [
+        "Special Services (Quality Assurance PCC & Aggregate)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "C-93-085-11",
+      "prequalifications": [
+        "Special Services (Construction Inspection)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "C-94-015-10",
+      "prequalifications": [
+        "Special Services (Construction Inspection)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "C-94-157-11",
+      "prequalifications": [
+        "Special Services (Construction Inspection)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "P-95-050-11",
+      "prequalifications": [
+        "Geotechnical Services (Structure Geotechnical Reports (SGR))",
+        "Geotechnical Services (Subsurface Explorations)",
+        "Geotechnical Services (General Geotechnical Services)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "P-95-052-11",
+      "prequalifications": []
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "D-97-021-11",
+      "prequalifications": [
+        "Structures (Highway: Typical)",
+        "Location Design Studies (Rehabilitation)",
+        "Highways (Roads & Streets)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "P-98-011-11",
+      "prequalifications": [
+        "Environmental Reports (Environmental Impact Statement)",
+        "Structures (Highway: Typical)",
+        "Highways (Roads & Streets)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "C-98-062-11",
+      "prequalifications": [
+        "Special Services (Construction Inspection)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "C-98-063-11",
+      "prequalifications": [
+        "Special Services (Construction Inspection)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "P-30-009-04",
+      "prequalifications": [
+        "Special Services (Surveying)",
+        "Highways (Roads & Streets)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "D-60-034-12",
+      "prequalifications": [
+        "Structures (Highway: Typical)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "D-30-001-12",
+      "prequalifications": []
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "D-30-002-12",
+      "prequalifications": [
+        "Structures (Highway: Typical)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "P-30-003-12",
+      "prequalifications": [
+        "Special Services (Architecture)",
+        "Highways (Roads & Streets)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "P-30-004-12",
+      "prequalifications": [
+        "Highways (Roads & Streets)",
+        "Environmental Reports (Environmental Assessment)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "P-30-005-12",
+      "prequalifications": [
+        "Special Services (Construction Inspection)"
+      ]
+    },
+    {
+      "ptb_number": 160,
+      "job_number": "P-30-006-12",
+      "prequalifications": [
+        "Transportation Studies (Railway Engineering)",
+        "Structures (Railroad)",
+        "Environmental Reports (Environmental Assessment)"
+      ]
+    }
+  ],
+  "excel_columns": [
+    "f",
+    "ITEM#",
+    "SELECTED FIRM",
+    "SUBCONSULTANTS",
+    "First Alternate",
+    "Second Alternate",
+    "Job #",
+    "District",
+    "selection date",
+    "prequals"
+  ]
+}

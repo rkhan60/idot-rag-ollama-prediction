@@ -1,0 +1,7 @@
+{
+  "timestamp": "2025-08-12T12:46:58.588594",
+  "award_file_analysis": {
+    "file_exists": true,
+    "total_rows": 2166,
+    "prequals_column_exists": true,
+    "prequals_non_null_count": 

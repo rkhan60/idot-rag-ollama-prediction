@@ -1,0 +1,234 @@
+{
+  "timestamp": "2025-08-12T11:27:07.539793",
+  "data_sources": {
+    "award_data": {
+      "file": "award_structure_standardized.json",
+      "purpose": "Historical project awards and firm roles",
+      "key_fields": [
+        "job_number",
+        "prime_firm",
+        "subconsultants",
+        "award_date",
+        "project_value"
+      ]
+    },
+    "firm_data": {
+      "file": "firms_data.json",
+      "purpose": "Current firm information and prequalifications",
+      "key_fields": [
+        "firm_code",
+        "firm_name",
+        "prequalifications",
+        "location"
+      ]
+    },
+    "prequal_lookup": {
+      "file": "prequal_lookup.json",
+      "purpose": "Prequalification categories and firm mappings",
+      "key_fields": [
+        "category_name",
+        "firm_list"
+      ]
+    }
+  },
+  "methodology": {
+    "scoring_system": {
+      "prime_contractor": {
+        "recent_5_years": 1.0,
+        "recent_10_years": 0.5,
+        "beyond_10_years": 0.1
+      },
+      "subconsultant": {
+        "recent_5_years": 0.5,
+        "recent_10_years": 0.25,
+        "beyond_10_years": 0.01
+      }
+    },
+    "time_periods": {
+      "recent_5_years": "2020-2025",
+      "recent_10_years": "2015-2019",
+      "beyond_10_years": "Pre-2015"
+    },
+    "calculation_formula": {
+      "base_score": "project_count * role_weight * time_weight",
+      "total_experience": "sum(base_scores) for all projects in category",
+      "experience_level": "categorized based on total_experience score"
+    }
+  },
+  "matrix_structure": {
+    "dimensions": {
+      "firms": "All firms from firms_data.json (F1-F415)",
+      "prequal_categories": "61 prequalification categories",
+      "experience_metrics": [
+        "total_score",
+        "project_count",
+        "experience_level",
+        "last_project_date"
+      ]
+    },
+    "matrix_format": {
+      "rows": "Firms (415 total)",
+      "columns": "Prequalification Categories (61 total)",
+      "cells": "Experience scores and metrics"
+    },
+    "output_format": {
+      "json": "Structured data for programmatic access",
+      "excel": "Spreadsheet format for analysis",
+      "csv": "Comma-separated values for import"
+    }
+  },
+  "implementation_phases": {
+    "phase_1": {
+      "name": "Data Preparation and Validation",
+      "duration": "1-2 days",
+      "tasks": [
+        "Load and validate award data",
+        "Load and validate firm data",
+        "Load and validate prequalification data",
+        "Cross-reference data consistency",
+        "Handle missing or inconsistent data"
+      ],
+      "deliverables": [
+        "Validated data sources",
+        "Data quality report"
+      ]
+    },
+    "phase_2": {
+      "name": "Experience Calculation Engine",
+      "duration": "2-3 days",
+      "tasks": [
+        "Implement time-weighted scoring system",
+        "Calculate experience scores for each firm-category combination",
+        "Handle edge cases and data anomalies",
+        "Implement experience level categorization",
+        "Add data validation and error handling"
+      ],
+      "deliverables": [
+        "Experience calculation engine",
+        "Scoring validation report"
+      ]
+    },
+    "phase_3": {
+      "name": "Matrix Generation and Optimization",
+      "duration": "1-2 days",
+      "tasks": [
+        "Generate complete experience matrix",
+        "Optimize matrix for performance and storage",
+        "Implement multiple output formats",
+        "Add matrix analysis and statistics",
+        "Create visualization capabilities"
+      ],
+      "deliverables": [
+        "Complete experience matrix",
+        "Analysis reports",
+        "Visualizations"
+      ]
+    },
+    "phase_4": {
+      "name": "Integration and Testing",
+      "duration": "1-2 days",
+      "tasks": [
+        "Integrate with prediction system",
+        "Test matrix accuracy and performance",
+        "Validate against known firm capabilities",
+        "Performance optimization",
+        "Documentation and user guides"
+      ],
+      "deliverables": [
+        "Integrated system",
+        "Test results",
+        "Documentation"
+      ]
+    }
+  },
+  "technical_architecture": {
+    "core_components": {
+      "data_loader": {
+        "purpose": "Load and validate data sources",
+        "inputs": [
+          "award_data.json",
+          "firms_data.json",
+          "prequal_lookup.json"
+        ],
+        "outputs": [
+          "validated_dataframes",
+          "data_quality_report"
+        ]
+      },
+      "experience_calculator": {
+        "purpose": "Calculate time-weighted experience scores",
+        "inputs": [
+          "validated_award_data",
+          "firm_data",
+          "time_weights"
+        ],
+        "outputs": [
+          "experience_scores",
+          "project_counts",
+          "experience_levels"
+        ]
+      },
+      "matrix_generator": {
+        "purpose": "Generate complete experience matrix",
+        "inputs": [
+          "experience_scores",
+          "firm_list",
+          "prequal_categories"
+        ],
+        "outputs": [
+          "experience_matrix",
+          "matrix_statistics"
+        ]
+      },
+      "output_formatter": {
+        "purpose": "Format matrix for different output types",
+        "inputs": [
+          "experience_matrix"
+        ],
+        "outputs": [
+          "json_output",
+          "excel_output",
+          "csv_output"
+        ]
+      }
+    },
+    "data_flow": [
+      "Data Sources \u2192 Data Loader \u2192 Experience Calculator \u2192 Matrix Generator \u2192 Output Formatter \u2192 Final Matrix"
+    ],
+    "performance_considerations": {
+      "memory_optimization": "Process data in chunks for large datasets",
+      "caching": "Cache intermediate results for faster processing",
+      "parallel_processing": "Use multiprocessing for large calculations",
+      "storage_optimization": "Use efficient data structures and compression"
+    }
+  },
+  "implementation_plan": {
+    "overview": "Build firm experience matrix based on historical award data and prequalifications",
+    "objectives": [
+      "Calculate time-weighted experience scores for each firm-category combination",
+      "Generate comprehensive experience matrix (415 firms \u00d7 61 categories)",
+      "Provide multiple output formats for different use cases",
+      "Integrate with prediction system for improved accuracy"
+    ],
+    "success_criteria": [
+      "100% data coverage (all firms and categories)",
+      "Accurate time-weighted scoring",
+      "Performance: Generate matrix in <5 minutes",
+      "Integration: Seamless connection with prediction system"
+    ],
+    "risks_and_mitigation": {
+      "data_quality": {
+        "risk": "Inconsistent or missing data",
+        "mitigation": "Robust data validation and cleaning"
+      },
+      "performance": {
+        "risk": "Slow processing for large matrix",
+        "mitigation": "Optimized algorithms and parallel processing"
+      },
+      "accuracy": {
+        "risk": "Incorrect experience calculations",
+        "mitigation": "Comprehensive testing and validation"
+      }
+    }
+  }
+}

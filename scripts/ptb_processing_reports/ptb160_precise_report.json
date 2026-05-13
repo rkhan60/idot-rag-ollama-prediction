@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-08-20T10:32:46.208205",
+  "ptb_number": 160,
+  "summary": {
+    "total_awards": 30,
+    "successful_matches": 28,
+    "missing_ptb_data": 2,
+    "success_rate": "93.3%"
+  },
+  "sample_enhanced_awards": [
+    {
+      "f": "160",
+      "ITEM#": "1",
+      "SELECTED FIRM": "CARDNO TBE",
+      "SUBCONSULTANTS": null,
+      "First Alternate": null,
+      "Second Alternate": null,
+      "Job #": "D-91-516-11",
+      "Description": "Various Subsurface Utility Engineering Projects, Various Routes, Various Counties",
+      "Region/District": "1/1",
+      "DBE %": "0.2",
+      "Fee Estimate": null,
+      "Submitted": null,
+      "Eligible": null,
+      "Selection Date": "2011-07-01 00:00:00",
+      "required_prequals": [
+        "Special Services (Subsurface Utility Engineering)"
+      ],
+      "ptb_match_status": "SUCCESS"
+    },
+    {
+      "f": "160",
+      "ITEM#": "2",
+      "SELECTED FIRM": "Civiltech Engineering, Inc.",
+      "SUBCONSULTANTS": null,
+      "First Alternate": null,
+      "Second Alternate": null,
+      "Job #": "C-91-390-11",
+      "Description": "Briarcliff Rd. to US 34 & West of IL 31 (West Lake St.) to\nEast of BNSF RR, Phase III Project, Kane and Kendall Counties,",
+      "Region/District": "1/1",
+      "DBE %": "0.25",
+      "Fee Estimate": null,
+      "Submitted": null,
+      "Eligible": null,
+      "Selection Date": "2011-07-01 00:00:00",
+      "required_prequals": [],
+      "ptb_match_status": "SUCCESS"
+    },
+    {
+      "f": "160",
+      "ITEM#": "3",
+      "SELECTED FIRM": "STRAND ASSOCIATES, INC.",
+      "SUBCONSULTANTS": null,
+      "First Alternate": null,
+      "Second Alternate": null,
+      "Job #": "D-91-506-11",
+      "Description": "Various Phase II Projects, Various Routes, Various Counties",
+      "Region/District": "1/1",
+      "DBE %": "0.15",
+      "Fee Estimate": "$200,000-$3,000,000",
+      "Submitted": null,
+      "Eligible": null,
+      "Selection Date": "2011-07-01 00:00:00",
+      "required_prequals": [],
+      "ptb_match_status": "SUCCESS"
+    }
+  ]
+}

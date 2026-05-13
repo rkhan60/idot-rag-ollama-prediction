@@ -1,0 +1,35 @@
+IMPROVED PREQUALIFICATION MAPPING REPORT
+==================================================
+
+MAPPING SUMMARY
+--------------------
+Date: 2025-08-07 11:37:51
+Total Records: 2166
+Mapped Records: 2099
+Unknown Records: 67
+Success Rate: 96.9%
+
+CATEGORY BREAKDOWN
+--------------------
+Location Design Studies - New Construction:Major Reconstruction: 804 (37.1%)
+Structures - Highway- Complex: 223 (10.3%)
+Highways - Roads and Streets: 204 (9.4%)
+Special Services - Construction Inspection: 189 (8.7%)
+Special Services - Surveying: 181 (8.4%)
+Environmental Reports - Environmental Assessment: 120 (5.5%)
+Special Plans - Traffic Signals: 93 (4.3%)
+Unknown: 67 (3.1%)
+Special Services - Quality Assurance HMA & Aggregate: 39 (1.8%)
+Special Services - Specialty Firm: 39 (1.8%)
+Transportation Studies - Railway Engineering: 37 (1.7%)
+Special Services - Subsurface Utility Engineering: 33 (1.5%)
+Location Design Studies - Reconstruction:Major Rehabilitation: 26 (1.2%)
+Geotechnical Services - General Geotechnical Services: 21 (1.0%)
+Environmental Reports - Environmental Impact Statement: 13 (0.6%)
+
+IMPROVEMENT COMPARISON
+-------------------------
+Previous Success Rate: 30.8%
+New Success Rate: 96.9%
+Improvement: +66.1 percentage points
+

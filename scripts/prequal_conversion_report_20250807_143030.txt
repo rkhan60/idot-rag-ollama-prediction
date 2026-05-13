@@ -1,0 +1,216 @@
+PREQUAL_LOOKUP STANDARDIZATION REPORT
+==================================================
+
+EXECUTIVE SUMMARY
+--------------------
+Date: 2025-08-07 14:30:30
+Purpose: Standardize prequal_lookup.json to bulletin format
+Conversion: Hyphen format → Parentheses format
+
+CONVERSION STATISTICS
+-------------------------
+Original Categories: 62
+Standardized Categories: 61
+Conversions Made: 62
+
+CONVERSION MAPPING
+--------------------
+  Highways - Roads and Streets
+  → Highways (Roads and Streets)
+
+  Airports - Construction Inspection
+  → Airports (Construction Inspection)
+
+  Special Services - Quality Assurance PCC & Aggregate
+  → Special Services (Quality Assurance PCC & Aggregate)
+
+  Special Studies - Signal Coordination & Timing (SCAT)
+  → Special Studies (Signal Coordination & Timing (SCAT))
+
+  Special Services - Landscape Architecture
+  → Special Services (Landscape Architecture)
+
+  Special Services - Surveying
+  → Special Services (Surveying)
+
+  Highways - Freeways
+  → Highways (Freeways)
+
+  Geotechnical Services - General Geotechnical Services
+  → Geotechnical Services (General Geotechnical Services)
+
+  Geotechnical Services - Complex Geotech:Major Foundation
+  → Geotechnical Services (Complex Geotech:Major Foundation)
+
+  Location Design Studies - Reconstruction:Major Rehabilitation
+  → Location Design Studies (Reconstruction:Major Rehabilitation)
+
+  Specialty Agents - Negotiator
+  → Specialty Agents (Negotiator)
+
+  Special Studies - Feasibility
+  → Special Studies (Feasibility)
+
+  Environmental Reports - Environmental Assessment
+  → Environmental Reports (Environmental Assessment)
+
+  Special Studies - Traffic Studies
+  → Special Studies (Traffic Studies)
+
+  Airports - Design- Complex Electrical
+  → Airports (Design- Complex Electrical)
+
+  Structures - Highway- Typical
+  → Structures (Highway- Typical)
+
+  Special Services - Asbestos Abatement Surveys
+  → Special Services (Asbestos Abatement Surveys)
+
+  Special Services - Hazardous Waste- Advance
+  → Special Services (Hazardous Waste- Advance)
+
+  Airports - Construction Inspection- Complex Electrical
+  → Airports (Construction Inspection- Complex Electrical)
+
+  Special Services - Mobile LiDAR
+  → Special Services (Mobile LiDAR)
+
+  Special Services - Public Involvement
+  → Special Services (Public Involvement)
+
+  Special Services - Sanitary
+  → Special Services (Sanitary)
+
+  Special Plans - Lighting- Complex
+  → Special Plans (Lighting- Complex)
+
+  Hydraulic Reports - Waterways- Typical
+  → Hydraulic Reports (Waterways- Typical)
+
+  Special Plans - Pumping Stations
+  → Special Plans (Pumping Stations)
+
+  Environmental Reports - Environmental Impact Statement
+  → Environmental Reports (Environmental Impact Statement)
+
+  Special Services - Project Controls
+  → Special Services (Project Controls)
+
+  Structures - Moveable
+  → Structures (Moveable)
+
+  Special Studies- Location Drainage
+  → Special Studies- Location Drainage
+
+  Structures- Major River Bridges
+  → Structures- Major River Bridges
+
+  Special Services - Hazardous Waste- Simple
+  → Special Services (Hazardous Waste- Simple)
+
+  Structures - Railroad
+  → Structures (Railroad)
+
+  Special Studies - Pavement Analysis and Evaluation
+  → Special Studies (Pavement Analysis and Evaluation)
+
+  Structures - Highway- Simple
+  → Structures (Highway- Simple)
+
+  Location Design Studies - Rehabilitation
+  → Location Design Studies (Rehabilitation)
+
+  Airports - Design
+  → Airports (Design)
+
+  Specialty Agents - Appraiser 
+  → Specialty Agents (Appraiser)
+
+  Special Services - Architecture
+  → Special Services (Architecture)
+
+  Special Plans - Traffic Signals
+  → Special Plans (Traffic Signals)
+
+  Special Studies - Safety
+  → Special Studies (Safety)
+
+  Special Services - Quality Assurance HMA & Aggregate
+  → Special Services (Quality Assurance HMA & Aggregate)
+
+  Transportation Studies - Railway Engineering
+  → Transportation Studies (Railway Engineering)
+
+  Special Services - Mechanical
+  → Special Services (Mechanical)
+
+  Transportation Studies - Mass Transit
+  → Transportation Studies (Mass Transit)
+
+  Structures - Highway- Complex
+  → Structures (Highway- Complex)
+
+  Special Services - Subsurface Utility Engineering
+  → Special Services (Subsurface Utility Engineering)
+
+  Special Services - Aerial Mapping:LiDAR
+  → Special Services (Aerial Mapping:LiDAR)
+
+  Special Services - Construction Inspection
+  → Special Services (Construction Inspection)
+
+  Hydraulic Reports - Waterways- Complex
+  → Hydraulic Reports (Waterways- Complex)
+
+  Structures - Highway- Advanced Typical
+  → Structures (Highway- Advanced Typical)
+
+  Specialty Agents - Review Appraiser
+  → Specialty Agents (Review Appraiser)
+
+  Location Design Studies - New Construction:Major Reconstruction
+  → Location Design Studies (New Construction:Major Reconstruction)
+
+  Airports - Master Planning:Airport Layout Plans (ALP)
+  → Airports (Master Planning:Airport Layout Plans (ALP))
+
+  Transportation Studies - Railway Planning
+  → Transportation Studies (Railway Planning)
+
+  Special Services - Specialty Firm
+  → Special Services (Specialty Firm)
+
+  Geotechnical Services - Subsurface Explorations
+  → Geotechnical Services (Subsurface Explorations)
+
+  Hydraulic Reports - Pump Stations
+  → Hydraulic Reports (Pump Stations)
+
+  Special Services - Electrical Engineering
+  → Special Services (Electrical Engineering)
+
+  Hydraulic Reports - Waterways- Two-Dimensional Hydraulics (2D)
+  → Hydraulic Reports (Waterways- Two-Dimensional Hydraulics (2D))
+
+  Special Plans - Lighting- Typical
+  → Special Plans (Lighting- Typical)
+
+  Specialty Agents - Relocation Agent
+  → Specialty Agents (Relocation Agent)
+
+  Specialty Agents - Appraiser
+  → Specialty Agents (Appraiser)
+
+FORMAT STANDARDIZATION RULES
+------------------------------
+1. Replace ' - ' with ' (' and add ')' at the end
+2. Maintain category and service separation
+3. Preserve all firm data and relationships
+4. Handle multiple hyphens in service names
+
+BULLETIN COMPATIBILITY
+-------------------------
+✅ Now matches bulletin format: 'Category (Service)'
+✅ Enables direct mapping from bulletin text
+✅ Improves model training accuracy
+✅ Supports format standardization pipeline

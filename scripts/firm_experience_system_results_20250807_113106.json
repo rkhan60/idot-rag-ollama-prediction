@@ -1,0 +1,3389 @@
+{
+  "file_comparison": {
+    "original_records": 2166,
+    "standardized_records": 2166,
+    "original_missing_fields": 14,
+    "standardized_missing_fields": 14,
+    "original_quality_score": 99.35364727608494,
+    "standardized_quality_score": 99.35364727608494,
+    "selected_file": "original"
+  },
+  "prequal_addition": {
+    "total_records": 2166,
+    "added_count": 668,
+    "success_rate": 30.840258541089565
+  },
+  "firm_experience": {
+    "CARDNO TBE": {
+      "Unknown": 4.0
+    },
+    "CIVILTECH ENGINEERING, INC.": {
+      "Unknown": 11.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "STRAND ASSOCIATES, INC.": {
+      "Unknown": 3.0
+    },
+    "MICHAEL BAKER JR. INC.": {
+      "Unknown": 1.0
+    },
+    "REGINA WEBSTER AND ASSOCIATES": {
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "CLAASSEN, WHITE & ASSOCIATES, P.C.": {
+      "Special Services - Surveying": 9.0
+    },
+    "MCCLURE ENGINEERING ASSOCIATES, INC.": {
+      "Unknown": 2.0,
+      "Special Services - Surveying": 1.0
+    },
+    "MISSMAN, INC.": {
+      "Unknown": 2.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "S.T.A.T.E. TESTING": {
+      "Unknown": 4.0
+    },
+    "CHRISTOPHER B. BURKE, ENGINEERING, LTD.": {
+      "Unknown": 3.0,
+      "Special Plans - Traffic Signals": 3.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "MCDONOUGH ASSOC, INC.": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "KASKASKIA ENGINEERING GROUP, LLC": {
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 9.0
+    },
+    "COOMBE-BLOXDORF, P.C.": {
+      "Special Services - Surveying": 2.0
+    },
+    "MCCLEARY ENGINEERING": {
+      "Geotechnical Services - General Geotechnical Services": 5.0,
+      "Unknown": 1.0
+    },
+    "AERO-METRIC, INC.": {
+      "Unknown": 3.0
+    },
+    "ESCA CONSULTANTS, INC.": {
+      "Unknown": 15.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "MACTEC, HORNER & SHIFRIN, AND BERNARDIN LOCHMUELLER (JOINT VENTURE)": {
+      "Unknown": 1.0
+    },
+    "SCI ENGINEERING, INC.": {
+      "Special Services - Construction Inspection": 2.0,
+      "Unknown": 8.0,
+      "Geotechnical Services - General Geotechnical Services": 1.0
+    },
+    "CH2M HILL, INC.": {
+      "Unknown": 4.0
+    },
+    "RHUTASEL & ASSOCIATES, INC.": {
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 1.0
+    },
+    "CRAWFORD, MURPHY, & TILLY, INC.": {
+      "Unknown": 12.0
+    },
+    "WESTON SOLUTIONS, INC.": {
+      "Unknown": 5.0
+    },
+    "ABNA ENGINEERING, INC.": {
+      "Unknown": 20.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "WHKS & CO.": {
+      "Unknown": 16.0,
+      "Structures - Highway- Complex": 2.0
+    },
+    "OATES ASSOC., INC.": {
+      "Unknown": 15.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "LEGAT & MACKIE (JOINT VENTURE)": {
+      "Unknown": 1.0
+    },
+    "KNIGHT E/A, INC.": {
+      "Unknown": 9.0,
+      "Structures - Highway- Complex": 1.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "T.Y. LIN INTERNATIONAL GREAT LAKES, INC.": {
+      "Special Services - Construction Inspection": 2.0
+    },
+    "PATRICK ENGINEERING, INC.": {
+      "Unknown": 10.0
+    },
+    "ANDREWS ENGINEERING, INC.": {
+      "Unknown": 6.0
+    },
+    "TRANSYSTEMS CORPORATION": {
+      "Unknown": 8.0,
+      "Special Services - Construction Inspection": 2.0,
+      "Structures - Highway- Complex": 2.0
+    },
+    "V3 COMPANIES OF ILLINOIS, LTD.": {
+      "Unknown": 3.0
+    },
+    "HDR ENGINEERING, INC.": {
+      "Unknown": 8.0,
+      "Structures - Highway- Complex": 3.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "CLARK DIETZ, INC.": {
+      "Unknown": 9.0,
+      "Special Services - Construction Inspection": 3.0
+    },
+    "CIORBA GROUP, INC.": {
+      "Unknown": 9.0,
+      "Structures - Highway- Complex": 2.0
+    },
+    "B.L.A., INC. DBA BOLLINGER, LACH & ASSOCIATES, INC.": {
+      "Unknown": 3.0
+    },
+    "COTTER CONSULTING, INC.": {
+      "Special Services - Construction Inspection": 3.0,
+      "Unknown": 5.0
+    },
+    "MILLENNIA PROF. SERVICES, LTD. & HBM ENGINEERING GROUP, LLC (JOINT VENTURE)": {
+      "Unknown": 1.0
+    },
+    "CHRISTIAN-ROGE & ASSOCIATES, INC.": {
+      "Unknown": 3.0
+    },
+    "HAMPTON, LENZINI AND RENWICK, INC.": {
+      "Special Plans - Traffic Signals": 2.0,
+      "Special Services - Surveying": 2.0,
+      "Unknown": 6.0
+    },
+    "FLUIDCLARITY": {
+      "Hydraulic Reports - Waterways- Typical": 4.0,
+      "Special Services - Surveying": 2.0
+    },
+    "DONOHUE & ASSOCIATES, INC.": {
+      "Unknown": 5.0,
+      "Special Services - Electrical Engineering": 2.0
+    },
+    "INFRASTRUCTURE ENGINEERING, INC.": {
+      "Structures - Highway- Complex": 1.0,
+      "Special Services - Construction Inspection": 4.0,
+      "Unknown": 4.0
+    },
+    "RUETTIGER, TONNELLI & ASSOCIATES, INC.": {
+      "Special Services - Surveying": 4.0
+    },
+    "SANCHEZ & ASSOCIATES, P.C.": {
+      "Special Services - Surveying": 4.0,
+      "Unknown": 2.0
+    },
+    "GRAEF-USA INC.": {
+      "Special Services - Surveying": 1.0,
+      "Structures - Highway- Complex": 2.0,
+      "Unknown": 9.0
+    },
+    "WANG ENGINEERING SERVICES, INC.": {
+      "Geotechnical Services - General Geotechnical Services": 1.0
+    },
+    "STV INCORPORATED": {
+      "Structures - Highway- Complex": 4.0,
+      "Unknown": 5.0
+    },
+    "AMERICAN SURVEYING AND ENGINEERING, P.C.": {
+      "Special Services - Surveying": 6.0
+    },
+    "FARNSWORTH GROUP, INC.": {
+      "Unknown": 13.0,
+      "Special Services - Construction Inspection": 4.0
+    },
+    "TERRA ENGINEERING": {
+      "Unknown": 2.0,
+      "Special Plans - Traffic Signals": 1.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "WIGHT AND COMPANY": {
+      "Unknown": 8.0
+    },
+    "BAXTER & WOODMAN, INC.": {
+      "Unknown": 15.0
+    },
+    "ESI CONSULTANTS, LTD.": {
+      "Unknown": 7.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "TERRACON CONSULTANTS, INC.": {
+      "Geotechnical Services - General Geotechnical Services": 2.0,
+      "Unknown": 2.0,
+      "Environmental Reports - Environmental Assessment": 1.0
+    },
+    "SO-DEEP, INC.": {
+      "Unknown": 3.0
+    },
+    "BACON FARMER WORKMAN ENGR. & TESTNG & CRAWFORD, MURPHY, & TILLY, INC. (JOINT VENTURE)": {
+      "Unknown": 1.0
+    },
+    "THE UPCHURCH GROUP, INC.": {
+      "Special Services - Construction Inspection": 2.0,
+      "Unknown": 2.0
+    },
+    "EFK MOEN, LLC": {
+      "Unknown": 17.0
+    },
+    "HUTCHISON ENGINEERING, INC.": {
+      "Unknown": 12.0,
+      "Special Services - Construction Inspection": 2.0,
+      "Highways - Freeways": 1.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "GONZALEZ COMPANIES, LLC": {
+      "Structures - Highway- Complex": 3.0,
+      "Special Services - Construction Inspection": 2.0,
+      "Unknown": 8.0
+    },
+    "SHAWNEE SURVEY & CONSULTING, INC.": {
+      "Special Services - Surveying": 5.0
+    },
+    "ALLEN HENDERSON & ASSOCIATES, INC.": {
+      "Structures - Highway- Complex": 1.0,
+      "Unknown": 2.0
+    },
+    "H.N.T.B CORP.": {
+      "Unknown": 1.0,
+      "Environmental Reports - Environmental Assessment": 1.0
+    },
+    "EJM ENGINEERING, INC.": {
+      "Unknown": 2.0,
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "THE RODERICK GROUP": {
+      "Unknown": 1.0
+    },
+    "MACKIE CONSULTANTS, LLC": {
+      "Hydraulic Reports - Waterways- Typical": 1.0,
+      "Special Services - Surveying": 5.0,
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 3.0
+    },
+    "JACOBS ENGINEERING GROUP, INC.": {
+      "Unknown": 6.0,
+      "Highways - Freeways": 1.0
+    },
+    "D.B. STERLIN CONSULTANTS, INC.": {
+      "Unknown": 3.0,
+      "Special Services - Surveying": 1.0
+    },
+    "MANHARD CONSULTING, LTD.": {
+      "Special Services - Surveying": 5.0,
+      "Unknown": 1.0
+    },
+    "HARRY O. HEFTER ASSOCIATES": {
+      "Structures - Highway- Complex": 1.0,
+      "Unknown": 1.0
+    },
+    "HUFF & HUFF, INC.": {
+      "Environmental Reports - Environmental Assessment": 4.0,
+      "Unknown": 6.0,
+      "Special Services - Surveying": 1.0
+    },
+    "APEX CONSULTING ENGINEERS, L.L.C.": {
+      "Unknown": 6.0,
+      "Special Services - Surveying": 1.0,
+      "Special Services - Construction Inspection": 2.0
+    },
+    "AECOM TECHNICAL SERVICES, INC.": {
+      "Environmental Reports - Environmental Assessment": 1.0,
+      "Unknown": 4.0,
+      "Structures - Highway- Complex": 2.0,
+      "Special Plans - Traffic Signals": 1.0,
+      "Airports - Design": 1.0
+    },
+    "DLZ ILLINOIS, INC.": {
+      "Unknown": 6.0,
+      "Special Plans - Traffic Signals": 8.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "STANLEY CONSULTANTS, INC.": {
+      "Unknown": 12.0
+    },
+    "ENVIRONMENTAL DESIGN INTERNATIONAL, INC.": {
+      "Special Services - Surveying": 1.0
+    },
+    "JORGENSEN & ASSOCIATES, INC.": {
+      "Special Services - Surveying": 1.0
+    },
+    "SAM SCHWARTZ ENGINEERING": {
+      "Special Plans - Traffic Signals": 4.0
+    },
+    "DYNASTY GROUP, INC.": {
+      "Unknown": 2.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "D'ESCOTO, INC.": {
+      "Unknown": 8.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "FEHR-GRAHAM & ASSOCIATES,  LLC": {
+      "Unknown": 3.0
+    },
+    "MILLENNIA PROFESSIONAL SERVICES, LTD.": {
+      "Special Services - Construction Inspection": 1.0,
+      "Special Services - Surveying": 1.0,
+      "Unknown": 3.0
+    },
+    "QUIGG ENGINEERING, INC.": {
+      "Special Services - Construction Inspection": 2.0,
+      "Unknown": 15.0,
+      "Structures - Highway- Complex": 2.0,
+      "Special Services - Surveying": 1.0
+    },
+    "MIDWEST ENGINEERING ASSOCIATES, INC.": {
+      "Unknown": 1.0
+    },
+    "CUMMINS ENGINEERING CORPORATION": {
+      "Unknown": 10.0
+    },
+    "HORNER-SHIFRIN & BERNARDING LOCHMUELLER (JOINT VENTURE)": {
+      "Unknown": 1.0
+    },
+    "WITHDRAWN": {
+      "Unknown": 13.0,
+      "Special Services - Construction Inspection": 2.0,
+      "Structures - Highway- Complex": 4.0,
+      "Highways - Freeways": 1.0,
+      "Special Services - Surveying": 1.0,
+      "Special Plans - Traffic Signals": 1.0,
+      "Environmental Reports - Environmental Assessment": 1.0
+    },
+    "ECOLOGY AND ENVIRONMENT, INC.": {
+      "Unknown": 4.0
+    },
+    "APPLIED PAVEMENT TECHNOLOGY, INC.": {
+      "Unknown": 3.0,
+      "Airports - Design": 3.0
+    },
+    "WISS, JANNEY, ELSTNER ASSOCIATES, INC.": {
+      "Unknown": 3.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "CRAWFORD, BUNTE, BRAMMEIER": {
+      "Special Plans - Traffic Signals": 4.0
+    },
+    "AECOM TECHNICAL SERVICES/TRANSYSTEMS CORP.\n(JOINT VENTURE)": {
+      "Unknown": 1.0
+    },
+    "OMEGA & ASSOCIATES, INC.": {
+      "Unknown": 3.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "GLOBETROTTERS ENGINEERING CORPORATION": {
+      "Unknown": 2.0
+    },
+    "WILBUR SMITH ASSOCIATES, INC.": {
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "HBM ENGINEERING/BLOOM COMPANY (JOINT VENTURE)": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "AMES ENGINEERING, INC.": {
+      "Unknown": 7.0,
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "2IM GROUP": {
+      "Unknown": 6.0,
+      "Special Services - Landscape Architecture": 3.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "SEECO CONSULTANTS, INC.": {
+      "Geotechnical Services - General Geotechnical Services": 2.0
+    },
+    "CHICAGO TESTING LABORATORY, INC.": {
+      "Unknown": 8.0
+    },
+    "HOWARD R. GREEN COMPANY": {
+      "Unknown": 2.0
+    },
+    "BRUNER, COOPER & ZUCK, INC.": {
+      "Unknown": 8.0,
+      "Special Services - Construction Inspection": 5.0
+    },
+    "HANSON PROFESSIONAL SERVICES, INC.": {
+      "Unknown": 4.0,
+      "Environmental Reports - Environmental Assessment": 1.0
+    },
+    "MODJESKI & MASTERS, INC.": {
+      "Structures - Highway- Complex": 8.0,
+      "Unknown": 6.0
+    },
+    "THOUVENOT, WADE AND MOERCHEN, INC.": {
+      "Unknown": 13.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "KTA-TATOR, INC.": {
+      "Structures - Highway- Complex": 6.0,
+      "Unknown": 6.0
+    },
+    "PARSONS BRINCKERHOFF, INC.": {
+      "Unknown": 6.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "STANTEC CONSULTING SERVICES, INC.": {
+      "Unknown": 2.0
+    },
+    "PARSONS TRANSPORTATION GROUP, INC.": {
+      "Unknown": 3.0,
+      "Environmental Reports - Environmental Assessment": 4.0,
+      "Special Plans - Traffic Signals": 1.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "URS CORPORATION": {
+      "Unknown": 3.0
+    },
+    "BURNS & MCDONNELL ENGINEERING, INC.": {
+      "Unknown": 5.0,
+      "Special Services - Construction Inspection": 1.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "SE3, LLC": {
+      "Special Plans - Traffic Signals": 3.0,
+      "Unknown": 8.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "IE CONSULTANTS, INC.": {
+      "Unknown": 1.0
+    },
+    "HBM ENGINEERING GROUP, LLC.": {
+      "Structures - Highway- Complex": 1.0,
+      "Unknown": 1.0
+    },
+    "MCDONOUGH-WHITLOW, P.C.": {
+      "Special Services - Surveying": 4.0,
+      "Unknown": 1.0
+    },
+    "POEPPING, STONE, BACH & ASSOCIATES, INC.": {
+      "Special Services - Surveying": 3.0
+    },
+    "SINGH & ASSOCIATES, INC.": {
+      "Unknown": 1.0,
+      "Special Plans - Traffic Signals": 1.0,
+      "Special Services - Electrical Engineering": 1.0
+    },
+    "BUREAU VERITAS NORTH AMERICA, INC.": {
+      "Unknown": 4.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "TO BE SELECTED BY THE DEPARTMENT OF NATURAL RESOURCES": {
+      "Unknown": 2.0
+    },
+    "ALFRED BENESCH & CO.": {
+      "Unknown": 2.0
+    },
+    "THOMAS ENGINEERING & COLLINS (JOINT VENTURE)": {
+      "Unknown": 1.0
+    },
+    "TECMA ASSOCIATES": {
+      "Airports - Design": 1.0,
+      "Structures - Highway- Complex": 3.0,
+      "Special Services - Construction Inspection": 3.0,
+      "Unknown": 6.0
+    },
+    "BOWMAN, BARRETT & ASSOCIATES, INC.": {
+      "Unknown": 1.0,
+      "Structures - Highway- Complex": 1.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "PRIMERA ENGINEERS, LTD.": {
+      "Structures - Highway- Complex": 1.0,
+      "Unknown": 6.0,
+      "Special Services - Construction Inspection": 2.0
+    },
+    "JAMES J. BENES & ASSOCIATES, INC.": {
+      "Unknown": 1.0
+    },
+    "ASM CONSULTANTS, INC.": {
+      "Special Services - Surveying": 1.0
+    },
+    "AMEC ENVIRONMENT & INFRASTRUCTURE & THE UPCHURCH GROUP (JV)": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "INTERFLEET TECHNOLOGY, INC.": {
+      "Unknown": 1.0
+    },
+    "CIVCON SERVICES": {
+      "Unknown": 1.0
+    },
+    "FUHRMANN ENGINEERING": {
+      "Special Services - Surveying": 1.0
+    },
+    "EXP. US SERVICES": {
+      "Unknown": 2.0
+    },
+    "ENGINEERING SERVICES GROUP": {
+      "Special Services - Surveying": 1.0,
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "LIN ENGINEERING, LTD.": {
+      "Special Services - Surveying": 3.0,
+      "Structures - Highway- Complex": 1.0,
+      "Unknown": 10.0
+    },
+    "BLANK, WESSELINK, COOK & ASSOCIATES": {
+      "Special Services - Surveying": 1.0
+    },
+    "HORNER & SHIFRIN": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "ART ANDERSON ASSOCIATES": {
+      "Unknown": 1.0
+    },
+    "GEWALT HAMILTON ASSOCIATES, INC.": {
+      "Special Plans - Traffic Signals": 2.0
+    },
+    "MICHAEL BAKER JR./STV INCORPORATED (JOINT VENTURE)": {
+      "Environmental Reports - Environmental Assessment": 1.0
+    },
+    "LOCHNER, H. W., INC.": {
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 3.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "SPAAN TECH, INC.": {
+      "Special Services - Construction Inspection": 2.0,
+      "Unknown": 2.0
+    },
+    "MILHOUSE ENGINEERING & CONSTRUCTION, INC.": {
+      "Unknown": 1.0,
+      "Highways - Freeways": 1.0
+    },
+    "WILLS, BURKE, KELSEY ASSOC., LTD. & AMES ENGINEERING, INC. (JV)": {
+      "Unknown": 1.0
+    },
+    "EPSTEIN, A. & SONS INTERN., INC.": {
+      "Unknown": 7.0
+    },
+    "ARDMORE ASSOCIATES, LLC, & ENVIRONMENTAL DESIGN INTERNATIONAL (JOINT VENTURE)": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "MATERIAL SOLUTIONS LABORATORY CORPORATION": {
+      "Unknown": 1.0
+    },
+    "WILLETT, HOFMANN & ASSOC., INC.": {
+      "Special Services - Surveying": 3.0,
+      "Structures - Highway- Complex": 2.0,
+      "Unknown": 5.0
+    },
+    "FOTH INFRASTRUCTURE & ENVIRONMENT": {
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 1.0
+    },
+    "HERMANN & ASSOCIATES, LLC": {
+      "Special Services - Construction Inspection": 5.0,
+      "Unknown": 7.0
+    },
+    "AMEC ENVIRONMENT & INFRASTRUCTURE": {
+      "Unknown": 2.0
+    },
+    "HOELSCHER ENGINEERING, P.C.": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "VOLKERT, INC.": {
+      "Special Services - Construction Inspection": 3.0,
+      "Unknown": 11.0
+    },
+    "CLARIDA & ZIEGLER ENGINEERING CO.": {
+      "Special Services - Surveying": 3.0
+    },
+    "COLLINS ENGINEERS, INC.": {
+      "Unknown": 7.0,
+      "Structures - Highway- Complex": 5.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "ACCURATE GROUP, INC.": {
+      "Unknown": 10.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "ARNOLD LUNDGREN AND ASSOCIATES": {
+      "Special Services - Surveying": 1.0
+    },
+    "REYNOLDS, SMITH & HILL": {
+      "Unknown": 1.0
+    },
+    "VASCONCELLES ENGINEERING CORPORATION": {
+      "Special Services - Surveying": 2.0,
+      "Unknown": 1.0
+    },
+    "CHASTAIN & ASSOCIATES, LLC": {
+      "Unknown": 3.0
+    },
+    "DAVID MASON ASSOCIATES": {
+      "Special Services - Surveying": 1.0
+    },
+    "PROFESSIONAL SERVICE INDUSTRIES, INC.": {
+      "Special Services - Surveying": 3.0
+    },
+    "APPLIED RESEARCH ASSOCIATES, INC.": {
+      "Unknown": 4.0
+    },
+    "BOWSER MORNER": {
+      "Unknown": 2.0
+    },
+    "DAMA CONSULTANTS, INC.": {
+      "Unknown": 3.0,
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "TO BE SELECTED BY IDNR": {
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 1.0
+    },
+    "THOMAS ENGINEERING GROUP, LLC": {
+      "Unknown": 7.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "REMPE-SHARPE AND ASSOCIATES, INC.": {
+      "Hydraulic Reports - Waterways- Typical": 1.0
+    },
+    "INTERRA, INC.": {
+      "Unknown": 9.0
+    },
+    "MATERIAL SERVICE TESTING, INC.": {
+      "Unknown": 4.0
+    },
+    "ENVIRONMENTAL DESIGN INTERNATIONAL & BLOOM COMPANIES": {
+      "Unknown": 1.0
+    },
+    "RENWICK & ASSOCIATES, INC.": {
+      "Special Services - Surveying": 1.0
+    },
+    "MAUER-STUTZ, INC.": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "T.Y. LIN INTERNATIONAL GREAT LAKES, INC & HANSON PROFESSIONAL SERVICES, INC.": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "BACON FARMER WORKMAN ENGINEERING AND TESTING": {
+      "Unknown": 1.0
+    },
+    "JUNEAU ASSOCIATES, INC.": {
+      "Special Services - Surveying": 1.0
+    },
+    "BROWN AND ROBERTS, INC.": {
+      "Structures - Highway- Complex": 1.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "KPFF, INC. DBA KPFF CONSULTING ENGINEERS.": {
+      "Unknown": 1.0
+    },
+    "NO STATEMENTS OF INTEREST WERE SUBMITTED FOR THIS ITEM.": {
+      "Unknown": 2.0
+    },
+    "TRANSMART TECHNOLOGIES, INC.": {
+      "Special Services - Architecture": 1.0
+    },
+    "GANDHI & ASSOCIATES, INC.": {
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "CEMCON LTD.": {
+      "Unknown": 1.0
+    },
+    "DELCAN CORPORATION": {
+      "Special Plans - Traffic Signals": 2.0
+    },
+    "WENDLER ENGINEERING SERVICES, INC.": {
+      "Special Services - Surveying": 1.0,
+      "Unknown": 1.0
+    },
+    "SURDEX": {
+      "Unknown": 2.0
+    },
+    "PRAIRIE ENGINEERS OF ILLINOIS, PC": {
+      "Unknown": 1.0,
+      "Special Services - Construction Inspection": 1.0,
+      "Special Services - Surveying": 1.0
+    },
+    "KUHN & TRELLO CONSULTING ENGINEERS LLC.": {
+      "Unknown": 1.0
+    },
+    "HURST-ROSCHE ENGINEERS, INC.": {
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "TERRA ENGINEERING LTD. & FUHRMANN ENGINEERING, INC. (TEAMING)": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "MILLENIA PROFESSIONAL SERVICES & B.L.A. INC. DBA BOLLINGER, LACH (TEAMING)": {
+      "Unknown": 1.0
+    },
+    "ZROKA ENGINEERING, P.C.": {
+      "Unknown": 1.0
+    },
+    "ATLAS ENGINEERING GROUP/GEWALT HAMILTON ASSOCIATES (TEAMING)": {
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "H. R. GREEN, INC.": {
+      "Unknown": 1.0
+    },
+    "COOMBE-BLOXDORF, P.C./HERMANN & ASSOCIATES, LLC (TEAMING)": {
+      "Unknown": 1.0
+    },
+    "JACOBS ENGINEERING GROUP, INC. /ABNA ENGINEERING, INC. (TEAMING)": {
+      "Unknown": 1.0
+    },
+    "SHEPPARD, MORGAN, SCHWAAB, INC.": {
+      "Unknown": 1.0
+    },
+    "BERNARDIN LOCHMUELLER & ASSOCIATES": {
+      "Unknown": 1.0
+    },
+    "CURL & ASSOCIATES, INC.": {
+      "Special Services - Surveying": 1.0
+    },
+    "ARDMORE ASSOCIATES, LLC, & ENVIRONMENTAL DESIGN INTERNATIONAL": {
+      "Unknown": 2.0
+    },
+    "GSG MATERIAL TESTING, INC.": {
+      "Unknown": 1.0
+    },
+    "URS CORP., A NEVADA CORPORATION/ H. W LOCHNER, INC./STANLEY CONSULTANTS, INC.": {
+      "Unknown": 1.0
+    },
+    "ENGINEERING ENTERPRISES, INC.": {
+      "Special Services - Surveying": 6.0
+    },
+    "DELTA ENGINEERING GROUP, LLC": {
+      "Special Services - Electrical Engineering": 1.0,
+      "Special Plans - Traffic Signals": 1.0,
+      "Unknown": 2.0
+    },
+    "AMENT, INC.": {
+      "Special Services - Surveying": 1.0
+    },
+    "GEORGE BUTLER ASSOCIATES, INC.": {
+      "Unknown": 10.0
+    },
+    "AES SERVICES, INC.": {
+      "Special Plans - Traffic Signals": 1.0,
+      "Unknown": 2.0
+    },
+    "STANTEC CONSULTING SERVICES": {
+      "Unknown": 8.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "GSG CONSULTANTS, INC.": {
+      "Unknown": 7.0,
+      "Special Services - Construction Inspection": 1.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "MICHAEL BAKER JR., INC.": {
+      "Unknown": 1.0
+    },
+    "LIN, T.Y. INTERN. GREAT LAKES, INC.": {
+      "Unknown": 2.0,
+      "Highways - Freeways": 1.0
+    },
+    "MILLENIA PROFESSIONAL SERVICES, LTD": {
+      "Unknown": 1.0
+    },
+    "QUALITY TESTING & ENGINEERING, INC.": {
+      "Unknown": 2.0
+    },
+    "TSI ENGINEERING, INC.": {
+      "Geotechnical Services - General Geotechnical Services": 1.0
+    },
+    "ENGINEERING DESIGN SOURCE, INC.": {
+      "Unknown": 4.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "KABBES ENGINEERING, INC.": {
+      "Hydraulic Reports - Waterways- Typical": 1.0
+    },
+    "H.R. GREEN, INC.": {
+      "Unknown": 1.0
+    },
+    "RUBINOS & MESIA ENGINEERING, INC.": {
+      "Unknown": 1.0
+    },
+    "HORNER & SHIFRIN/PARSONS TRANSPORTATION GROUP, INC.": {
+      "Unknown": 1.0
+    },
+    "AMEC FOSTER WHEELER ENVIRONMENT & INFRASTRUCTURE, INC.": {
+      "Unknown": 3.0
+    },
+    "GEWALT HAMILTON ASSOC., INC.": {
+      "Special Plans - Traffic Signals": 6.0,
+      "Unknown": 3.0
+    },
+    "S.T.A.T.E. TESTING, LLC": {
+      "Unknown": 1.0
+    },
+    "ENVIRONMENTAL DESIGN INTERNATIONAL": {
+      "Special Services - Surveying": 2.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "CHRISTIAN-ROGE & ASSOC., INC.": {
+      "Unknown": 1.0
+    },
+    "T & I ENGINEERS, LLC": {
+      "Unknown": 1.0
+    },
+    "FEHR-GRAHAM & ASSOC., LLC": {
+      "Special Services - Surveying": 1.0
+    },
+    "CRAWFORD, MURPHY & TILLY / BACON, FARMER WORKMAN ENGR. & TESTING": {
+      "Unknown": 1.0
+    },
+    "CIVIL DESIGN, INC.": {
+      "Unknown": 7.0,
+      "Structures - Highway- Complex": 3.0
+    },
+    "HAMPTON, LENZINI & RENWICK, INC.": {
+      "Unknown": 1.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "TUV RHEINLAND INDUSTRIAL SOLUTIONS": {
+      "Structures - Highway- Complex": 2.0
+    },
+    "AAA ENGINEERING/V3 COMPANIES OF ILLINOIS, LTD": {
+      "Unknown": 1.0
+    },
+    "CDM SMITH INC.": {
+      "Unknown": 6.0,
+      "Environmental Reports - Environmental Assessment": 1.0
+    },
+    "BENESCH, ALFRED & CO.": {
+      "Unknown": 8.0
+    },
+    "WISS, JANNEY, ELSTNER ASSOC., INC": {
+      "Structures - Highway- Complex": 2.0
+    },
+    "OMEGA & ASSOC., INC.": {
+      "Structures - Highway- Complex": 1.0,
+      "Unknown": 3.0
+    },
+    "MCCLURE ENGINEERING ASSOC., INC.": {
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 1.0
+    },
+    "MIDWEST ENGINEERING ASSOC. INC.": {
+      "Unknown": 3.0
+    },
+    "MICHAEL BAKER INTERNATIONAL, INC.": {
+      "Unknown": 4.0,
+      "Structures - Highway- Complex": 2.0
+    },
+    "VOLKERT, INC. AND LIN ENGINEERING, LTD.": {
+      "Unknown": 1.0
+    },
+    "CARDNO, INC.": {
+      "Unknown": 1.0
+    },
+    "SHERRILL ASSOC., INC.": {
+      "Special Services - Surveying": 2.0,
+      "Unknown": 1.0
+    },
+    "THE ENVISION GROUP, INC.": {
+      "Unknown": 1.0
+    },
+    "SAM SCHWARTZ ENGINEERING, D.P.C": {
+      "Special Plans - Traffic Signals": 3.0,
+      "Unknown": 1.0
+    },
+    "CBB": {
+      "Special Plans - Traffic Signals": 8.0,
+      "Unknown": 1.0
+    },
+    "MATERIAL SOLUTIONS LABORATORY CORP.": {
+      "Unknown": 10.0
+    },
+    "AMERICAN SURVEYING & ENGINEERING, P.C.": {
+      "Special Services - Surveying": 1.0
+    },
+    "GLOBETROTTERS ENGINEERING CORP.": {
+      "Unknown": 7.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "HUTCHINSON ENGINEERING, INC.": {
+      "Unknown": 1.0
+    },
+    "MAURER-STUTZ, INC.": {
+      "Unknown": 7.0,
+      "Special Services - Construction Inspection": 1.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "HORNER & SHIFRIN, INC./LOCHMUELLER GROUP, INC.": {
+      "Unknown": 1.0
+    },
+    "GREENMAN-PEDERSEN, INC.": {
+      "Unknown": 2.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "TERRA ENGINEERING, LTD.": {
+      "Special Plans - Traffic Signals": 5.0,
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 5.0
+    },
+    "ATLAS ENGINEERING GROUP": {
+      "Special Plans - Traffic Signals": 5.0,
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 5.0
+    },
+    "DONOHUE & ASSOCIATES, INC. & KALTSOUNI MEHDI, INC (TEAMING AGREEMENT)": {
+      "Unknown": 1.0
+    },
+    "MILHOUSE ENG. & CONSTRUCTION, INC.": {
+      "Unknown": 4.0,
+      "Structures - Highway- Complex": 2.0
+    },
+    "RUETTIGER TONELLI & ASSOC., INC.": {
+      "Special Services - Surveying": 1.0
+    },
+    "HR GREEN, INC.": {
+      "Unknown": 8.0,
+      "Special Services - Construction Inspection": 2.0
+    },
+    "H.W. LOCHNER, INC.": {
+      "Unknown": 1.0
+    },
+    "V3 COMPANIES OF ILLINOIS": {
+      "Unknown": 1.0
+    },
+    "POEPPING, STONE, BACH & ASSOC., INC.": {
+      "Special Services - Surveying": 2.0,
+      "Unknown": 1.0
+    },
+    "LAMB R.W. & ASSOCIATES, LLC": {
+      "Special Services - Surveying": 1.0
+    },
+    "VASCONCELLES ENGINEERING CORP.": {
+      "Special Services - Surveying": 2.0
+    },
+    "HENRY MEISENHEIMER & GENDE, INC.": {
+      "Unknown": 1.0
+    },
+    "W-T LAND SURVEYING, INC": {
+      "Special Services - Surveying": 1.0
+    },
+    "DB STERLIN CONSULTANTS, INC.": {
+      "Special Services - Surveying": 1.0,
+      "Unknown": 2.0
+    },
+    "HBM ENGINEERING GROUP, LLC": {
+      "Unknown": 9.0,
+      "Structures - Highway- Complex": 3.0
+    },
+    "TRANSYSTEMS CORP.": {
+      "Unknown": 1.0
+    },
+    "BURKE, CHRISTROPHER B. ENG., LTD.": {
+      "Unknown": 1.0,
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "GSG CONSULTANTS, INC. & MICHAEL BAKER INTERNATIONAL, INC. (TA)": {
+      "Unknown": 1.0
+    },
+    "ILLINOIS CONSTRUCTION & ENVIRONMENTAL CONSULTING, INC.": {
+      "Unknown": 5.0
+    },
+    "KPFF, INC. DBA KPFF CONSULTING ENGINEERS": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "HRV CONFORMANCE VERIFICATION ASSOCIATES, INC.": {
+      "Unknown": 2.0
+    },
+    "H.N.T.B. CORP.": {
+      "Unknown": 8.0,
+      "Special Services - Construction Inspection": 1.0,
+      "Environmental Reports - Environmental Assessment": 1.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "B.L.A., INC. DBA BOLINGER, LACH": {
+      "Unknown": 1.0
+    },
+    "WYNNDALCO ENTERPRISES, LLC": {
+      "Structures - Highway- Complex": 1.0,
+      "Unknown": 1.0
+    },
+    "CKL ENGINEERS, LLC": {
+      "Unknown": 2.0,
+      "Special Services - Construction Inspection": 1.0,
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "THE UPCHURCH GROUP, INC": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "MILLENNIA PROF. SERVICES, LTD.": {
+      "Special Services - Construction Inspection": 4.0,
+      "Unknown": 6.0
+    },
+    "BLANK, WESSELINK, COOK & ASSOC., INC.": {
+      "Special Services - Surveying": 2.0
+    },
+    "HURST-ROSCHE, INC.": {
+      "Special Services - Surveying": 2.0,
+      "Unknown": 8.0
+    },
+    "LOCHMUELLER GROUP, INC.": {
+      "Unknown": 9.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "EPSTEIN, A. & SONS INTERN., INC./CLARK DIETZ, INC": {
+      "Unknown": 1.0
+    },
+    "S. T. A. T. E. TESTING, LLC": {
+      "Unknown": 1.0
+    },
+    "EXP US SERVICES, INC.": {
+      "Unknown": 5.0,
+      "Structures - Highway- Complex": 1.0,
+      "Airports - Design": 1.0
+    },
+    "CHASTAIN & ASSOCIATES LLC": {
+      "Unknown": 6.0,
+      "Special Services - Construction Inspection": 1.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "DELTA ENGINEERING GROUP, LLC/CEMCON LTD.": {
+      "Unknown": 1.0
+    },
+    "WBK ENGINEERING, LLC": {
+      "Unknown": 8.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "ARTISAN CONSULTING ENGINEERS, LLC": {
+      "Special Services - Surveying": 5.0
+    },
+    "BACON FARMER WORKMAN ENGR. & TESTNG": {
+      "Unknown": 9.0
+    },
+    "JUNEAU ASSOC., INC., P.C.": {
+      "Special Services - Surveying": 4.0,
+      "Unknown": 5.0
+    },
+    "VEENSTRA & KIMM, INC.": {
+      "Structures - Highway- Complex": 2.0,
+      "Unknown": 8.0,
+      "Special Services - Surveying": 1.0
+    },
+    "QUANDEL CONSULTANTS, LLC": {
+      "Unknown": 2.0
+    },
+    "WANG ENGINEERING, INC.": {
+      "Geotechnical Services - General Geotechnical Services": 3.0,
+      "Unknown": 1.0
+    },
+    "RS&H, INC.": {
+      "Unknown": 7.0
+    },
+    "UPCHURCH GROUP, INC.": {
+      "Unknown": 1.0
+    },
+    "API SURVEY, LLC": {
+      "Special Services - Surveying": 1.0
+    },
+    "HORNER & SHIFRIN, INC.": {
+      "Unknown": 12.0
+    },
+    "HAMILTON, ROBERT E. CONSLT ENGRS./WBK ENGINEERING, LLC": {
+      "Unknown": 1.0
+    },
+    "TECHKNOW ENGINEERING, LLC": {
+      "Special Services - Electrical Engineering": 1.0
+    },
+    "HENEGHAN AND ACCOCIATES., P.C.": {
+      "Special Services - Surveying": 1.0
+    },
+    "PARSONS TRANSPORTATION GROUP INC.": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "CHAMLIN & ASSOCIATES, INC.": {
+      "Unknown": 1.0
+    },
+    "THOMPSON CIVIL, LLC": {
+      "Unknown": 3.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "SRF CONSULTING GROUP, INC.": {
+      "Special Plans - Traffic Signals": 2.0
+    },
+    "THE W-T GROUP, LLC": {
+      "Special Services - Surveying": 3.0
+    },
+    "THOMAS ENGINEERING GROUP,": {
+      "Unknown": 1.0
+    },
+    "R & G ENGINEERING, LLC": {
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 4.0
+    },
+    "HEY AND ASSOC., INC.": {
+      "Hydraulic Reports - Waterways- Typical": 1.0
+    },
+    "SINGH & ASSOC., INC.": {
+      "Unknown": 4.0,
+      "Special Services - Electrical Engineering": 2.0,
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "STRAND ASSOC., INC.": {
+      "Unknown": 7.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "H.W.LOCHNER, INC.": {
+      "Unknown": 1.0
+    },
+    "HORNER & SHIFRIN, INC./PARSONS TRANSPORTATION GROUP": {
+      "Unknown": 1.0
+    },
+    "KLINGNER & ASSOC., P.C.": {
+      "Unknown": 11.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "CDM SMITH, INC.": {
+      "Unknown": 1.0
+    },
+    "RS&H, INC./AMEC FOSTER WHEELER ENVIRONMENT & INFRASTRUCTURE, INC.": {
+      "Unknown": 1.0
+    },
+    "SDIENGR CORP.": {
+      "Structures - Highway- Complex": 1.0,
+      "Unknown": 3.0
+    },
+    "BLOOM COMPANIES, LLC": {
+      "Unknown": 5.0,
+      "Special Services - Construction Inspection": 1.0,
+      "Structures - Highway- Complex": 1.0,
+      "Highways - Freeways": 1.0,
+      "Environmental Reports - Environmental Assessment": 1.0
+    },
+    "STERLIN, DB CONSULTANTS, INC.": {
+      "Structures - Highway- Complex": 1.0,
+      "Unknown": 4.0
+    },
+    "BACON FARMER WORKMAN ENGR. & TESTING": {
+      "Unknown": 3.0
+    },
+    "SURVEYING & MAPPING, LLC": {
+      "Special Services - Surveying": 1.0
+    },
+    "APS CONSULTING, INC.": {
+      "Special Services - Construction Inspection": 2.0,
+      "Unknown": 1.0
+    },
+    "MIDWEST ENGINEERING ASSOC., INC.": {
+      "Structures - Highway- Complex": 1.0,
+      "Unknown": 1.0
+    },
+    "KUHN & TRELLO CONSULTING ENGINEERS,LLC": {
+      "Unknown": 1.0
+    },
+    "BROWN & ROBERTS, INC.": {
+      "Special Services - Surveying": 1.0,
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 1.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "PENNONI ASSOCIATES, INC.": {
+      "Unknown": 3.0
+    },
+    "HANSON PROFESSIONAL SERVICES INC.": {
+      "Unknown": 6.0,
+      "Special Plans - Traffic Signals": 1.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "T.Y. LIN INTERN. GREAT LAKES, INC.": {
+      "Unknown": 1.0
+    },
+    "BOWMAN CONSULTING GROUP": {
+      "Unknown": 4.0
+    },
+    "JACOBS ENGINEERING GROUP, INC./CH2M HILL, INC.": {
+      "Unknown": 1.0
+    },
+    "V3 COMPANIES, LTD.": {
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 5.0
+    },
+    "PERALTE-CLARK LLC": {
+      "Highways - Freeways": 1.0,
+      "Unknown": 4.0
+    },
+    "CHAMLIN & ASSOC., INC.": {
+      "Unknown": 8.0,
+      "Environmental Reports - Environmental Assessment": 1.0,
+      "Special Services - Surveying": 1.0
+    },
+    "BURNS & MCDONNELL ENGINEERING CO., INC.": {
+      "Unknown": 1.0
+    },
+    "CRAWFORD, MURPHY & TILLY, INC.": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "JORGENSEN & ASSOC., INC.": {
+      "Special Services - Surveying": 4.0
+    },
+    "TETRA TECH, INC.": {
+      "Unknown": 4.0
+    },
+    "4HD INC": {
+      "Special Plans - Traffic Signals": 1.0,
+      "Special Services - Construction Inspection": 2.0,
+      "Unknown": 1.0
+    },
+    "2IM GROUP/PRIMERA ENGINEERS, LTD.": {
+      "Hydraulic Reports - Waterways- Typical": 1.0
+    },
+    "MILLENNIA PROF. SERVICES, LTD./ WHKS & CO.": {
+      "Unknown": 1.0
+    },
+    "ALFRED BENESCH, & CO.": {
+      "Unknown": 2.0
+    },
+    "WANTMAN GROUP, INC.": {
+      "Unknown": 2.0
+    },
+    "J.A.WATTS, , INC.": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "FEHR-GRAHAM & ASSOC. LLC": {
+      "Special Services - Surveying": 2.0,
+      "Unknown": 3.0
+    },
+    "FUHRMANN ENGINEERING, INC.": {
+      "Special Plans - Traffic Signals": 1.0,
+      "Unknown": 8.0
+    },
+    "WSP USA INC.": {
+      "Unknown": 7.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "SAM SCHWARTZ ENGINEERING, D.P.C.": {
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "VARIOUS BRIDGE PAINTING INSPECTION\nPROJECTS": {
+      "Unknown": 1.0
+    },
+    "VARIOUS PHASE II PAVEMENT AND BRIDGE PRESERVATION PROJECTS WITH\nPROJECT SUPPORT SERVICES": {
+      "Unknown": 1.0
+    },
+    "GASPEREC ELBERTS CONSULTING, LLC": {
+      "Special Services - Surveying": 1.0,
+      "Unknown": 4.0
+    },
+    "THE RODERICK GROUP, INC. DBA ARDMORE\nRODERICK": {
+      "Special Services - Surveying": 1.0,
+      "Unknown": 1.0
+    },
+    "BURKE, CHRISTOPHER B. ENG., LTD.": {
+      "Environmental Reports - Environmental Assessment": 3.0,
+      "Unknown": 2.0,
+      "Hydraulic Reports - Waterways- Typical": 1.0
+    },
+    "GARZA KARHOFF ENGINEERING, LLC": {
+      "Unknown": 5.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "NO FIRMS SUBMITTED ON THIS ITEM.": {
+      "Unknown": 1.0
+    },
+    "BURNS & MCDONNELL ENGINEERING\nCOMPANY, INC.": {
+      "Unknown": 2.0
+    },
+    "B.L.A., INC. DBA BOLLINGER, LACH": {
+      "Unknown": 4.0
+    },
+    "THOMSON SURVEYING, LTD.": {
+      "Special Services - Surveying": 1.0
+    },
+    "STATE MATERIALS ENGINEERING, LLC (DBA\nS.T.A.T.E. TESTING, LLC)": {
+      "Unknown": 1.0
+    },
+    "MICHAEL BAKER INTERNATIONAL, INC./HR\nGREEN, INC.": {
+      "Unknown": 1.0
+    },
+    "HENRY, MEISENHEIMER & GENDE, INC": {
+      "Unknown": 2.0
+    },
+    "API SURVEY LLC": {
+      "Special Services - Surveying": 4.0,
+      "Unknown": 1.0
+    },
+    "KIMLEY-HORN AND ASSOC., INC.": {
+      "Unknown": 4.0,
+      "Airports - Design": 1.0
+    },
+    "WOOLPERT, INC": {
+      "Airports - Design": 1.0
+    },
+    "LOCHNER, H.W., INC.": {
+      "Unknown": 1.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "GANNETT FLEMING, INC.": {
+      "Special Plans - Traffic Signals": 1.0,
+      "Unknown": 2.0
+    },
+    "APPLIED PAVEMENT TECHNOLOGY,\nINC./PRAIRIE ENGINEERS, P.C.": {
+      "Unknown": 1.0
+    },
+    "ERES INTERNATIONAL INC. D/B/A/ ENGINEERING\n& RESEARCH INTERNATIONAL, INC.": {
+      "Unknown": 1.0
+    },
+    "IMEG CORP": {
+      "Unknown": 5.0,
+      "Special Services - Construction Inspection": 1.0,
+      "Structures - Highway- Complex": 1.0,
+      "Geotechnical Services - General Geotechnical Services": 1.0
+    },
+    "SELECTED BY DNR": {
+      "Unknown": 1.0
+    },
+    "BENES, JAMES J. & ASSOC., INC.": {
+      "Highways - Freeways": 1.0
+    },
+    "ITERIS, INC.": {
+      "Special Plans - Traffic Signals": 6.0,
+      "Unknown": 2.0
+    },
+    "UPCHURCH GROUP, THE, INC.": {
+      "Unknown": 3.0
+    },
+    "WOOD ENVIRONMENT & INFRASTRUCTURE SOLUTIONS, INC.": {
+      "Unknown": 3.0
+    },
+    "SQN ASSOCIATES, LLC": {
+      "Special Services - Construction Inspection": 1.0,
+      "Structures - Highway- Complex": 1.0,
+      "Unknown": 4.0
+    },
+    "VOLKERT, INC./FUHRMANN ENGINEERING, INC.": {
+      "Unknown": 1.0
+    },
+    "GEOTECHNOLOGY, INC.": {
+      "Geotechnical Services - General Geotechnical Services": 1.0,
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 1.0
+    },
+    "PERALTE-CLARK LLC/RS&H": {
+      "Unknown": 1.0
+    },
+    "HAMILTON CONSULTING ENGINEERS, INC.": {
+      "Special Services - Surveying": 2.0,
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "RUETTIGER, TONELLI & ASSOC., INC.": {
+      "Special Services - Surveying": 2.0
+    },
+    "MARCHESE AND SONS, INC.": {
+      "Special Services - Surveying": 3.0
+    },
+    "PRAIRIE ENGINEERS, P.C.": {
+      "Unknown": 4.0,
+      "Special Services - Surveying": 1.0
+    },
+    "BENTON & ASSOC., INC.": {
+      "Unknown": 7.0
+    },
+    "ORION ENGINEERS LLC": {
+      "Structures - Highway- Complex": 2.0,
+      "Unknown": 4.0
+    },
+    "CZAPLICKI LOPEZ, PLLC": {
+      "Unknown": 1.0
+    },
+    "THE RODERICK GROUP, INC. DBA ARDMORE RODERICK": {
+      "Unknown": 2.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "WATTS, J.A., INC.": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "BAXTER & WOODMAN, INC": {
+      "Unknown": 1.0
+    },
+    "MATERIAL SERVICE TESTING, INC": {
+      "Unknown": 1.0
+    },
+    "GASPEREC ELBERTS CONSULTING, LLC/PRIMERA ENGINEERS, LTD.": {
+      "Unknown": 1.0
+    },
+    "GANDHI & ASSOC., INC.": {
+      "Special Plans - Traffic Signals": 1.0,
+      "Unknown": 1.0
+    },
+    "BURNS & MCDONNELL ENGINEERING COMPANY, INC": {
+      "Unknown": 1.0
+    },
+    "AMERICAN SURVEYING & ENG., P.C.": {
+      "Special Services - Surveying": 2.0,
+      "Unknown": 2.0
+    },
+    "ENGINEERING RESOURCE ASSOC., INC.": {
+      "Unknown": 2.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "EJM ENGINEERING DBA TRANSMART/EJM CORP.": {
+      "Unknown": 2.0
+    },
+    "UPCHURCH GROUP, THE, INC": {
+      "Unknown": 2.0
+    },
+    "KUHN & TRELLO CONSULTING ENGINEERS, LLC": {
+      "Unknown": 5.0,
+      "Structures - Highway- Complex": 2.0
+    },
+    "HENEGHAN AND ASSOC., P.C.": {
+      "Special Services - Surveying": 4.0
+    },
+    "SHEPPARD, MORGAN & SCHWAAB, INC.": {
+      "Special Services - Surveying": 1.0
+    },
+    "SURVEYING AND MAPPING, LLC": {
+      "Unknown": 6.0
+    },
+    "OATES ASSOC., INC": {
+      "Unknown": 1.0
+    },
+    "SHERILL ASSOC., INC.": {
+      "Special Services - Surveying": 1.0
+    },
+    "GEORGE BUTLER ASSOCIATES, INC": {
+      "Unknown": 2.0
+    },
+    "HENRY, MEISENHEIMER & GENDE, INC.": {
+      "Unknown": 4.0
+    },
+    "HR GREEN, INC": {
+      "Unknown": 2.0
+    },
+    "SELECTED BY ILLINOIS NEW HARMONY BRIDGE AUTHORITY": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "CDM SMITH INC": {
+      "Environmental Reports - Environmental Assessment": 1.0,
+      "Unknown": 1.0
+    },
+    "ATKINS NORTH AMERICA, INC": {
+      "Unknown": 1.0
+    },
+    "JORGENSEN & ASSOC., INC": {
+      "Special Services - Surveying": 1.0
+    },
+    "AECOM TECHNICAL SERVICES, INC": {
+      "Unknown": 1.0
+    },
+    "PATRICK ENGINEERING, INC": {
+      "Unknown": 2.0
+    },
+    "D'ESCOTO, INC./ORION ENGINEERS LLC": {
+      "Unknown": 1.0
+    },
+    "PIN POINT PRECISION": {
+      "Unknown": 3.0,
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "HAMILTON CONSULTING ENGNEERS, INC.": {
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "DLZ ILLINOIS, INC": {
+      "Unknown": 1.0,
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "RS&H, INC": {
+      "Unknown": 2.0
+    },
+    "T2 UES, INC.": {
+      "Unknown": 4.0
+    },
+    "AMENT, INC": {
+      "Special Services - Surveying": 1.0
+    },
+    "TRANSLAND ENGINEERING GROUP, LLC": {
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 3.0
+    },
+    "V3 COMPANIES, LTD": {
+      "Unknown": 1.0
+    },
+    "CHIN, R.M. & ASSOC., INC.": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "CIORBA GROUP, INC": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "MILLENNIA PROF. SERVICES, LTD": {
+      "Unknown": 2.0
+    },
+    "PARSONS TRANSPORTATION GROUP, INC": {
+      "Unknown": 2.0
+    },
+    "MOHR & KERR ENG. & LAND SURVEYING": {
+      "Special Services - Surveying": 1.0
+    },
+    "N/A - ITEM WILL BE MOVED TO A FUTURE BULLETIN DUE TO RIGHT OF WAY ISSUES": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "KLINGNER & ASSOC., P.C": {
+      "Unknown": 1.0
+    },
+    "VEENSTRA & KIMM, INC": {
+      "Structures - Highway- Complex": 1.0,
+      "Unknown": 1.0
+    },
+    "GREENE & BRADFORD, INC., OF SPFLD": {
+      "Unknown": 1.0
+    },
+    "750000": {
+      "Unknown": 1.0
+    },
+    "NO SUBMITTALS RECEIVED": {
+      "Unknown": 1.0
+    },
+    "HURST-ROSCHE, INC": {
+      "Unknown": 2.0
+    },
+    "BLANK, WESSELINK, COOK & ASSOC., INC": {
+      "Special Services - Surveying": 1.0
+    },
+    "VASCONCELLES ENGINEERING CORP": {
+      "Special Services - Surveying": 1.0
+    },
+    "GULAID CONSULTING ENGINEERS, P.C.": {
+      "Unknown": 3.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "ECOLOGY AND ENVIRONMENT, INC": {
+      "Unknown": 1.0
+    },
+    "THE HOH GROUP, INC.": {
+      "Unknown": 2.0
+    },
+    "MOTT MACDONALD, LLC": {
+      "Unknown": 3.0
+    },
+    "HEY AND ASSOC., INC": {
+      "Unknown": 1.0
+    },
+    "BURKE, CHRISTOPHER B. ENG., LTD": {
+      "Unknown": 1.0
+    },
+    "EPSTEIN, A. & SONS INTERN., INC": {
+      "Unknown": 1.0
+    },
+    "HBK ENGINEERING, LLC": {
+      "Special Services - Surveying": 1.0
+    },
+    "ENGINEERING SERVICES GROUP, INC": {
+      "Unknown": 1.0
+    },
+    "BRAVO COMPANY ENGINEERING, INC": {
+      "Unknown": 1.0
+    },
+    "STANLEY CONSULTANTS, INC": {
+      "Unknown": 1.0
+    },
+    "CUMMINS ENGINEEERING CORPORATION": {
+      "Unknown": 1.0
+    },
+    "EXP US SERVICES, INC": {
+      "Unknown": 1.0
+    },
+    "CLAASSEN, WHITE & ASSOCIATES, P.C": {
+      "Unknown": 1.0
+    },
+    "ESI CONSULTANTS, LTD": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "DESIGN CONSULTING ENGINEERS, INC.": {
+      "Unknown": 3.0
+    },
+    "RUBINOS & MESIA ENGINEERS, INC": {
+      "Unknown": 1.0
+    },
+    "CIVIL DESIGN, INC": {
+      "Unknown": 1.0
+    },
+    "TERRA ENGINEERING, LTD": {
+      "Unknown": 1.0
+    },
+    "SHERRILL ASSOC., INC": {
+      "Special Services - Surveying": 1.0
+    },
+    "ENGINEERING DESIGN SOURCE, INC": {
+      "Unknown": 1.0
+    },
+    "HUTCHISON ENGINEERING, INC": {
+      "Unknown": 1.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "ACCESS ENGINEERING, LLC": {
+      "Unknown": 1.0
+    },
+    "ESCA CONSULTANTS, INC": {
+      "Unknown": 1.0
+    },
+    "QUANDEL CONSULTANTS, INC.": {
+      "Unknown": 5.0,
+      "Structures - Highway- Complex": 3.0
+    },
+    "WOOD ENVIRONMENT & INFRASTRUCTURE\nSOLUTIONS, INC": {
+      "Unknown": 1.0
+    },
+    "SANCHEZ & ASSOCIATES, P.C": {
+      "Special Services - Surveying": 1.0
+    },
+    "MILHOUSE ENG. & CONSTRUCTION, INC": {
+      "Unknown": 1.0
+    },
+    "GRAEF-USA INC": {
+      "Unknown": 1.0
+    },
+    "HARDESTY & HANOVER LLC": {
+      "Unknown": 3.0
+    },
+    "THOMAS ENGINEERING GROUP, LLC/\nCZAPLICKI LOPEZ, PLLC": {
+      "Unknown": 1.0
+    },
+    "ARORA AND ASSOCIATES, P.C.": {
+      "Unknown": 2.0,
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "KPFF, INC. DBA KPFF CONSULTING\nENGINEERS/HAMILTON CONSULTING ENGINEERS,\nINC.": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "RUBINO ENGINEERING, INC": {
+      "Geotechnical Services - General Geotechnical Services": 1.0
+    },
+    "MIDWEST ENGINEERING ASSOC. INC": {
+      "Unknown": 1.0
+    },
+    "THOUVENOT, WADE AND MOERCHEN, INC": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "GREENE & BRADFORD, INC. OF SPFLD": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "BLANK, WESSELINK, COOK & ASSOC, INC": {
+      "Special Services - Surveying": 1.0
+    },
+    "BARTLETT & WEST, INC": {
+      "Unknown": 1.0
+    },
+    "BENTON & ASSOC INC": {
+      "Unknown": 1.0
+    },
+    "WGI, INC.": {
+      "Unknown": 2.0
+    },
+    "FUHRMANN ENGINEERING, INC./INNLEADAIR, LLC": {
+      "Unknown": 1.0
+    },
+    "PRINCETON TECHNICAL SERVICES, INC.": {
+      "Unknown": 3.0
+    },
+    "J&M CIVIL DESIGN LLC": {
+      "Unknown": 1.0
+    },
+    "ILLINOIS CONSTRUCTION & ENVIRONMENTAL\nCONSULTING, INC.": {
+      "Unknown": 1.0
+    },
+    "CAMBRIDGE SYSTEMATICS, INC.": {
+      "Unknown": 4.0
+    },
+    "THE ILLINOIS DEPARTMENT OF NATURAL RESOURCES": {
+      "Unknown": 1.0
+    },
+    "CIVIL & ENVIRONMENTAL CONSULTANTS, INC.": {
+      "Special Services - Surveying": 2.0
+    },
+    "STATE MATERIALS ENGINEERING, LLC (DBA S.T.A.T.E.\nTESTING, LLC": {
+      "Unknown": 1.0
+    },
+    "CERA SOLUTIONS": {
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 3.0
+    },
+    "ARK ENGINEERING ASSOCIATES, LTD.": {
+      "Unknown": 2.0
+    },
+    "GREENE & BRADFORD, INC., OF SPFLD.": {
+      "Unknown": 6.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "HOLCOMB FOUNDATION ENGINEERING CO.": {
+      "Geotechnical Services - General Geotechnical Services": 1.0
+    },
+    "WESTON SOLUTIONS, INC": {
+      "Unknown": 3.0
+    },
+    "CHIN, R. M. & ASSOC., INC.": {
+      "Unknown": 5.0
+    },
+    "INFRASTRUCTURE ENGINEERING,\nINC. / HR GREEN, INC.": {
+      "Unknown": 1.0
+    },
+    "LAKESHORE ENGINEERING, LLC": {
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 1.0
+    },
+    "CLAASSEN, WHITE & ASSOCIATES,\nP.C.": {
+      "Special Services - Surveying": 1.0
+    },
+    "ENGINEERING RESOURCE ASSOC.,\nINC.": {
+      "Unknown": 1.0
+    },
+    "NO SUBMITTALS": {
+      "Unknown": 14.0
+    },
+    "LIN, T. Y. INTERN.GREAT LAKES,\nINC.": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "KASKASKIA ENGINEERING GROUP,\nLLC": {
+      "Unknown": 1.0
+    },
+    "BARTLETT & WEST, INC.": {
+      "Unknown": 5.0,
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "SHAWNEE SURVEY & CONSULTING,\nINC.": {
+      "Special Services - Surveying": 1.0
+    },
+    "THOUVENOT, WADE AND\nMOERCHEN, INC.": {
+      "Unknown": 1.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "EJM ENGINEERING DBA\nTRANSMART/EJM CORP.": {
+      "Unknown": 1.0
+    },
+    "CUMMINS ENGINEERING\nCORPORATION": {
+      "Unknown": 2.0
+    },
+    "PARSONS TRANSPORTATION\nGROUP, INC.": {
+      "Unknown": 1.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "ROBINSON ENGINEERING, LTD.": {
+      "Special Services - Surveying": 1.0
+    },
+    "AMERICAN ENGINEERING CONSULTANTS, INC.": {
+      "Special Services - Construction Inspection": 2.0,
+      "Unknown": 3.0
+    },
+    "BURKE, CHRISTOPHER B. ENG.,\nLTD.": {
+      "Special Plans - Traffic Signals": 1.0,
+      "Unknown": 1.0
+    },
+    "CHICAGO TESTING\nLABORATORY, INC.": {
+      "Unknown": 1.0
+    },
+    "OSEH INC.": {
+      "Special Plans - Traffic Signals": 1.0,
+      "Unknown": 4.0
+    },
+    "WATTS, J. A., INC.": {
+      "Unknown": 5.0
+    },
+    "TRANSLAND ENGINEERING GROUP,\nLLC": {
+      "Unknown": 1.0
+    },
+    "ARTISAN CONSULTING\nENGINEERS, LLC": {
+      "Special Services - Surveying": 1.0
+    },
+    "UPCHURCH GROUP, THE,  INC.": {
+      "Unknown": 2.0
+    },
+    "HAMPTON, LENZINI AND\nRENWICK, INC.": {
+      "Unknown": 2.0
+    },
+    "UTILITRA, LLC": {
+      "Unknown": 2.0
+    },
+    "MILHOUSE ENG. &\nCONSTRUCTION, INC.": {
+      "Unknown": 1.0
+    },
+    "BURNS & MCDONNELL ENGINEERING COMPANY, INC.": {
+      "Unknown": 2.0
+    },
+    "RUBINOS & MESIA ENGINEERS, INC.": {
+      "Unknown": 2.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "MILLENNIA PROF. SERVICES,\nLTD. & CZAPLICKI LOPEZ, PLLC": {
+      "Unknown": 1.0
+    },
+    "SRF CONSULTING GROUP, INC": {
+      "Special Plans - Traffic Signals": 2.0,
+      "Unknown": 2.0
+    },
+    "KASKASKIA ENGINEERING\nGROUP, LLC": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "STATE MATERIALS ENGINEERING, LLC\n(DBA S.T.A.T.E. TESTING, LLC": {
+      "Unknown": 2.0
+    },
+    "BLANK, WESSELINK, COOK &\nASSOC, INC": {
+      "Special Services - Surveying": 1.0
+    },
+    "M SQUARED ENGINEERING, LLC": {
+      "Unknown": 3.0
+    },
+    "CRAWFORD, MURPHY, & TILLY,\nINC.": {
+      "Unknown": 1.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "HENRY, MEISENHEIMER &\nGENDE, INC.": {
+      "Unknown": 2.0
+    },
+    "ARCADIS U.S., INC.": {
+      "Special Services - Surveying": 1.0,
+      "Unknown": 2.0
+    },
+    "SELECTED BY IDNR": {
+      "Unknown": 3.0
+    },
+    "LIN, T. Y. INTERN.GREAT LAKES, INC.": {
+      "Unknown": 3.0
+    },
+    "ENGINEERING SERVICES GROUP, INC.": {
+      "Special Plans - Traffic Signals": 1.0,
+      "Unknown": 2.0
+    },
+    "TRANSMART, INC": {
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "GREENMAN-PEDERSEN, INC": {
+      "Structures - Highway- Complex": 3.0,
+      "Unknown": 1.0
+    },
+    "WSP USA INC. & KNIGHT E/A, INC.": {
+      "Unknown": 1.0
+    },
+    "AAA ENGINEERING": {
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 2.0
+    },
+    "DAMA CONSULTANTS, INC": {
+      "Unknown": 1.0
+    },
+    "COLLINS ENGINEERS, INC": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "EPSTEIN, A. & SONS INTERN., INC. & MICHAEL BAKER INTERNATIONAL, INC.": {
+      "Unknown": 1.0
+    },
+    "CIVILTECH ENGINEERING, INC": {
+      "Unknown": 1.0
+    },
+    "SINGH & ASSOC., INC": {
+      "Unknown": 1.0
+    },
+    "QUANDEL CONSULTANTS, INC. & PRAIRIE ENGINEERS, P.C.": {
+      "Unknown": 1.0
+    },
+    "TOWER ENGINEERING GROUP, LLC": {
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 3.0
+    },
+    "ESI CONSULTANTS, LLC": {
+      "Unknown": 1.0
+    },
+    "BOWMAN CONSULTING GROUP & LOCHNER, H. W., INC.": {
+      "Unknown": 1.0
+    },
+    "KAD ENGINEERING LLC": {
+      "Unknown": 1.0
+    },
+    "STATE MATERIALS ENGINEERING, LLC (DBA S.T.A.T.E. TESTING, LLC": {
+      "Unknown": 1.0
+    },
+    "SHANNON & WILSON, INC": {
+      "Geotechnical Services - General Geotechnical Services": 1.0
+    },
+    "MEAD AND HUNT, INC.": {
+      "Unknown": 3.0
+    },
+    "APPLIED RESEARCH ASSOCIATES, INC": {
+      "Unknown": 1.0
+    },
+    "APPLIED PAVEMENT\n TECHNOLOGY, INC.": {
+      "Unknown": 2.0
+    },
+    "THE RODERICK GROUP, INC. DBA\n ARDMORE RODERICK": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "MATERIAL SOLUTIONS\n LABORATORY CORP.": {
+      "Unknown": 2.0
+    },
+    "LIN, T. Y. INTERN.GREAT LAKES,\n INC.": {
+      "Unknown": 1.0
+    },
+    "WOOD ENVIRONMENT &\n INFRASTRUCTURE SOLUTIONS, INC.": {
+      "Unknown": 1.0
+    },
+    "BLA, INC.": {
+      "Structures - Highway- Complex": 1.0,
+      "Unknown": 3.0
+    },
+    "KUHN & TRELLO CONSULTING\n ENGINEERS, LLC": {
+      "Unknown": 1.0
+    },
+    "WILLETT, HOFMANN & ASSOC.,\n INC.": {
+      "Special Services - Surveying": 3.0
+    },
+    "HANSON PROFESSIONAL\n SERVICES INC.": {
+      "Unknown": 1.0
+    },
+    "KNIGHT & ASSOCIATES SURVEYING, LLC": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "GREENE & BRADFORD, INC., OF\n SPFLD.": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "INFRASTRUCTURE\nENGINEERING, INC.": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "GEI CONSULTANTS, INC.": {
+      "Geotechnical Services - General Geotechnical Services": 1.0
+    },
+    "SYNNOV GROUP, INC.": {
+      "Unknown": 1.0
+    },
+    "STANTEC CONSULTING\nSERVICES": {
+      "Unknown": 1.0
+    },
+    "KPFF, INC. DBA KPFF CONSULTING\nENGINEERS & HAMILTON\nCONSULTING ENGINEERS, INC.": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "ILLINOIS CONSTRUCTION &\nENVIRONMENTAL CONSULTING, INC.": {
+      "Unknown": 1.0
+    },
+    "EPSTEIN, A. & SONS INTERN.,\nINC.": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "GASPEREC ELBERTS CONSULTING,\nLLC": {
+      "Unknown": 1.0
+    },
+    "BACON FARMER WORKMAN\nENGR. & TESTNG": {
+      "Structures - Highway- Complex": 2.0
+    },
+    "TOWER ENGINEERING GROUP,\nLLC": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "HG CONSULT, INC.": {
+      "Unknown": 1.0
+    },
+    "WISS, JANNEY, ELSTNER\nASSOC., INC": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "MODJESKI & MASTERS, INC.\nASSOC., INC": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "RUBINOS & MESIA ENGINEERS,\nINC.": {
+      "Unknown": 1.0
+    },
+    "ATKINS NORTH AMERICA, INC.": {
+      "Unknown": 2.0
+    },
+    "QRSE, LLC": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "APEX CONSULTING\nENGINEERS, L.L.C.": {
+      "Unknown": 1.0
+    },
+    "BRAVO COMPANY ENGINEERING, INC.": {
+      "Unknown": 2.0
+    },
+    "WI-SKIES, LLC": {
+      "Unknown": 2.0
+    },
+    "CEP ENGINEERING, LLC": {
+      "Unknown": 1.0
+    },
+    "THE RODERICK GROUP, INC. DBA\nARDMORE RODERICK": {
+      "Unknown": 1.0
+    },
+    "AECOM TECHNICAL SERVICES,\nINC.": {
+      "Unknown": 1.0
+    },
+    "DELTA ENGINEERING GROUP,\nLLC": {
+      "Unknown": 1.0
+    },
+    "ONEIDA ENGINEERING SOLUTIONS,\nLLC": {
+      "Unknown": 1.0
+    },
+    "HELIX ENGINEERING LLC": {
+      "Unknown": 1.0
+    },
+    "RENWICK & ASSOC., INC.": {
+      "Unknown": 1.0
+    },
+    "HANSON PROFESSIONAL\nSERVICES INC.": {
+      "Unknown": 1.0
+    },
+    "WILLETT, HOFMANN & ASSOC.,\nINC.": {
+      "Unknown": 1.0
+    },
+    "GREENE & BRADFORD, INC., OF\nSPFLD.": {
+      "Unknown": 1.0
+    },
+    "GEORGE BUTLER ASSOCIATES,\nINC.": {
+      "Unknown": 2.0
+    },
+    "STRAND ASSOC., INC. &\nMILLENNIA PROF. SERVICES,\nLTD.": {
+      "Unknown": 1.0
+    },
+    "M3 ENGINEERING GROUP, P.C.": {
+      "Unknown": 2.0
+    },
+    "GEOTECHNOLOGY, LLC": {
+      "Unknown": 1.0
+    },
+    "KUHN & TRELLO CONSULTING\nENGINEERS, LLC": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "JACOBS ENGINEERING GROUP,\nINC.": {
+      "Unknown": 1.0
+    },
+    "QUANTUM SPATIAL, INC.": {
+      "Unknown": 1.0
+    },
+    "GUIDEHOUSE INC.": {
+      "Unknown": 1.0
+    },
+    "KIMLEY-HORN AND ASSOC.,\nINC.": {
+      "Unknown": 1.0
+    },
+    "TRANSMART, LLC": {
+      "Unknown": 1.0
+    },
+    "MATERIAL SERVICE TESTING,\nINC.": {
+      "Unknown": 1.0
+    },
+    "AMERICAN VETERAN ENGINEERING LLC": {
+      "Unknown": 1.0
+    },
+    "PROGRAM MANAGEMENT & CONTROL\nSERVICES, LLC (PMCS)": {
+      "Unknown": 1.0
+    },
+    "CLAASSEN, WHITE &\nASSOCIATES, P.C.": {
+      "Unknown": 1.0
+    },
+    "MILLENNIA PROF. SERVICES,\nLTD.": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "NASHNAL SOIL TESTING, LLC": {
+      "Unknown": 2.0
+    },
+    "MIDWEST ENGINEERING\nASSOC. INC.": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "MARTIN, RUSSELL W. ENGINEERING P.C.": {
+      "Unknown": 1.0
+    },
+    "ESI CONSULTANTS, LLC & GONZALEZ COMPANIES, LLC": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "CIVIL DESIGN, INC. & WISS,\nJANNEY, ELSTNER ASSOC., INC": {
+      "Unknown": 1.0
+    },
+    "COLLINS ENGINEERS, INC.            \nWHKS & CO.;": {
+      "Unknown": 1.0
+    },
+    "RESILIENT ANALYTICS, INC": {
+      "Unknown": 1.0
+    },
+    "SW CONSULTING & ENGINEERING SERVICES, LLC DBA SWE SOLUTIONS": {
+      "Unknown": 2.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "RUBINO ENGINEERING, INC.": {
+      "Unknown": 1.0
+    },
+    "MAS ENGINEERING PLLC": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "SDI ENGR": {
+      "Unknown": 3.0
+    },
+    "H K M ENGINEERS, LLC": {
+      "Unknown": 2.0
+    },
+    "AMERICAN SURVEYING & ENGINEERING, LTD.": {
+      "Unknown": 2.0
+    },
+    "ARTISAN CONSULTING\n ENGINEERS, LLC": {
+      "Special Services - Surveying": 2.0
+    },
+    "CIVIL & ENVIRONMENTAL\n CONSULTANTS, INC.": {
+      "Unknown": 1.0
+    },
+    "PERALTE-CLARK LLC/ABNA ENGINEERING, INC.": {
+      "Unknown": 1.0
+    },
+    "STATE MATERIALS ENGINEERING, LLC (DBA S.T.A.T.E. TESTING, LLC)": {
+      "Unknown": 1.0
+    },
+    "KAD ENGINEERING PLLC": {
+      "Unknown": 1.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "THE RODERICK GROUP, LLC DBA ARDMORE RODERICK": {
+      "Unknown": 1.0
+    },
+    "WSP USA ENVIRONMENT & INFRASTRUCTURE INC.": {
+      "Special Services - Surveying": 1.0
+    },
+    "INFRASTRUCTURE ENGINEERING, INC./PATRICK ENGINEERING, INC.": {
+      "Unknown": 1.0
+    },
+    "ACCLAIM COLLIER ENGINEERING": {
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "IMEG CONSULTANTS CORP.": {
+      "Unknown": 2.0
+    },
+    "TRANSLAND ENGINEERING GROUP,\n LLC": {
+      "Unknown": 1.0
+    },
+    "DESIGN CONSULTING\n ENGINEERS, INC.": {
+      "Unknown": 1.0
+    },
+    "PROGRAM MANAGEMENT & CONTROL SERVICES, LLC (PMCS)": {
+      "Unknown": 1.0
+    },
+    "AMERICAN SURVEYING &\n ENGINEERING, LTD.": {
+      "Special Services - Surveying": 1.0
+    },
+    "LIN ENGINEERING, LTD./10-4\n ENGINEERING, PLLC": {
+      "Unknown": 1.0
+    },
+    "RS&H, INC./PERALTE-CLARK LLC": {
+      "Unknown": 1.0
+    },
+    "NASHNAL SOIL TESTING, LLC/QUIGG ENGINEERING, INC.": {
+      "Unknown": 1.0
+    },
+    "KIMLEY-HORN AND ASSOC.,\n INC.": {
+      "Unknown": 1.0
+    },
+    "ENGINEERING ENTERPRISES,\n INC.": {
+      "Unknown": 1.0
+    },
+    "SDI ENGR/AMES ENGINEERING,\n INC.": {
+      "Unknown": 1.0
+    },
+    "CRAWFORD, MURPHY, & TILLY,\n INC.": {
+      "Unknown": 1.0
+    },
+    "RAILPROS OF ILLINOIS": {
+      "Unknown": 1.0
+    },
+    "VIRTOWER LLC": {
+      "Airports - Design": 1.0
+    },
+    "BURKE, CHRISTOPHER B. ENG.,\n LTD.": {
+      "Unknown": 1.0
+    },
+    "POEPPING, STONE, BACH & ASSOC., INC": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "VALDES ENGINEERING COMPANY": {
+      "Unknown": 1.0
+    },
+    "SHAWNEE SURVEY &\n CONSULTING, INC.": {
+      "Special Services - Surveying": 1.0
+    },
+    "APPLIED RESEARCH\n ASSOCIATES, INC": {
+      "Unknown": 1.0
+    },
+    "INNOVA CONSULTING, INC.": {
+      "Unknown": 1.0
+    },
+    "DELTA ENGINEERING GROUP,\n LLC": {
+      "Unknown": 1.0
+    },
+    "BENTON ENGINEERING": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "BURNS & MCDONNELL ENGINEERING\n COMPANY, INC.": {
+      "Unknown": 1.0
+    },
+    "WAP SUSTAINABILITY, LLC": {
+      "Environmental Reports - Environmental Assessment": 1.0
+    },
+    "ATKINSR\u00c9ALIS USA INC.": {
+      "Unknown": 1.0
+    }
+  },
+  "experience_statistics": {
+    "total_firms": 644,
+    "total_prequals": 13,
+    "total_experience_points": 2154.0
+  },
+  "five_year_experience": {
+    "JORGENSEN & ASSOC., INC": {
+      "Special Services - Surveying": 1.0
+    },
+    "ANDREWS ENGINEERING, INC.": {
+      "Unknown": 2.0
+    },
+    "SE3, LLC": {
+      "Unknown": 3.0,
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "AECOM TECHNICAL SERVICES, INC": {
+      "Unknown": 1.0
+    },
+    "PATRICK ENGINEERING, INC": {
+      "Unknown": 2.0
+    },
+    "ACCURATE GROUP, INC.": {
+      "Structures - Highway- Complex": 1.0,
+      "Unknown": 3.0
+    },
+    "COLLINS ENGINEERS, INC.": {
+      "Unknown": 3.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "D'ESCOTO, INC./ORION ENGINEERS LLC": {
+      "Unknown": 1.0
+    },
+    "PIN POINT PRECISION": {
+      "Unknown": 2.0
+    },
+    "GRAEF-USA INC.": {
+      "Unknown": 3.0
+    },
+    "HAMILTON CONSULTING ENGNEERS, INC.": {
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "DLZ ILLINOIS, INC": {
+      "Unknown": 1.0,
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "HDR ENGINEERING, INC.": {
+      "Unknown": 3.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "HBM ENGINEERING GROUP, LLC": {
+      "Unknown": 3.0,
+      "Structures - Highway- Complex": 2.0
+    },
+    "GARZA KARHOFF ENGINEERING, LLC": {
+      "Unknown": 2.0
+    },
+    "BOWMAN CONSULTING GROUP": {
+      "Unknown": 1.0
+    },
+    "JACOBS ENGINEERING GROUP, INC.": {
+      "Unknown": 3.0
+    },
+    "LOCHNER, H.W., INC.": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "ATLAS ENGINEERING GROUP": {
+      "Unknown": 3.0,
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "RS&H, INC": {
+      "Unknown": 2.0
+    },
+    "STERLIN, DB CONSULTANTS, INC.": {
+      "Unknown": 2.0
+    },
+    "T2 UES, INC.": {
+      "Unknown": 3.0
+    },
+    "AMENT, INC": {
+      "Special Services - Surveying": 1.0
+    },
+    "GLOBETROTTERS ENGINEERING CORP.": {
+      "Unknown": 2.0
+    },
+    "BLOOM COMPANIES, LLC": {
+      "Unknown": 1.0,
+      "Structures - Highway- Complex": 1.0,
+      "Highways - Freeways": 1.0,
+      "Environmental Reports - Environmental Assessment": 1.0
+    },
+    "BENTON & ASSOC., INC.": {
+      "Unknown": 3.0
+    },
+    "4HD INC": {
+      "Special Services - Construction Inspection": 2.0
+    },
+    "WHKS & CO.": {
+      "Unknown": 5.0
+    },
+    "QUIGG ENGINEERING, INC.": {
+      "Structures - Highway- Complex": 1.0,
+      "Unknown": 4.0
+    },
+    "TRANSLAND ENGINEERING GROUP, LLC": {
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 1.0
+    },
+    "HANSON PROFESSIONAL SERVICES INC.": {
+      "Unknown": 2.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "V3 COMPANIES, LTD": {
+      "Unknown": 1.0
+    },
+    "CKL ENGINEERS, LLC": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "CHIN, R.M. & ASSOC., INC.": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "CIORBA GROUP, INC": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "MODJESKI & MASTERS, INC.": {
+      "Structures - Highway- Complex": 3.0,
+      "Unknown": 1.0
+    },
+    "MILLENNIA PROF. SERVICES, LTD": {
+      "Unknown": 2.0
+    },
+    "PARSONS TRANSPORTATION GROUP, INC": {
+      "Unknown": 2.0
+    },
+    "MOHR & KERR ENG. & LAND SURVEYING": {
+      "Special Services - Surveying": 1.0
+    },
+    "N/A - ITEM WILL BE MOVED TO A FUTURE BULLETIN DUE TO RIGHT OF WAY ISSUES": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "THE RODERICK GROUP, INC. DBA ARDMORE RODERICK": {
+      "Structures - Highway- Complex": 1.0,
+      "Unknown": 1.0
+    },
+    "MAURER-STUTZ, INC.": {
+      "Unknown": 2.0
+    },
+    "KASKASKIA ENGINEERING GROUP, LLC": {
+      "Unknown": 3.0
+    },
+    "PRAIRIE ENGINEERS, P.C.": {
+      "Unknown": 2.0,
+      "Special Services - Surveying": 1.0
+    },
+    "KLINGNER & ASSOC., P.C": {
+      "Unknown": 1.0
+    },
+    "WIGHT AND COMPANY": {
+      "Unknown": 3.0
+    },
+    "VEENSTRA & KIMM, INC": {
+      "Structures - Highway- Complex": 1.0,
+      "Unknown": 1.0
+    },
+    "GREENE & BRADFORD, INC., OF SPFLD": {
+      "Unknown": 1.0
+    },
+    "GEOTECHNOLOGY, INC.": {
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 1.0
+    },
+    "750000": {
+      "Unknown": 1.0
+    },
+    "API SURVEY LLC": {
+      "Special Services - Surveying": 2.0
+    },
+    "LIN ENGINEERING, LTD.": {
+      "Unknown": 5.0,
+      "Special Services - Surveying": 2.0
+    },
+    "CHASTAIN & ASSOCIATES LLC": {
+      "Unknown": 3.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "THOMPSON CIVIL, LLC": {
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 1.0
+    },
+    "NO SUBMITTALS RECEIVED": {
+      "Unknown": 1.0
+    },
+    "HURST-ROSCHE, INC": {
+      "Unknown": 2.0
+    },
+    "FUHRMANN ENGINEERING, INC.": {
+      "Unknown": 4.0
+    },
+    "BLANK, WESSELINK, COOK & ASSOC., INC": {
+      "Special Services - Surveying": 1.0
+    },
+    "VASCONCELLES ENGINEERING CORP": {
+      "Special Services - Surveying": 1.0
+    },
+    "AMES ENGINEERING, INC.": {
+      "Unknown": 4.0
+    },
+    "BACON FARMER WORKMAN ENGR. & TESTNG": {
+      "Unknown": 5.0
+    },
+    "ABNA ENGINEERING, INC.": {
+      "Unknown": 7.0
+    },
+    "CRAWFORD, MURPHY, & TILLY, INC.": {
+      "Unknown": 3.0
+    },
+    "CHICAGO TESTING LABORATORY, INC.": {
+      "Unknown": 1.0
+    },
+    "SINGH & ASSOC., INC.": {
+      "Special Services - Electrical Engineering": 1.0,
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "GULAID CONSULTING ENGINEERS, P.C.": {
+      "Unknown": 1.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "ECOLOGY AND ENVIRONMENT, INC": {
+      "Unknown": 1.0
+    },
+    "THE HOH GROUP, INC.": {
+      "Unknown": 2.0
+    },
+    "GSG CONSULTANTS, INC.": {
+      "Unknown": 3.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "GANNETT FLEMING, INC.": {
+      "Unknown": 2.0
+    },
+    "MOTT MACDONALD, LLC": {
+      "Unknown": 1.0
+    },
+    "PRIMERA ENGINEERS, LTD.": {
+      "Unknown": 3.0
+    },
+    "DAMA CONSULTANTS, INC.": {
+      "Unknown": 1.0
+    },
+    "MATERIAL SOLUTIONS LABORATORY CORP.": {
+      "Unknown": 3.0
+    },
+    "LIN, T.Y. INTERN. GREAT LAKES, INC.": {
+      "Unknown": 1.0
+    },
+    "HEY AND ASSOC., INC": {
+      "Unknown": 1.0
+    },
+    "STV INCORPORATED": {
+      "Unknown": 2.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "H.N.T.B. CORP.": {
+      "Unknown": 4.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "BURKE, CHRISTOPHER B. ENG., LTD": {
+      "Unknown": 1.0
+    },
+    "SAM SCHWARTZ ENGINEERING, D.P.C": {
+      "Special Plans - Traffic Signals": 1.0,
+      "Unknown": 1.0
+    },
+    "INFRASTRUCTURE ENGINEERING, INC.": {
+      "Unknown": 1.0
+    },
+    "WANG ENGINEERING, INC.": {
+      "Geotechnical Services - General Geotechnical Services": 2.0,
+      "Unknown": 1.0
+    },
+    "EPSTEIN, A. & SONS INTERN., INC": {
+      "Unknown": 1.0
+    },
+    "CDM SMITH INC": {
+      "Unknown": 1.0
+    },
+    "GREENMAN-PEDERSEN, INC.": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "HBK ENGINEERING, LLC": {
+      "Special Services - Surveying": 1.0
+    },
+    "THE W-T GROUP, LLC": {
+      "Special Services - Surveying": 2.0
+    },
+    "ENGINEERING SERVICES GROUP, INC": {
+      "Unknown": 1.0
+    },
+    "PERALTE-CLARK LLC": {
+      "Unknown": 3.0
+    },
+    "AMERICAN SURVEYING & ENG., P.C.": {
+      "Special Services - Surveying": 1.0,
+      "Unknown": 2.0
+    },
+    "BRAVO COMPANY ENGINEERING, INC": {
+      "Unknown": 1.0
+    },
+    "IMEG CORP": {
+      "Unknown": 3.0,
+      "Special Services - Construction Inspection": 1.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "HR GREEN, INC": {
+      "Unknown": 1.0
+    },
+    "ENGINEERING ENTERPRISES, INC.": {
+      "Special Services - Surveying": 3.0
+    },
+    "STANLEY CONSULTANTS, INC": {
+      "Unknown": 1.0
+    },
+    "CUMMINS ENGINEEERING CORPORATION": {
+      "Unknown": 1.0
+    },
+    "EXP US SERVICES, INC": {
+      "Unknown": 1.0
+    },
+    "BRUNER, COOPER & ZUCK, INC.": {
+      "Unknown": 2.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "STRAND ASSOC., INC.": {
+      "Unknown": 3.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "HERMANN & ASSOCIATES, LLC": {
+      "Unknown": 4.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "CLAASSEN, WHITE & ASSOCIATES, P.C": {
+      "Unknown": 1.0
+    },
+    "ESI CONSULTANTS, LTD": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "DESIGN CONSULTING ENGINEERS, INC.": {
+      "Unknown": 1.0
+    },
+    "JUNEAU ASSOC., INC., P.C.": {
+      "Unknown": 2.0,
+      "Special Services - Surveying": 2.0
+    },
+    "UPCHURCH GROUP, THE, INC": {
+      "Unknown": 1.0
+    },
+    "RUBINOS & MESIA ENGINEERS, INC": {
+      "Unknown": 1.0
+    },
+    "CIVIL DESIGN, INC": {
+      "Unknown": 1.0
+    },
+    "EFK MOEN, LLC": {
+      "Unknown": 5.0
+    },
+    "HENRY, MEISENHEIMER & GENDE, INC": {
+      "Unknown": 1.0
+    },
+    "TRANSYSTEMS CORPORATION": {
+      "Unknown": 1.0,
+      "Structures - Highway- Complex": 2.0
+    },
+    "SCI ENGINEERING, INC.": {
+      "Unknown": 2.0,
+      "Geotechnical Services - General Geotechnical Services": 1.0
+    },
+    "CLARK DIETZ, INC.": {
+      "Unknown": 2.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "TERRA ENGINEERING, LTD": {
+      "Unknown": 1.0
+    },
+    "QUALITY TESTING & ENGINEERING, INC.": {
+      "Unknown": 1.0
+    },
+    "SHERRILL ASSOC., INC": {
+      "Special Services - Surveying": 1.0
+    },
+    "ENGINEERING DESIGN SOURCE, INC": {
+      "Unknown": 1.0
+    },
+    "ARTISAN CONSULTING ENGINEERS, LLC": {
+      "Special Services - Surveying": 3.0
+    },
+    "HORNER & SHIFRIN, INC.": {
+      "Unknown": 5.0
+    },
+    "FARNSWORTH GROUP, INC.": {
+      "Unknown": 5.0
+    },
+    "LOCHMUELLER GROUP, INC.": {
+      "Unknown": 3.0
+    },
+    "VOLKERT, INC.": {
+      "Unknown": 6.0
+    },
+    "HUTCHISON ENGINEERING, INC": {
+      "Unknown": 1.0
+    },
+    "ACCESS ENGINEERING, LLC": {
+      "Unknown": 1.0
+    },
+    "OATES ASSOC., INC.": {
+      "Unknown": 6.0
+    },
+    "ESCA CONSULTANTS, INC": {
+      "Unknown": 1.0
+    },
+    "ITERIS, INC.": {
+      "Unknown": 1.0,
+      "Special Plans - Traffic Signals": 2.0
+    },
+    "2IM GROUP": {
+      "Unknown": 4.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "HUFF & HUFF, INC.": {
+      "Unknown": 2.0,
+      "Environmental Reports - Environmental Assessment": 1.0,
+      "Special Services - Surveying": 1.0
+    },
+    "GEWALT HAMILTON ASSOC., INC.": {
+      "Special Plans - Traffic Signals": 3.0
+    },
+    "CBB": {
+      "Special Plans - Traffic Signals": 3.0
+    },
+    "QUANDEL CONSULTANTS, INC.": {
+      "Unknown": 2.0,
+      "Structures - Highway- Complex": 2.0
+    },
+    "INTERRA, INC.": {
+      "Unknown": 3.0
+    },
+    "WOOD ENVIRONMENT & INFRASTRUCTURE\nSOLUTIONS, INC": {
+      "Unknown": 1.0
+    },
+    "CIVILTECH ENGINEERING, INC.": {
+      "Unknown": 2.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "APEX CONSULTING ENGINEERS, L.L.C.": {
+      "Unknown": 1.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "SQN ASSOCIATES, LLC": {
+      "Structures - Highway- Complex": 1.0,
+      "Unknown": 3.0
+    },
+    "SANCHEZ & ASSOCIATES, P.C": {
+      "Special Services - Surveying": 1.0
+    },
+    "MILHOUSE ENG. & CONSTRUCTION, INC": {
+      "Unknown": 1.0
+    },
+    "GRAEF-USA INC": {
+      "Unknown": 1.0
+    },
+    "WISS, JANNEY, ELSTNER ASSOC., INC": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "RS&H, INC.": {
+      "Unknown": 3.0
+    },
+    "THE RODERICK GROUP, INC. DBA ARDMORE\nRODERICK": {
+      "Unknown": 1.0
+    },
+    "HARDESTY & HANOVER LLC": {
+      "Unknown": 1.0
+    },
+    "THOMAS ENGINEERING GROUP, LLC/\nCZAPLICKI LOPEZ, PLLC": {
+      "Unknown": 1.0
+    },
+    "ARORA AND ASSOCIATES, P.C.": {
+      "Unknown": 1.0,
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "D'ESCOTO, INC.": {
+      "Unknown": 2.0
+    },
+    "KPFF, INC. DBA KPFF CONSULTING\nENGINEERS/HAMILTON CONSULTING ENGINEERS,\nINC.": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "CHAMLIN & ASSOC., INC.": {
+      "Unknown": 3.0,
+      "Environmental Reports - Environmental Assessment": 1.0
+    },
+    "RUBINO ENGINEERING, INC": {
+      "Geotechnical Services - General Geotechnical Services": 1.0
+    },
+    "DELTA ENGINEERING GROUP, LLC": {
+      "Special Plans - Traffic Signals": 1.0,
+      "Unknown": 2.0
+    },
+    "TERRACON CONSULTANTS, INC.": {
+      "Geotechnical Services - General Geotechnical Services": 1.0,
+      "Environmental Reports - Environmental Assessment": 1.0
+    },
+    "KLINGNER & ASSOC., P.C.": {
+      "Unknown": 4.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "MIDWEST ENGINEERING ASSOC. INC": {
+      "Unknown": 1.0
+    },
+    "THOUVENOT, WADE AND MOERCHEN, INC": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "KUHN & TRELLO CONSULTING ENGINEERS, LLC": {
+      "Structures - Highway- Complex": 1.0,
+      "Unknown": 3.0
+    },
+    "FEHR-GRAHAM & ASSOC. LLC": {
+      "Unknown": 3.0,
+      "Special Services - Surveying": 1.0
+    },
+    "GREENE & BRADFORD, INC. OF SPFLD": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "BLANK, WESSELINK, COOK & ASSOC, INC": {
+      "Special Services - Surveying": 1.0
+    },
+    "BARTLETT & WEST, INC": {
+      "Unknown": 1.0
+    },
+    "B.L.A., INC. DBA BOLLINGER, LACH": {
+      "Unknown": 2.0
+    },
+    "GEORGE BUTLER ASSOCIATES, INC": {
+      "Unknown": 1.0
+    },
+    "BENTON & ASSOC INC": {
+      "Unknown": 1.0
+    },
+    "WGI, INC.": {
+      "Unknown": 1.0
+    },
+    "FUHRMANN ENGINEERING, INC./INNLEADAIR, LLC": {
+      "Unknown": 1.0
+    },
+    "APPLIED PAVEMENT TECHNOLOGY, INC.": {
+      "Airports - Design": 1.0
+    },
+    "PATRICK ENGINEERING, INC.": {
+      "Unknown": 1.0
+    },
+    "AECOM TECHNICAL SERVICES, INC.": {
+      "Unknown": 1.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "PRINCETON TECHNICAL SERVICES, INC.": {
+      "Unknown": 2.0
+    },
+    "WSP USA INC.": {
+      "Structures - Highway- Complex": 1.0,
+      "Unknown": 2.0
+    },
+    "EJM ENGINEERING DBA TRANSMART/EJM CORP.": {
+      "Unknown": 1.0
+    },
+    "J&M CIVIL DESIGN LLC": {
+      "Unknown": 1.0
+    },
+    "CIORBA GROUP, INC.": {
+      "Unknown": 4.0
+    },
+    "HR GREEN, INC.": {
+      "Unknown": 3.0
+    },
+    "KNIGHT E/A, INC.": {
+      "Unknown": 2.0
+    },
+    "ILLINOIS CONSTRUCTION & ENVIRONMENTAL\nCONSULTING, INC.": {
+      "Unknown": 1.0
+    },
+    "GONZALEZ COMPANIES, LLC": {
+      "Unknown": 3.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "VEENSTRA & KIMM, INC.": {
+      "Unknown": 3.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "HURST-ROSCHE, INC.": {
+      "Unknown": 3.0,
+      "Special Services - Surveying": 1.0
+    },
+    "BAXTER & WOODMAN, INC.": {
+      "Unknown": 4.0
+    },
+    "CIVIL DESIGN, INC.": {
+      "Unknown": 4.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "ESCA CONSULTANTS, INC.": {
+      "Unknown": 3.0
+    },
+    "WBK ENGINEERING, LLC": {
+      "Unknown": 1.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "WILLETT, HOFMANN & ASSOC., INC.": {
+      "Unknown": 3.0,
+      "Special Services - Surveying": 1.0
+    },
+    "ENGINEERING DESIGN SOURCE, INC.": {
+      "Unknown": 2.0
+    },
+    "FLUIDCLARITY": {
+      "Hydraulic Reports - Waterways- Typical": 1.0,
+      "Special Services - Surveying": 1.0
+    },
+    "BROWN & ROBERTS, INC.": {
+      "Unknown": 1.0
+    },
+    "TETRA TECH, INC.": {
+      "Unknown": 2.0
+    },
+    "CAMBRIDGE SYSTEMATICS, INC.": {
+      "Unknown": 2.0
+    },
+    "THE ILLINOIS DEPARTMENT OF NATURAL RESOURCES": {
+      "Unknown": 1.0
+    },
+    "HAMPTON, LENZINI AND RENWICK, INC.": {
+      "Special Services - Surveying": 1.0,
+      "Unknown": 1.0
+    },
+    "KIMLEY-HORN AND ASSOC., INC.": {
+      "Unknown": 1.0
+    },
+    "CIVIL & ENVIRONMENTAL CONSULTANTS, INC.": {
+      "Special Services - Surveying": 2.0
+    },
+    "STATE MATERIALS ENGINEERING, LLC (DBA S.T.A.T.E.\nTESTING, LLC": {
+      "Unknown": 1.0
+    },
+    "COTTER CONSULTING, INC.": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "TECMA ASSOCIATES": {
+      "Unknown": 3.0
+    },
+    "CERA SOLUTIONS": {
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 1.0
+    },
+    "V3 COMPANIES, LTD.": {
+      "Unknown": 1.0
+    },
+    "ORION ENGINEERS LLC": {
+      "Unknown": 2.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "BURKE, CHRISTOPHER B. ENG., LTD.": {
+      "Environmental Reports - Environmental Assessment": 1.0,
+      "Hydraulic Reports - Waterways- Typical": 1.0
+    },
+    "BENESCH, ALFRED & CO.": {
+      "Unknown": 3.0
+    },
+    "MIDWEST ENGINEERING ASSOC. INC.": {
+      "Unknown": 1.0
+    },
+    "ARK ENGINEERING ASSOCIATES, LTD.": {
+      "Unknown": 1.0
+    },
+    "DLZ ILLINOIS, INC.": {
+      "Unknown": 1.0,
+      "Special Plans - Traffic Signals": 2.0
+    },
+    "HUTCHISON ENGINEERING, INC.": {
+      "Unknown": 2.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "MILLENNIA PROF. SERVICES, LTD.": {
+      "Unknown": 1.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "HENRY, MEISENHEIMER & GENDE, INC.": {
+      "Unknown": 1.0
+    },
+    "LOCHNER, H. W., INC.": {
+      "Unknown": 1.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "GREENE & BRADFORD, INC., OF SPFLD.": {
+      "Unknown": 2.0,
+      "Special Services - Construction Inspection": 1.0
+    },
+    "HENEGHAN AND ASSOC., P.C.": {
+      "Special Services - Surveying": 2.0
+    },
+    "HOLCOMB FOUNDATION ENGINEERING CO.": {
+      "Geotechnical Services - General Geotechnical Services": 1.0
+    },
+    "BUREAU VERITAS NORTH AMERICA, INC.": {
+      "Unknown": 1.0
+    },
+    "MICHAEL BAKER INTERNATIONAL, INC.": {
+      "Unknown": 2.0
+    },
+    "WESTON SOLUTIONS, INC": {
+      "Unknown": 2.0
+    },
+    "WITHDRAWN": {
+      "Unknown": 2.0,
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "CHIN, R. M. & ASSOC., INC.": {
+      "Unknown": 2.0
+    },
+    "INFRASTRUCTURE ENGINEERING,\nINC. / HR GREEN, INC.": {
+      "Unknown": 1.0
+    },
+    "LAKESHORE ENGINEERING, LLC": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "CLAASSEN, WHITE & ASSOCIATES,\nP.C.": {
+      "Special Services - Surveying": 1.0
+    },
+    "MACKIE CONSULTANTS, LLC": {
+      "Unknown": 1.0,
+      "Special Services - Surveying": 1.0
+    },
+    "ENGINEERING RESOURCE ASSOC.,\nINC.": {
+      "Unknown": 1.0
+    },
+    "NO SUBMITTALS": {
+      "Unknown": 7.0
+    },
+    "EPSTEIN, A. & SONS INTERN., INC.": {
+      "Unknown": 1.0
+    },
+    "R & G ENGINEERING, LLC": {
+      "Unknown": 2.0
+    },
+    "EXP US SERVICES, INC.": {
+      "Unknown": 2.0,
+      "Airports - Design": 1.0
+    },
+    "LIN, T. Y. INTERN.GREAT LAKES,\nINC.": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "KASKASKIA ENGINEERING GROUP,\nLLC": {
+      "Unknown": 1.0
+    },
+    "ESI CONSULTANTS, LTD.": {
+      "Unknown": 1.0
+    },
+    "BARTLETT & WEST, INC.": {
+      "Unknown": 3.0
+    },
+    "GANDHI & ASSOC., INC.": {
+      "Unknown": 1.0
+    },
+    "SHAWNEE SURVEY & CONSULTING,\nINC.": {
+      "Special Services - Surveying": 1.0
+    },
+    "THOUVENOT, WADE AND\nMOERCHEN, INC.": {
+      "Unknown": 1.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "EJM ENGINEERING DBA\nTRANSMART/EJM CORP.": {
+      "Unknown": 1.0
+    },
+    "CUMMINS ENGINEERING\nCORPORATION": {
+      "Unknown": 2.0
+    },
+    "GEORGE BUTLER ASSOCIATES, INC.": {
+      "Unknown": 1.0
+    },
+    "JORGENSEN & ASSOC., INC.": {
+      "Special Services - Surveying": 2.0
+    },
+    "MANHARD CONSULTING, LTD.": {
+      "Special Services - Surveying": 1.0
+    },
+    "STANTEC CONSULTING SERVICES": {
+      "Unknown": 2.0
+    },
+    "HAMILTON CONSULTING ENGINEERS, INC.": {
+      "Special Plans - Traffic Signals": 1.0,
+      "Special Services - Surveying": 1.0
+    },
+    "PARSONS TRANSPORTATION\nGROUP, INC.": {
+      "Unknown": 1.0
+    },
+    "ROBINSON ENGINEERING, LTD.": {
+      "Special Services - Surveying": 1.0
+    },
+    "AMERICAN ENGINEERING CONSULTANTS, INC.": {
+      "Special Services - Construction Inspection": 1.0,
+      "Unknown": 1.0
+    },
+    "BURKE, CHRISTOPHER B. ENG.,\nLTD.": {
+      "Special Plans - Traffic Signals": 1.0,
+      "Unknown": 1.0
+    },
+    "OMEGA & ASSOC., INC.": {
+      "Unknown": 1.0
+    },
+    "CHICAGO TESTING\nLABORATORY, INC.": {
+      "Unknown": 1.0
+    },
+    "SDIENGR CORP.": {
+      "Unknown": 3.0
+    },
+    "OSEH INC.": {
+      "Special Plans - Traffic Signals": 1.0,
+      "Unknown": 2.0
+    },
+    "GASPEREC ELBERTS CONSULTING, LLC": {
+      "Unknown": 1.0
+    },
+    "STANLEY CONSULTANTS, INC.": {
+      "Unknown": 2.0
+    },
+    "WATTS, J. A., INC.": {
+      "Unknown": 2.0
+    },
+    "TRANSLAND ENGINEERING GROUP,\nLLC": {
+      "Unknown": 1.0
+    },
+    "ARTISAN CONSULTING\nENGINEERS, LLC": {
+      "Special Services - Surveying": 1.0
+    },
+    "CDM SMITH INC.": {
+      "Unknown": 2.0
+    },
+    "UPCHURCH GROUP, THE,  INC.": {
+      "Unknown": 1.0
+    },
+    "HAMPTON, LENZINI AND\nRENWICK, INC.": {
+      "Unknown": 2.0
+    },
+    "UTILITRA, LLC": {
+      "Unknown": 2.0
+    },
+    "KTA-TATOR, INC.": {
+      "Unknown": 1.0
+    },
+    "TERRA ENGINEERING, LTD.": {
+      "Special Plans - Traffic Signals": 1.0,
+      "Unknown": 2.0
+    },
+    "MILHOUSE ENG. &\nCONSTRUCTION, INC.": {
+      "Unknown": 1.0
+    },
+    "BURNS & MCDONNELL ENGINEERING COMPANY, INC.": {
+      "Unknown": 1.0
+    },
+    "RUBINOS & MESIA ENGINEERS, INC.": {
+      "Unknown": 1.0
+    },
+    "DONOHUE & ASSOCIATES, INC.": {
+      "Special Services - Electrical Engineering": 1.0,
+      "Unknown": 1.0
+    },
+    "MILLENNIA PROF. SERVICES,\nLTD. & CZAPLICKI LOPEZ, PLLC": {
+      "Unknown": 1.0
+    },
+    "SRF CONSULTING GROUP, INC": {
+      "Special Plans - Traffic Signals": 2.0
+    },
+    "KASKASKIA ENGINEERING\nGROUP, LLC": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "ILLINOIS CONSTRUCTION & ENVIRONMENTAL CONSULTING, INC.": {
+      "Unknown": 1.0
+    },
+    "THOUVENOT, WADE AND MOERCHEN, INC.": {
+      "Unknown": 2.0
+    },
+    "STATE MATERIALS ENGINEERING, LLC\n(DBA S.T.A.T.E. TESTING, LLC": {
+      "Unknown": 1.0
+    },
+    "BLANK, WESSELINK, COOK &\nASSOC, INC": {
+      "Special Services - Surveying": 1.0
+    },
+    "M SQUARED ENGINEERING, LLC": {
+      "Unknown": 2.0
+    },
+    "CRAWFORD, MURPHY, & TILLY,\nINC.": {
+      "Unknown": 1.0,
+      "Structures - Highway- Complex": 1.0
+    },
+    "HENRY, MEISENHEIMER &\nGENDE, INC.": {
+      "Unknown": 2.0
+    },
+    "CUMMINS ENGINEERING CORPORATION": {
+      "Unknown": 1.0
+    },
+    "SURVEYING AND MAPPING, LLC": {
+      "Unknown": 2.0
+    },
+    "ARCADIS U.S., INC.": {
+      "Special Services - Surveying": 1.0
+    },
+    "THOMAS ENGINEERING GROUP, LLC": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "LIN, T. Y. INTERN.GREAT LAKES, INC.": {
+      "Unknown": 1.0
+    },
+    "ENGINEERING SERVICES GROUP, INC.": {
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "TRANSMART, INC": {
+      "Special Plans - Traffic Signals": 1.0
+    },
+    "GREENMAN-PEDERSEN, INC": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "WSP USA INC. & KNIGHT E/A, INC.": {
+      "Unknown": 1.0
+    },
+    "RUETTIGER, TONELLI & ASSOC., INC.": {
+      "Special Services - Surveying": 1.0
+    },
+    "AAA ENGINEERING": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "WOOD ENVIRONMENT & INFRASTRUCTURE SOLUTIONS, INC.": {
+      "Unknown": 1.0
+    },
+    "DAMA CONSULTANTS, INC": {
+      "Unknown": 1.0
+    },
+    "COLLINS ENGINEERS, INC": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "EPSTEIN, A. & SONS INTERN., INC. & MICHAEL BAKER INTERNATIONAL, INC.": {
+      "Unknown": 1.0
+    },
+    "CIVILTECH ENGINEERING, INC": {
+      "Unknown": 1.0
+    },
+    "SINGH & ASSOC., INC": {
+      "Unknown": 1.0
+    },
+    "QUANDEL CONSULTANTS, INC. & PRAIRIE ENGINEERS, P.C.": {
+      "Unknown": 1.0
+    },
+    "TOWER ENGINEERING GROUP, LLC": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "HRV CONFORMANCE VERIFICATION ASSOCIATES, INC.": {
+      "Unknown": 1.0
+    },
+    "ESI CONSULTANTS, LLC": {
+      "Unknown": 1.0
+    },
+    "CLAASSEN, WHITE & ASSOCIATES, P.C.": {
+      "Special Services - Surveying": 1.0
+    },
+    "BOWMAN CONSULTING GROUP & LOCHNER, H. W., INC.": {
+      "Unknown": 1.0
+    },
+    "KAD ENGINEERING LLC": {
+      "Unknown": 1.0
+    },
+    "STATE MATERIALS ENGINEERING, LLC (DBA S.T.A.T.E. TESTING, LLC": {
+      "Unknown": 1.0
+    },
+    "SHANNON & WILSON, INC": {
+      "Geotechnical Services - General Geotechnical Services": 1.0
+    },
+    "ENGINEERING RESOURCE ASSOC., INC.": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "MEAD AND HUNT, INC.": {
+      "Unknown": 1.0
+    },
+    "APPLIED RESEARCH ASSOCIATES, INC": {
+      "Unknown": 1.0
+    },
+    "APPLIED PAVEMENT\n TECHNOLOGY, INC.": {
+      "Unknown": 1.0
+    },
+    "SELECTED BY IDNR": {
+      "Unknown": 1.0
+    },
+    "THE RODERICK GROUP, INC. DBA\n ARDMORE RODERICK": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "MATERIAL SOLUTIONS\n LABORATORY CORP.": {
+      "Unknown": 1.0
+    },
+    "LIN, T. Y. INTERN.GREAT LAKES,\n INC.": {
+      "Unknown": 1.0
+    },
+    "WOOD ENVIRONMENT &\n INFRASTRUCTURE SOLUTIONS, INC.": {
+      "Unknown": 1.0
+    },
+    "BLA, INC.": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "MARCHESE AND SONS, INC.": {
+      "Special Services - Surveying": 1.0
+    },
+    "PARSONS TRANSPORTATION GROUP, INC.": {
+      "Unknown": 1.0
+    },
+    "KUHN & TRELLO CONSULTING\n ENGINEERS, LLC": {
+      "Unknown": 1.0
+    },
+    "WILLETT, HOFMANN & ASSOC.,\n INC.": {
+      "Special Services - Surveying": 1.0
+    },
+    "HANSON PROFESSIONAL\n SERVICES INC.": {
+      "Unknown": 1.0
+    },
+    "KNIGHT & ASSOCIATES SURVEYING, LLC": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "GREENE & BRADFORD, INC., OF\n SPFLD.": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "SHAWNEE SURVEY & CONSULTING, INC.": {
+      "Special Services - Surveying": 1.0
+    },
+    "INFRASTRUCTURE\nENGINEERING, INC.": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "GEI CONSULTANTS, INC.": {
+      "Geotechnical Services - General Geotechnical Services": 1.0
+    },
+    "SANCHEZ & ASSOCIATES, P.C.": {
+      "Unknown": 1.0
+    },
+    "SYNNOV GROUP, INC.": {
+      "Unknown": 1.0
+    },
+    "STANTEC CONSULTING\nSERVICES": {
+      "Unknown": 1.0
+    },
+    "KPFF, INC. DBA KPFF CONSULTING\nENGINEERS & HAMILTON\nCONSULTING ENGINEERS, INC.": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "ILLINOIS CONSTRUCTION &\nENVIRONMENTAL CONSULTING, INC.": {
+      "Unknown": 1.0
+    },
+    "EPSTEIN, A. & SONS INTERN.,\nINC.": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "GASPEREC ELBERTS CONSULTING,\nLLC": {
+      "Unknown": 1.0
+    },
+    "UPCHURCH GROUP, THE, INC.": {
+      "Unknown": 1.0
+    },
+    "BACON FARMER WORKMAN\nENGR. & TESTNG": {
+      "Structures - Highway- Complex": 2.0
+    },
+    "TOWER ENGINEERING GROUP,\nLLC": {
+      "Special Services - Construction Inspection": 1.0
+    },
+    "HG CONSULT, INC.": {
+      "Unknown": 1.0
+    },
+    "WISS, JANNEY, ELSTNER\nASSOC., INC": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "MODJESKI & MASTERS, INC.\nASSOC., INC": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "RUBINOS & MESIA ENGINEERS,\nINC.": {
+      "Unknown": 1.0
+    },
+    "ATKINS NORTH AMERICA, INC.": {
+      "Unknown": 1.0
+    },
+    "QRSE, LLC": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "BURNS & MCDONNELL ENGINEERING\nCOMPANY, INC.": {
+      "Unknown": 1.0
+    },
+    "APEX CONSULTING\nENGINEERS, L.L.C.": {
+      "Unknown": 1.0
+    },
+    "BRAVO COMPANY ENGINEERING, INC.": {
+      "Unknown": 1.0
+    },
+    "WI-SKIES, LLC": {
+      "Unknown": 1.0
+    },
+    "CEP ENGINEERING, LLC": {
+      "Unknown": 1.0
+    },
+    "THE RODERICK GROUP, INC. DBA\nARDMORE RODERICK": {
+      "Unknown": 1.0
+    },
+    "AECOM TECHNICAL SERVICES,\nINC.": {
+      "Unknown": 1.0
+    },
+    "APS CONSULTING, INC.": {
+      "Unknown": 1.0
+    },
+    "DELTA ENGINEERING GROUP,\nLLC": {
+      "Unknown": 1.0
+    },
+    "ONEIDA ENGINEERING SOLUTIONS,\nLLC": {
+      "Unknown": 1.0
+    },
+    "HELIX ENGINEERING LLC": {
+      "Unknown": 1.0
+    },
+    "RENWICK & ASSOC., INC.": {
+      "Unknown": 1.0
+    },
+    "HANSON PROFESSIONAL\nSERVICES INC.": {
+      "Unknown": 1.0
+    },
+    "WILLETT, HOFMANN & ASSOC.,\nINC.": {
+      "Unknown": 1.0
+    },
+    "GREENE & BRADFORD, INC., OF\nSPFLD.": {
+      "Unknown": 1.0
+    },
+    "GEORGE BUTLER ASSOCIATES,\nINC.": {
+      "Unknown": 1.0
+    },
+    "STRAND ASSOC., INC. &\nMILLENNIA PROF. SERVICES,\nLTD.": {
+      "Unknown": 1.0
+    },
+    "M3 ENGINEERING GROUP, P.C.": {
+      "Unknown": 1.0
+    },
+    "GEOTECHNOLOGY, LLC": {
+      "Unknown": 1.0
+    },
+    "KUHN & TRELLO CONSULTING\nENGINEERS, LLC": {
+      "Structures - Highway- Complex": 1.0
+    },
+    "JACOBS ENGINEERING GROUP,\nINC.": {
+      "Unknown": 1.0
+    },
+    "PENNONI ASSOCIATES, INC.": {
+      "Unknown": 1.0
+    },
+    "QUANTUM SPATIAL, INC.": {
+      "Unknown": 1.0
+    },
+    "GUIDEHOUSE INC.": {
+      "Unknown": 1.0
+    },
+    "KIMLEY-HORN AND ASSOC.,\nINC.": {
+      "Unknown": 1.0
+    },
+    "TRANSMART, LLC": {
+      "Unknown": 1.0
+    },
+    "MATERIAL SERVICE TESTING,\nINC.": {
+      "Unknown": 1.0
+    }
+  },
+  "five_year_statistics": {
+    "five_year_records": 679,
+    "five_year_firms": 360,
+    "five_year_points": 673.0
+  }
+}

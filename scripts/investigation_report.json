@@ -1,0 +1,1297 @@
+{
+  "summary": {
+    "missing_in_lookup_count": 8,
+    "missing_in_firms_data_count": 26,
+    "format_differences_count": 1,
+    "firms_affected_count": 166
+  },
+  "missing_in_lookup": [
+    "Airports (Master Planning: Airport Layout Plans (ALP))",
+    "Airports - Design: Complex Electrica",
+    "Hydraulic Reports (Waterways: Typical)",
+    "Location Design Studies - Reconstruction/Major Rehabilitation",
+    "Special Services (Construction Inspection)",
+    "Special Services (Quality Assurance: QA HMA & Aggregate)",
+    "Special Services - Aerial Mapping/LiDAR",
+    "Structures (Highway: Simple)"
+  ],
+  "missing_in_firms_data": [
+    "(Special Services) Construction Inspection",
+    "Airports (Master Planning:Airport Layout Plans (ALP))",
+    "Hydraulic Reports (Waterways: Two-Dimensional Hydraulics (2D))",
+    "Hydraulic Reports - Waterways: Typical",
+    "Location Design Studies (New Construction:Major Reconstruction)",
+    "Location/ Design Studies (Reconstruction/Major Rehabilitation)",
+    "Special Plans (Pumping Stations)",
+    "Special Services (Aerial Mapping)",
+    "Special Services (Asbestos Abatement Surveys)",
+    "Special Services (Mobile LiDAR)",
+    "Special Services (Quality Assurance HMA & Aggregate)",
+    "Special Services (Quality Assurance: QA PCC & Aggregate)",
+    "Special Studies (Feasibility)",
+    "Special Studies (Safety)",
+    "Special Studies (Traffic)",
+    "Special Studies [Signal Coordination & Timing (SCAT)]",
+    "Special Studies- Location Drainage",
+    "Specialty Agents (Relocation Agent)",
+    "Specialty Agents (Review Appraiser)",
+    "Structures (Highway- Simple)",
+    "Structures (Highway: Complex)",
+    "Structures (Moveable)",
+    "Structures (Railroad)",
+    "Structures \u2013 (Highway: Typical)",
+    "Structures- Major River Bridges",
+    "Transportation Studies (Mass Transit)"
+  ],
+  "format_differences": [
+    {
+      "firms_data_format": "Special Services (Construction Inspection)",
+      "lookup_format": "(Special Services) Construction Inspection",
+      "normalized": "special services construction inspection"
+    }
+  ],
+  "firms_affected": {
+    "missing_in_lookup": [
+      {
+        "firm_code": "F004",
+        "firm_name": "2IM GROUP",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F005",
+        "firm_name": "4HD INC",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F008",
+        "firm_name": "ABNA ENGINEERING, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F009",
+        "firm_name": "Acclaim Collier Engineering",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F015",
+        "firm_name": "AECOM TECHNICAL SERVICES, INC.",
+        "affected_prequals": [
+          "Airports (Master Planning: Airport Layout Plans (ALP))",
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F016",
+        "firm_name": "Allied Engineering P.C.",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F018",
+        "firm_name": "American Engineering Consultants, Inc.",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F021",
+        "firm_name": "AMERICAN SURVEYING & ENGINEERING, Ltd.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F024",
+        "firm_name": "ANDREWS ENGINEERING, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F025",
+        "firm_name": "Angelo Construction Services, Inc.",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F031",
+        "firm_name": "APS CONSULTING, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F032",
+        "firm_name": "Aqua Vitae Engineering, LLC",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F034",
+        "firm_name": "ARCADIS U.S., Inc.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F035",
+        "firm_name": "ARK ENGINEERING ASSOCIATES, LTD.",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F036",
+        "firm_name": "Arora and Associates, P.C.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F037",
+        "firm_name": "ARTISAN CONSULTING ENGINEERS, LLC",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F038",
+        "firm_name": "ASK Engineering, PLLC",
+        "affected_prequals": [
+          "Structures (Highway: Simple)"
+        ]
+      },
+      {
+        "firm_code": "F040",
+        "firm_name": "AtkinsR\u00e9alis USA Inc.",
+        "affected_prequals": [
+          "Airports (Master Planning: Airport Layout Plans (ALP))"
+        ]
+      },
+      {
+        "firm_code": "F041",
+        "firm_name": "ATLAS ENGINEERING GROUP",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F042",
+        "firm_name": "Atlas Technical Consultants LLC",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F043",
+        "firm_name": "AYRES ASSOCIATES, INC.",
+        "affected_prequals": [
+          "Special Services - Aerial Mapping/LiDAR"
+        ]
+      },
+      {
+        "firm_code": "F044",
+        "firm_name": "BACON FARMER WORKMAN ENGR. & TESTNG",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F045",
+        "firm_name": "Bartlett & West, Inc.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F047",
+        "firm_name": "BAXTER & WOODMAN, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F050",
+        "firm_name": "BEHNKE MATERIALS ENGINEERING, LLC",
+        "affected_prequals": [
+          "Special Services (Quality Assurance: QA HMA & Aggregate)"
+        ]
+      },
+      {
+        "firm_code": "F051",
+        "firm_name": "BENESCH, ALFRED & CO.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F052",
+        "firm_name": "BENTON ENGINEERING",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F054",
+        "firm_name": "BLA, Inc.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F056",
+        "firm_name": "BLOOM COMPANIES, LLC",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F058",
+        "firm_name": "Bowman Consulting Group",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F061",
+        "firm_name": "BROWN & ROBERTS, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F065",
+        "firm_name": "BURKE, CHRISTOPHER B. ENG., LTD.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F066",
+        "firm_name": "Burns & McDonnell Engineering Company, Inc.",
+        "affected_prequals": [
+          "Airports (Master Planning: Airport Layout Plans (ALP))",
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F067",
+        "firm_name": "C.C. Johnson & Malhotra, P.C.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F073",
+        "firm_name": "CDM SMITH INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F074",
+        "firm_name": "CEMCON LTD.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F075",
+        "firm_name": "CEP Engineering, LLC",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F079",
+        "firm_name": "CHAMLIN & ASSOC., INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F080",
+        "firm_name": "Chastain & Associates LLC",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F085",
+        "firm_name": "CIORBA GROUP, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F087",
+        "firm_name": "CIVIL DESIGN, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F088",
+        "firm_name": "CIVILTECH ENGINEERING, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F089",
+        "firm_name": "CKL Engineers, LLC",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F091",
+        "firm_name": "CLARK DIETZ, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F093",
+        "firm_name": "COLLINS ENGINEERS, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F096",
+        "firm_name": "Comprehensive Construction Consulting, Inc.",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F097",
+        "firm_name": "COTTER CONSULTING, INC.",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F098",
+        "firm_name": "CRAWFORD, MURPHY, & TILLY, INC.",
+        "affected_prequals": [
+          "Airports (Master Planning: Airport Layout Plans (ALP))",
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F106",
+        "firm_name": "DAVID ENGINEERING, LLC",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F112",
+        "firm_name": "DESIGN CONSULTING ENGINEERS, INC.",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F116",
+        "firm_name": "DLZ ILLINOIS, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F119",
+        "firm_name": "DONOHUE & ASSOCIATES, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F123",
+        "firm_name": "EFK MOEN, LLC",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F128",
+        "firm_name": "ENGINEERING RESOURCE ASSOC., INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F130",
+        "firm_name": "ENVIRONMENTAL DESIGN INTERNATIONAL",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F131",
+        "firm_name": "EPSTEIN, A. & SONS INTERN., INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F133",
+        "firm_name": "ESCA CONSULTANTS, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F135",
+        "firm_name": "exp US Services, Inc.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F137",
+        "firm_name": "FARNSWORTH GROUP, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F138",
+        "firm_name": "FEHR-GRAHAM & ASSOC. LLC",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F139",
+        "firm_name": "FLUIDCLARITY",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F140",
+        "firm_name": "Foundation Mechanics, LLC",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F142",
+        "firm_name": "FUHRMANN ENGINEERING, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F144",
+        "firm_name": "Garver, LLC",
+        "affected_prequals": [
+          "Airports (Master Planning: Airport Layout Plans (ALP))"
+        ]
+      },
+      {
+        "firm_code": "F146",
+        "firm_name": "Gasperec Elberts Consulting, LLC",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F151",
+        "firm_name": "GEORGE BUTLER ASSOCIATES, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F155",
+        "firm_name": "GEWALT HAMILTON ASSOC., INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F156",
+        "firm_name": "GFT Infrastructure, Inc",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F159",
+        "firm_name": "GONZALEZ COMPANIES, LLC",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F160",
+        "firm_name": "GRAEF-USA INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F161",
+        "firm_name": "GREENE & BRADFORD, INC., OF SPFLD.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F164",
+        "firm_name": "GSG CONSULTANTS, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F166",
+        "firm_name": "Gulaid Consulting Engineers, P.C.",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F167",
+        "firm_name": "H K M Engineers, LLC",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F168",
+        "firm_name": "H.N.T.B. CORP.",
+        "affected_prequals": [
+          "Airports (Master Planning: Airport Layout Plans (ALP))",
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F169",
+        "firm_name": "HAMPTON, LENZINI AND RENWICK, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F171",
+        "firm_name": "HANSON PROFESSIONAL SERVICES INC.",
+        "affected_prequals": [
+          "Airports (Master Planning: Airport Layout Plans (ALP))",
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F173",
+        "firm_name": "HBK ENGINEERING, LLC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F174",
+        "firm_name": "HBM ENGINEERING GROUP, LLC",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F175",
+        "firm_name": "HDR ENGINEERING, INC.",
+        "affected_prequals": [
+          "Airports (Master Planning: Airport Layout Plans (ALP))",
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F177",
+        "firm_name": "HELIX ENGINEERING LLC",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F179",
+        "firm_name": "HENRY, MEISENHEIMER & GENDE, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F181",
+        "firm_name": "HEY AND ASSOC., INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F185",
+        "firm_name": "HORNER & SHIFRIN, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F186",
+        "firm_name": "HR Green, Inc.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F189",
+        "firm_name": "HURST-ROSCHE, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F190",
+        "firm_name": "HUTCHISON ENGINEERING, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F191",
+        "firm_name": "Illinois Construction & Environmental Consulting, Inc.",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F193",
+        "firm_name": "IMEG Consultants Corp.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F196",
+        "firm_name": "INFRASTRUCTURE ENGINEERING, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F201",
+        "firm_name": "J.T. Blankinship Inc",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F202",
+        "firm_name": "JACOBS ENGINEERING GROUP, INC.",
+        "affected_prequals": [
+          "Airports (Master Planning: Airport Layout Plans (ALP))",
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F210",
+        "firm_name": "JT Engineering, Inc.",
+        "affected_prequals": [
+          "Location Design Studies - Reconstruction/Major Rehabilitation"
+        ]
+      },
+      {
+        "firm_code": "F212",
+        "firm_name": "JUNEAU ASSOC., INC., P.C.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F216",
+        "firm_name": "KASKASKIA ENGINEERING GROUP, LLC",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F219",
+        "firm_name": "KIMLEY-HORN AND ASSOC., INC.",
+        "affected_prequals": [
+          "Airports (Master Planning: Airport Layout Plans (ALP))",
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F220",
+        "firm_name": "KLINGNER & ASSOC., P.C.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F224",
+        "firm_name": "LAKESHORE ENGINEERING, LLC",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F226",
+        "firm_name": "LANDRUM & BROWN, INCORPORATED",
+        "affected_prequals": [
+          "Airports (Master Planning: Airport Layout Plans (ALP))"
+        ]
+      },
+      {
+        "firm_code": "F230",
+        "firm_name": "LIN ENGINEERING, LTD.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F231",
+        "firm_name": "LIN, T. Y. INTERN.GREAT LAKES, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F232",
+        "firm_name": "Lochmueller Group, Inc.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F233",
+        "firm_name": "LOCHNER, H. W., INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F235",
+        "firm_name": "M SQUARED ENGINEERING, LLC",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F237",
+        "firm_name": "M3 ENGINEERING GROUP, P.C.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F238",
+        "firm_name": "MACKIE CONSULTANTS, LLC",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F241",
+        "firm_name": "Marine Solutions, Inc.",
+        "affected_prequals": [
+          "Structures (Highway: Simple)"
+        ]
+      },
+      {
+        "firm_code": "F242",
+        "firm_name": "Marr Arnold Planning, LLC",
+        "affected_prequals": [
+          "Airports (Master Planning: Airport Layout Plans (ALP))"
+        ]
+      },
+      {
+        "firm_code": "F249",
+        "firm_name": "MATERIAL SOLUTIONS LABORATORY CORP.",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F250",
+        "firm_name": "MAURER-STUTZ, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F251",
+        "firm_name": "McClure Engineering Co.",
+        "affected_prequals": [
+          "Airports (Master Planning: Airport Layout Plans (ALP))"
+        ]
+      },
+      {
+        "firm_code": "F253",
+        "firm_name": "Mead and Hunt, Inc.",
+        "affected_prequals": [
+          "Airports (Master Planning: Airport Layout Plans (ALP))"
+        ]
+      },
+      {
+        "firm_code": "F256",
+        "firm_name": "Michael Baker International, Inc.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F261",
+        "firm_name": "MILHOUSE ENG. & CONSTRUCTION, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F262",
+        "firm_name": "MILLENNIA PROF. SERVICES, LTD.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F263",
+        "firm_name": "MODJESKI & MASTERS, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F267",
+        "firm_name": "Mott MacDonald, LLC",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F275",
+        "firm_name": "NV5 Geospatial, Inc.",
+        "affected_prequals": [
+          "Special Services - Aerial Mapping/LiDAR"
+        ]
+      },
+      {
+        "firm_code": "F276",
+        "firm_name": "OATES ASSOC., INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F280",
+        "firm_name": "Origin Design Co.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F284",
+        "firm_name": "PARSONS TRANSPORTATION GROUP, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F285",
+        "firm_name": "PATRICK ENGINEERING, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F286",
+        "firm_name": "PDF Engineering, LLC",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F287",
+        "firm_name": "PERALTE-CLARK LLC",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F291",
+        "firm_name": "POEPPING, STONE, BACH & ASSOC., INC",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F293",
+        "firm_name": "POSTL - YORE AND ASSOCIATES, INC",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F295",
+        "firm_name": "Prairie Engineers, P.C.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F296",
+        "firm_name": "PRIMERA ENGINEERS, LTD.",
+        "affected_prequals": [
+          "Airports (Master Planning: Airport Layout Plans (ALP))",
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F297",
+        "firm_name": "Princeton Technical Services, Inc.",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F298",
+        "firm_name": "Program Management & Control Services, LLC (PMCS)",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F302",
+        "firm_name": "QUIGG ENGINEERING, INC.",
+        "affected_prequals": [
+          "Airports (Master Planning: Airport Layout Plans (ALP))",
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F305",
+        "firm_name": "Range Engineering Inc",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F311",
+        "firm_name": "RS&H, Inc.",
+        "affected_prequals": [
+          "Airports (Master Planning: Airport Layout Plans (ALP))",
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F318",
+        "firm_name": "SANCHEZ & ASSOCIATES, P.C.",
+        "affected_prequals": [
+          "Special Services - Aerial Mapping/LiDAR"
+        ]
+      },
+      {
+        "firm_code": "F326",
+        "firm_name": "SHEPPARD, MORGAN & SCHWAAB, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F328",
+        "firm_name": "SHIVE-HATTERY, INC",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F332",
+        "firm_name": "SINGH & ASSOC., INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F334",
+        "firm_name": "SKI Engineering, LLC",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F338",
+        "firm_name": "SPAAN TECH, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F340",
+        "firm_name": "SQN ASSOCIATES, LLC",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F344",
+        "firm_name": "STANTEC CONSULTING SERVICES",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F345",
+        "firm_name": "State Materials Engineering, LLC (DBA S.T.A.T.E. Testing, LLC",
+        "affected_prequals": [
+          "Special Services (Quality Assurance: QA HMA & Aggregate)"
+        ]
+      },
+      {
+        "firm_code": "F347",
+        "firm_name": "STRAND ASSOC., INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F351",
+        "firm_name": "STV INCORPORATED",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F352",
+        "firm_name": "Surveying and Mapping, LLC",
+        "affected_prequals": [
+          "Special Services - Aerial Mapping/LiDAR"
+        ]
+      },
+      {
+        "firm_code": "F355",
+        "firm_name": "Synnov Group, Inc.",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F360",
+        "firm_name": "TERRA ENGINEERING, LTD.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F364",
+        "firm_name": "The Aviation Planning Group, LLC",
+        "affected_prequals": [
+          "Airports (Master Planning: Airport Layout Plans (ALP))"
+        ]
+      },
+      {
+        "firm_code": "F370",
+        "firm_name": "THOMAS ENGINEERING GROUP, LLC",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F373",
+        "firm_name": "THOUVENOT, WADE AND MOERCHEN, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F374",
+        "firm_name": "TKDA(TOLTZ, KING, DUVALL, ANDERSON)",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F378",
+        "firm_name": "TranSmart, LLC",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F379",
+        "firm_name": "TRANSYSTEMS CORPORATION",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F380",
+        "firm_name": "TREKK Design Group, LLC",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F381",
+        "firm_name": "Triant Professional Services, PLLC",
+        "affected_prequals": [
+          "Special Services (Construction Inspection)"
+        ]
+      },
+      {
+        "firm_code": "F383",
+        "firm_name": "TROTTER AND ASSOCIATES, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F390",
+        "firm_name": "V3 Companies, Ltd.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F394",
+        "firm_name": "VEENSTRA & KIMM, INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F396",
+        "firm_name": "Volkert, Inc.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F399",
+        "firm_name": "WBK Engineering, LLC",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F406",
+        "firm_name": "WGI, Inc.",
+        "affected_prequals": [
+          "Special Services - Aerial Mapping/LiDAR"
+        ]
+      },
+      {
+        "firm_code": "F408",
+        "firm_name": "WHKS & CO.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F410",
+        "firm_name": "WIGHT AND COMPANY",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F411",
+        "firm_name": "WILLETT, HOFMANN & ASSOC., INC.",
+        "affected_prequals": [
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      },
+      {
+        "firm_code": "F413",
+        "firm_name": "WOOLPERT, INC.",
+        "affected_prequals": [
+          "Airports (Master Planning: Airport Layout Plans (ALP))"
+        ]
+      },
+      {
+        "firm_code": "F415",
+        "firm_name": "WSP USA Inc.",
+        "affected_prequals": [
+          "Airports - Design: Complex Electrica",
+          "Airports (Master Planning: Airport Layout Plans (ALP))",
+          "Hydraulic Reports (Waterways: Typical)"
+        ]
+      }
+    ]
+  },
+  "recommendations": [
+    {
+      "type": "add_to_lookup",
+      "title": "Add Missing Categories to prequal_lookup.json",
+      "description": "Add 8 categories that exist in firms_data.json but not in prequal_lookup.json",
+      "categories": [
+        "Airports (Master Planning: Airport Layout Plans (ALP))",
+        "Airports - Design: Complex Electrica",
+        "Hydraulic Reports (Waterways: Typical)",
+        "Location Design Studies - Reconstruction/Major Rehabilitation",
+        "Special Services (Construction Inspection)",
+        "Special Services (Quality Assurance: QA HMA & Aggregate)",
+        "Special Services - Aerial Mapping/LiDAR",
+        "Structures (Highway: Simple)"
+      ],
+      "impact": "Affects 166 firms"
+    },
+    {
+      "type": "add_to_firms_data",
+      "title": "Add Missing Categories to firms_data.json",
+      "description": "Add 26 categories that exist in prequal_lookup.json but not in firms_data.json",
+      "categories": [
+        "(Special Services) Construction Inspection",
+        "Airports (Master Planning:Airport Layout Plans (ALP))",
+        "Hydraulic Reports (Waterways: Two-Dimensional Hydraulics (2D))",
+        "Hydraulic Reports - Waterways: Typical",
+        "Location Design Studies (New Construction:Major Reconstruction)",
+        "Location/ Design Studies (Reconstruction/Major Rehabilitation)",
+        "Special Plans (Pumping Stations)",
+        "Special Services (Aerial Mapping)",
+        "Special Services (Asbestos Abatement Surveys)",
+        "Special Services (Mobile LiDAR)",
+        "Special Services (Quality Assurance HMA & Aggregate)",
+        "Special Services (Quality Assurance: QA PCC & Aggregate)",
+        "Special Studies (Feasibility)",
+        "Special Studies (Safety)",
+        "Special Studies (Traffic)",
+        "Special Studies [Signal Coordination & Timing (SCAT)]",
+        "Special Studies- Location Drainage",
+        "Specialty Agents (Relocation Agent)",
+        "Specialty Agents (Review Appraiser)",
+        "Structures (Highway- Simple)",
+        "Structures (Highway: Complex)",
+        "Structures (Moveable)",
+        "Structures (Railroad)",
+        "Structures \u2013 (Highway: Typical)",
+        "Structures- Major River Bridges",
+        "Transportation Studies (Mass Transit)"
+      ],
+      "impact": "Would provide complete coverage of all bulletin categories"
+    },
+    {
+      "type": "fix_formats",
+      "title": "Standardize Format Differences",
+      "description": "Fix 1 format differences between similar categories",
+      "differences": [
+        {
+          "firms_data_format": "Special Services (Construction Inspection)",
+          "lookup_format": "(Special Services) Construction Inspection",
+          "normalized": "special services construction inspection"
+        }
+      ],
+      "impact": "Would improve matching accuracy"
+    }
+  ]
+}

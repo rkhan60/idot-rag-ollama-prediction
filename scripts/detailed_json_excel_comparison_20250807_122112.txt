@@ -1,0 +1,62 @@
+DETAILED JSON vs IDOT EXCEL COMPARISON REPORT
+============================================================
+
+EXECUTIVE SUMMARY
+--------------------
+Date: 2025-08-07 12:21:12
+Purpose: Identify specific discrepancies between JSON files and IDOT Excel
+
+IDOT EXCEL ANALYSIS
+--------------------
+IDOT Consultant Firms Sheet: 1 firms
+PrequalReport Sheet: 3520 firms
+Total IDOT Firms: 3521
+
+FIRM NAME COMPARISON
+--------------------
+Firms JSON Count: 415
+Award JSON Count: 644
+IDOT Excel Count: 414
+
+FIRMS IN JSON BUT NOT IN IDOT EXCEL:
+  - CBB
+
+FIRMS IN IDOT EXCEL BUT NOT IN JSON:
+
+Prequal JSON vs Lookup Comparison
+-----------------------------------
+Lookup Categories: 61
+JSON Categories: 61
+Common Categories: 4
+
+FIRM COUNT DISCREPANCIES:
+
+SPECIFIC PROBLEMS IDENTIFIED
+-----------------------------------
+FIRM NAME MISMATCHES:
+  - Firms in JSON but not in IDOT Excel: 1 firms
+  - Firms in IDOT Excel but not in JSON: 0 firms
+  - Low overlap between sources: 20 common firms
+
+CATEGORY MISMATCHES:
+  - Categories missing in JSON: 57
+  - Categories missing in lookup: 57
+  - Firm count discrepancies: 0 categories
+
+DATA QUALITY ISSUES:
+  - IDOT Excel missing firm names: 46 records
+  - Award JSON missing job numbers: 4 records
+  - Award JSON missing firm names: 12 records
+
+MISSING DATA:
+  - Improved mapping covers only 34/61 categories (54.1%)
+  - IDOT Excel has limited firm data (only 1 firm in Consultant Firms sheet)
+  - Prequal JSON files may have inconsistent firm counts
+
+RECOMMENDATIONS
+---------------
+1. Standardize firm names across all sources
+2. Investigate IDOT Excel data quality issues
+3. Verify prequal JSON file firm counts
+4. Improve category mapping coverage
+5. Cross-validate with official IDOT sources
