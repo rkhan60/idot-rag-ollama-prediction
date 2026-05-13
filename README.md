@@ -8,14 +8,15 @@ plus Ollama-LLM-derived training insights.
 
 | Metric | V3 | V4 | **V5** (current) |
 |---|---|---|---|
-| Real Top-3 (PTB190–200, vs award.xlsx) | 31.4% | 36.0% | **43.0%** |
-| Winner-in-Top-3 (PTB190–200) | 16.8% | 16.5% | **20.2%** |
+| Real Top-3 (PTB190–200, vs award.xlsx) | 31.4% | 36.0% | **37.8%** |
+| Winner-in-Top-3 (PTB190–200) | 16.8% | 16.5% | **17.3%** |
 | Random baseline | ~1.5% | ~1.5% | ~1.5% |
 
 **V3** = TF-IDF RAG + district/prequal win counts (winners only)
 **V4** = V3 + First/Second Alternates as 0.5/0.3-weighted soft wins
-**V5** = V4 + IDOT quarterly cooldown rule: a firm that wins in bulletin N
-is hard-filtered out of bulletin N+1 (across all districts/prequal types).
+**V5** = V4 + IDOT district-scoped quarterly cooldown rule: a firm that
+wins in district D in bulletin N is hard-filtered out of district D
+in bulletin N+1 (still eligible in other districts).
 
 Real ground truth = SELECTED FIRM + First Alternate + Second Alternate
 columns in `data/award.xlsx`.
@@ -107,7 +108,7 @@ The comparison script writes a multi-sheet Excel into `results/`:
 | Sub-consultants | not used | use 70.9%-coverage `SUBCONSULTANTS` column to learn team-frequency |
 | Fee Estimate | not used | size-bracket categorical feature |
 | First / Second Alternate | **DONE in V4** | weighted 0.5 / 0.3 in district-wins, prequal-wins, RAG |
-| Quarterly cooldown rule | **DONE in V5** | hard-filter firms that won in bulletin N-1 |
+| District-scoped quarterly cooldown | **DONE in V5** | hard-filter (firm, district) pairs that won in N-1 |
 | DBE detection | not used | parse bulletin for DBE-required, prefer DBE primes |
 | Geographic distance | coarse | city→county distance instead of just district letter |
 | Temporal decay | linear | exponential decay `0.95^Δbulletin` |
