@@ -43,3 +43,7 @@ logs/
 
 # Ollama training cache
 ollama_training_results.json
+
+# Large generated report files (>50MB)
+scripts/focused_ptb_160_170_report_20250812_135439.json
+scripts/ptb_160_170_analysis_report_20250812_135319.json
