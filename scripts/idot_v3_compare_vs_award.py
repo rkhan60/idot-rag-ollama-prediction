@@ -28,6 +28,7 @@ import numpy as np
 # Reuse the V3 engine (same directory)
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from idot_v3_improved_system import IDOTv3System, normalize_firm_name
+from idot_v4_alternates_system import IDOTv4System
 
 
 # --------------------------------------------------------------------------
@@ -60,9 +61,15 @@ def first_match(predicted_names, ground_truth_names):
 # --------------------------------------------------------------------------
 
 def run_comparison(start_bulletin, end_bulletin,
-                   data_dir='../data/', output_dir='../results/'):
+                   data_dir='../data/', output_dir='../results/',
+                   model_version='v3'):
 
-    system = IDOTv3System()
+    if model_version == 'v4':
+        system = IDOTv4System()
+        version_label = 'IDOT V4 (V3 + weighted alternates)'
+    else:
+        system = IDOTv3System()
+        version_label = 'IDOT V3 Improved'
     system.load_data(data_dir)
 
     # Real results from IDOT
@@ -245,11 +252,11 @@ def run_comparison(start_bulletin, end_bulletin,
     ts = datetime.now().strftime('%Y%m%d_%H%M%S')
     out_path = os.path.join(
         output_dir,
-        f'IDOTv3_VS_Award_PTB{start_bulletin}_{end_bulletin}_{ts}.xlsx'
+        f'IDOT{model_version.upper()}_VS_Award_PTB{start_bulletin}_{end_bulletin}_{ts}.xlsx'
     )
 
     summary_df = pd.DataFrame([
-        {'Metric': 'System', 'Value': 'IDOT V3 Improved (RAG + Ollama insights)'},
+        {'Metric': 'System', 'Value': version_label},
         {'Metric': 'Bulletin Range', 'Value': f'PTB{start_bulletin} – PTB{end_bulletin}'},
         {'Metric': 'Ground Truth Source', 'Value': 'data/award.xlsx (official IDOT results)'},
         {'Metric': 'Top-3 Definition', 'Value': 'SELECTED FIRM + First Alternate + Second Alternate'},
@@ -293,4 +300,5 @@ def run_comparison(start_bulletin, end_bulletin,
 if __name__ == '__main__':
     start = int(sys.argv[1]) if len(sys.argv) > 1 else 190
     end = int(sys.argv[2]) if len(sys.argv) > 2 else 200
-    run_comparison(start, end)
+    version = sys.argv[3] if len(sys.argv) > 3 else 'v3'
+    run_comparison(start, end, model_version=version)
